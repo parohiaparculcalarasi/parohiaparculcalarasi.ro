@@ -1,0 +1,378 @@
+[404_title]
+other = "Pagina nu a fost gasită."
+
+[404_info]
+other = "Se pare că nu putem găsi pagina pe care o cauți."
+
+[about_me]
+other = "Despre noi"
+
+[actions]
+other = "Acțiuni"
+
+[alipay]
+other = "Alipay"
+
+[all]
+other = "Toate"
+
+[archives]
+other = "Arhive"
+
+[authors]
+other = "Autori"
+
+[button_copy_url]
+other = "Copiază calea"
+
+[button_reload]
+other = "Reîncarcă"
+
+[button_social_share]
+other = "Distribuie"
+
+[button_submit]
+other = "Trimite"
+
+[buy_me_a_coffee]
+other = "Cumpără-mi o cafea"
+
+[categories]
+other = "Categorii"
+
+[color_blue]
+other = "Albastru"
+
+[color_blue_gray]
+other = "Blue Gray"
+
+[color_brown]
+other = "Maro"
+
+[color_cyan]
+other = "Cyan"
+
+[color_green]
+other = "Verde"
+
+[color_indigo]
+other = "Indigo"
+
+[color_orange]
+other = "Portocaliu"
+
+[color_pink]
+other = "Roz"
+
+[color_purple]
+other = "Violet"
+
+[color_red]
+other = "Roșu"
+
+[color_teal]
+other = "Teal"
+
+[color_yellow]
+other = "Galben"
+
+[comments]
+other = "Comentarii"
+
+[comments_email]
+other = "E-mail"
+
+[comments_message]
+other = "Mesaj"
+
+[comments_name]
+other = "Nume"
+
+[comments_reply]
+other = "Reply"
+
+[comments_reply_to]
+other = "Reply to"
+
+[comments_submit]
+other = "Submit"
+
+[comments_url]
+other = "URL"
+
+[contact_name]
+other = "Name"
+
+[contact_email]
+other = "Email"
+
+[contact_email_help]
+other = "Nu vom divulga niciodată e-mailul dvs."
+
+[contact_file]
+other = "Fișier"
+
+[contact_subject]
+other = "Subiect"
+
+[contact_message]
+other = "Mesaj"
+
+[copyright]
+other = "Drepturi de autor "
+
+[featured_posts]
+other = "Articole recomandate"
+
+[font_size]
+other = "Dimensiune Font"
+
+[font_size_lg]
+other = "Large"
+
+[font_size_md]
+other = "Medium"
+
+[font_size_sm]
+other = "Small"
+
+[font_size_xl]
+other = "Extra Large"
+
+[font_size_xs]
+other = "Extra Small"
+
+[go_back]
+other = "Mergi înapoi"
+
+[home]
+other = "Acasă"
+
+[language]
+other = "Limbă"
+
+[liberapay]
+other = "Liberapay"
+
+[load_more]
+other = "Încarcă mai mult"
+
+[mode]
+other = "Mod"
+
+[noscript_info]
+other = "Browser-ul tău nu suportă JavaScript."
+
+[offline_title]
+other = "Ești offline."
+
+[offline_info]
+other = "Se pare că există o problemă cu conexiunea dvs. Vă rugăm să verificați starea rețelei dvs."
+
+[pagination_title]
+other = "Pagina {{ .PageNumber }}"
+
+[palette]
+other = "Paletă"
+
+[patreon]
+other = "Patreon"
+
+[paypal]
+other = "Paypal"
+
+[post_count]
+one = "{{ .Count }} articol în total"
+other = "{{ .Count }} articole în total"
+
+[post_date]
+other = "creatla {{ .createdOn }}{{ with .updatedOn }}, modificat la {{ . }}{{ end }}."
+
+[posts]
+other = "Articole"
+
+[profile]
+other = "Profil"
+
+[read_more]
+other = "Citește mai mult"
+
+[reading_time]
+other = "Se citește în {{ .ReadingTime }} minute"
+
+[recent_posts]
+other = "Articole recente"
+
+[related_posts]
+other = "Articole asemănătoare"
+
+[repo_action_edit]
+other = "Editează această pagină"
+
+[repo_action_view]
+other = "Vezi sursa paginii"
+
+[repo_title]
+other = "Repository"
+
+[search]
+other = "Caută"
+
+[search_advanced]
+other = "Avansat"
+
+[search_date]
+other = "Dată"
+
+[search_missing_keywords]
+other = "Vă rugăm să introduceți cuvintele cheie de căutare."
+
+[search_no_results]
+other = "Nici un rezultat găsit."
+
+[search_score]
+other = "Scor"
+
+[search_sorting]
+other = "Sortare"
+
+[search_stat]
+other = "S-au găsit {{ .Total }} rezultate."
+
+[sections]
+other = "Secțiuni"
+
+[series]
+other = "Revistă"
+
+[settings]
+other = "Setări"
+
+[social_artstation]
+other = "ArtStation"
+
+[social_bilibili]
+other = "Bilibili"
+
+[social_bitbucket]
+other = "Bitbucket"
+
+[social_discord]
+other = "Discord"
+
+[social_discourse]
+other = "Discourse"
+
+[social_dockerhub]
+other = "Docker Hub"
+
+[social_email]
+other = "Email"
+
+[social_facebook]
+other = "Facebook"
+
+[social_facebookgroup]
+other = "Facebook Group"
+
+[social_github]
+other = "GitHub"
+
+[social_gitlab]
+other = "GitLab"
+
+[social_instagram]
+other = "Instagram"
+
+[social_kaggle]
+other = "Kaggle"
+
+[social_lastfm]
+other = "Last.fm"
+
+[social_liberapay]
+other = "Liberapay"
+
+[social_linkedin]
+other = "LinkedIn"
+
+[social_mastodon]
+other = "Mastodon"
+
+[social_medium]
+other = "Medium"
+
+[social_patreon]
+other = "Patreon"
+
+[social_paypal]
+other = "PayPal"
+
+[social_pinterest]
+other = "Pinterest"
+
+[social_qq]
+other = "QQ"
+
+[social_quora]
+other = "Quora"
+
+[social_reddit]
+other = "Reddit"
+
+[social_rss]
+other = "RSS"
+
+[social_stackoverflow]
+other = "Stack Overflow"
+
+[social_telegram]
+other = "Telegram"
+
+[social_tipeee]
+other = "Tipeee"
+
+[social_tiktok]
+other = "TikTok"
+
+[social_tumblr]
+other = "Tumblr"
+
+[social_twitter]
+other = "Twitter"
+
+[social_website]
+other = "Website"
+
+[social_weibo]
+other = "Weibo"
+
+[social_xing]
+other = "XING"
+
+[social_youtube]
+other = "YouTube"
+
+[social_zhihu]
+other = "Zhihu"
+
+[stats]
+other = "Stats"
+
+[table_of_contents]
+other = "Cuprins"
+
+[tags]
+other = "Etichete"
+
+[taxonomies]
+other = "Taxonomii"
+
+[tipeee]
+other = "Tipeee"
+
+[try_again]
+other = "Încearcă din nou"
+
+[wechat]
+other = "WeChat"

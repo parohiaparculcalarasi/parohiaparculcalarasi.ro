@@ -1,8 +1,8 @@
-baseURL: /
-title: Hugo Bootstrap Skeleton
-theme: github.com/razonyang/hugo-theme-bootstrap
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
-defaultContentLanguage: en
+baseURL: 'http://parohia-parcul-calarasi.ro'
+title: Parohia Parcul Călărași, Biserica Sfinții Împărați Constantin și Elena
+theme: hugo-theme-bootstrap
+copyright: 'Copyright © {year} Parohia Parcul Călărași. Toate drepturile rezervate.'
+defaultContentLanguage: ro
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
 # disableLanguages:

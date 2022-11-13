@@ -1,0 +1,1 @@
+https://github.com/razonyang/hugo-theme-bootstrap/blob/master/exampleSite/content/docs/getting-started/installation/git-submodule/index.md

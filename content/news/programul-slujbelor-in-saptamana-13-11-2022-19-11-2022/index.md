@@ -1,6 +1,6 @@
 ---
 # type: docs 
-title: More Image Processing Methods
+title: Programul slujbelor în săptămâna 13-11-2022 - 19-11-2022
 date: 2022-07-08T11:34:47+08:00
 featured: true
 draft: false
@@ -8,16 +8,12 @@ comment: true
 toc: true
 reward: true
 pinned: false
-carousel: true
+carousel: false
 series:
   - News
 categories:
   - Image
 tags: 
-  - Crop
-  - Fit
-  - Fill
-  - Filters
 authors:
   - RazonYang
 images: []

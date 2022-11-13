@@ -1,28 +1,22 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo"]
-author = "Hugo Authors"
+title = "Istoric"
+description = "Parohia Parcul Călărași, Biserica Sfinții Împărați Constantin și Elena"
+date = "2022-02-28"
+aliases = ["about-us"]
+author = "Parohia Parcul Călărași"
 reward = false
 postDate = false
 readingTime = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Biserica se află în partea de est a Capitalei, la „Bariera Vergului”. Construcția bisericii a început în anul 1942, în timpul guvernării Mareșalului Ion Antonescu, care a sprijinit masiv lucrările de construire și al cărui tablou votiv se află în pronaos.
 
-Hugo makes use of a variety of open source projects including:
+Prin stăruința preotului Constantin Sârbu și a renumitului doctor Victor Gomoiu, epitrop, lucrările de ridicare a sfântului lăcaș au fost terminate în anul 1949. La construirea bisericii au ajutat și enoriașii parohiei.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Planurile au fost întocmite de arhitect Spiridon Nicolau, iar calculele de rezistență de către inginerul A. Beles.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Pictura bisericii a fost executată de pictorul Eremia Profeta, în frescă neobizantină, în anul 1964. În biserică există tabloul P.F. Părinte Iustinian Marina.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Biserica Vergului, cu o singură turlă și puternice frontoane în față și în spate, este una monumentală, amintind de Biserica Domnească din Câmpulung-Muscel.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Catapeteasma, sculptată în lemn de cireș și stejar, conține elemente figurative și decorative din folclorul românesc. Între anii 2000 și 200?, biserica a fost consolidată și restaurată prin grija preoților slujitori: Pr. prof. dr. Dumitru Radu și Pr. Ion Protopopescu. De asemenea, pictura a fost restaurată de pictor Elena Vasilescu. Biserica a fost împodobită prin grija credincioșilor cu noi candelabre aduse din Grecia.

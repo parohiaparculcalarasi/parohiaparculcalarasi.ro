@@ -1,3 +1,13 @@
+ro:
+  languageName: Română
+  weight: 1
+  params:
+    dateFormat: 02-01-2006
+    description: Parohia Parcul Călărași, Biserica Sfinții Împărați Constantin și Elena
+    keywords: Dumnezeu, Parohia Parcul Călărași, Biserica Sfinții Împărați Constantin și Elena
+    archive:
+      dateFormat: 2 January
+
 en:
   languageName: English
   weight: 1
