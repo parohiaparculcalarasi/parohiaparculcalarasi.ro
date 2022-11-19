@@ -2,6 +2,11 @@ mainSections:
   - blog
   - posts
   - news
+  - istorie
+  - actualitate
+  - patristica
+  - cuvant-duhovnicesc
+  - revista
 
 # titleSeparator: | # Title separator. Default to -.
 
@@ -17,7 +22,7 @@ keywords: Hugo, Bootstrap, Blog Theme
 # logo: false # Disable Logo
 brand: ' '
 
-palette: blue # Default palette. Optional. You'll need to clear the browser cache after modifying this.
+palette: red # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
 # palettes:
 #  - blue
@@ -78,7 +83,7 @@ customJS:
 
 tocWordCount: 1 # TOC is displayed only if the post's word count exceeds this value.
 
-titleCase: true # Capitalized title.
+titleCase: false # Capitalized title.
 
 viewer: true # Image Viewer
 

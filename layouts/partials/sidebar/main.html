@@ -1,0 +1,12 @@
+{{- partialCached "sidebar/profile" . .Site }}
+{{- partialCached "sidebar/programul-slujbelor" . }}
+{{- partialCached "sidebar/calendar-ortodox" . }}
+<!--{{- partialCached "sidebar/taxonomies-toggle" . }}-->
+{{- partialCached "sidebar/posts-toggle" . }}
+{{- if ne "content" .Site.Params.tocPosition }}
+{{- partial "sidebar/toc" . }}
+{{- end }}
+{{- partialCached "sidebar/featured-posts" . .Section }}
+{{- partialCached "sidebar/recent-posts" . .Section }}
+{{- partialCached "sidebar/taxonomies" . }}
+{{- partialCached "sidebar/archive" . }}

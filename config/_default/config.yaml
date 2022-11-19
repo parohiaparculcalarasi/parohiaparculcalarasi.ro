@@ -1,7 +1,7 @@
-baseURL: 'http://parohia-parcul-calarasi.ro'
-title: Parohia Parcul Călărași, Biserica Sfinții Împărați Constantin și Elena
+baseURL: 'http://parohiaparculcalarasi.ro'
+title: Parohia Parcul Călărași, Biserica „Sfinții Împărați Constantin și Elena” și „Sfânta Cuvioasă Parascheva”
 theme: hugo-theme-bootstrap
-copyright: 'Copyright © {year} Parohia Parcul Călărași. Toate drepturile rezervate.'
+copyright: '© {year} Parohia Parcul Călărași. Toate drepturile rezervate.'
 defaultContentLanguage: ro
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true

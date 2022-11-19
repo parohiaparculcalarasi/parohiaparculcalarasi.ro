@@ -1,0 +1,48 @@
+[data-palette=blue] {
+  --hbs-primary: #212529;
+  --hbs-primary-secondary: #373b3d;
+  --hbs-navbar: #343a40;
+}
+
+[data-palette=red] {
+  --hbs-primary: #c00;
+  //--hbs-primary-secondary: #373b3d;
+  //--hbs-navbar: #343a40;
+}
+
+.top-app-bar .logo:hover {
+  transform: scale(1.1) !important;
+  //transform: none !important;
+}
+
+.bpc-main-image {
+  padding: 20px;
+  border-radius: 26px;
+}
+
+.btn-read-more {
+  float: right;
+}
+
+ul.contact-list {
+  padding-left: 0 !important;
+
+  &>li, &>li>ul {
+    list-style-type: none;
+  }
+}
+
+.doxo-widget-calendar {
+  padding: 0 !important;
+}
+.doxo-table {
+  .view-header {
+    .c-prefix-sufix, .line-header, a {
+      display: none !important;
+    }
+  }
+
+  thead, tbody, tfoot, tr, td, th {
+    border: none !important;
+  }
+}

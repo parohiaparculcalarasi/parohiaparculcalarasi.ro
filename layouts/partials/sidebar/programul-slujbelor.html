@@ -1,0 +1,41 @@
+{{- $collapsed := default false .Site.Params.sidebar.collapsed }}
+<div class="accordion archives">
+  <section class="row card component">
+    <div class="card-header">
+      <h2 class="card-title my-2 fs-4 text-surface d-none d-lg-block">
+        Programul slujbelor
+      </h2>
+      <h6 class="card-subtitle mb-2 text-muted">Noiembrie 2022</h6>
+    </div>
+    <div class="card-body collapse accordion-collapse accordion-body d-lg-block{{ if not $collapsed }} show{{ end }}" id="archives">
+      <ul class="archive-posts post-list list-unstyled ms-1">
+        <li class="mb-2">
+          <strong>Duminică</strong>
+          <ul style="list-style-type: square">
+            <li>08:00 - 12:00 - Utrenie și Sfânta Liturghie</li>
+          </ul>
+        </li>
+        <li class="mb-2">
+          <strong>Miercuri</strong>
+          <ul style="list-style-type: square">
+            <li>17:00 - 18:30 - Vecernie și Acatist</li>
+          </ul>
+        </li>
+        <li class="mb-2">
+          <strong>Vineri</strong>
+          <ul style="list-style-type: square">
+            <li>16:30 - 18:00 - Vecernie și Taina Sfântului Maslu</li>
+            <li>18:00 - 19:00 - Cateheză</li>
+          </ul>
+        </li>
+        <li class="mb-2">
+          <strong>Sâmbătă</strong>
+          <ul style="list-style-type: square">
+            <li>08:00 - 12:00 - Utrenie, Sfânta Liturghie și Parastas</li>
+            <li>17:00 - 19:00 - Vecernie și Litie</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </section>
+</div>
