@@ -32,10 +32,17 @@ ul.contact-list {
   }
 }
 
-.doxo-widget-calendar {
-  padding: 0 !important;
-}
 .doxo-table {
+  margin: 0 !important;
+
+  .doxo-widget-calendar {
+    padding: 0 !important;
+
+    .l-preia {
+      display: none !important;
+    }
+  }
+
   .view-header {
     .c-prefix-sufix, .line-header, a {
       display: none !important;

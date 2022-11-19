@@ -110,7 +110,7 @@ codeBlock:
 post:
   # excerpt: description
   # excerptMaxLength: 120
-  # copyright: false # Whether to display copyright section on each post.
+  copyright: false # Whether to display copyright section on each post.
   # plainifyExcerpt: false # Format excerpt in HTML if false.
   featuredImage: true # Show the featured image above the content.
   numberifyHeadings: true # Count headings automatically.
@@ -207,12 +207,12 @@ search:
   # indexName: ""
   # debug: true
 
-reward:
-  alipay: images/reward/alipay.png
-  wechat: images/reward/wechat.png
-  #paypal: images/reward/paypal.png
-  #patreon: images/reward/patreon.png
-  #liberapay: images/reward/liberapay.png
+#reward:
+#  alipay: images/reward/alipay.png
+#  wechat: images/reward/wechat.png
+#  paypal: images/reward/paypal.png
+#  patreon: images/reward/patreon.png
+#  liberapay: images/reward/liberapay.png
 
 #share:
   #addThis:  # AddThis pubid.

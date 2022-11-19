@@ -1,4 +1,4 @@
 +++
-title = "Contactează-ne"
+title = "Contact"
 layout = "contact"
 +++
