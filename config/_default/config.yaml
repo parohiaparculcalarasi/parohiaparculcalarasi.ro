@@ -25,6 +25,8 @@ taxonomies:
   series: series
   tag: tags
   authors: authors
+  year: year
+  month: month
 
 build:
   writeStats: true
