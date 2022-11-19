@@ -4,12 +4,14 @@ date: 2015-03-01T01:00:00Z
 year: 2015
 month: 2015-03
 draft: false
+featured: true
+pinned: false
 authors: 
   - iulian-ignat
 categories:
   - Revistă
-tags:
   - Cuvânt duhovnicesc
+#tags:
 ---
 În perioada Postului Sfintelor Paști căutăm să ne înnoim duhovnicește, să ne curățim de păcate și rele. 
 

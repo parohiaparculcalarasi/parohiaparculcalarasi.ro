@@ -4,12 +4,14 @@ date: 2015-03-01T00:00:00Z
 year: 2015
 month: 2015-03
 draft: false
+featured: true
+pinned: false
 authors: 
   - nicolae-giolu
 categories:
   - Revistă
-tags:
   - Cuvânt duhovnicesc
+#tags:
 ---
 
 # Sfânta și Marea Luni

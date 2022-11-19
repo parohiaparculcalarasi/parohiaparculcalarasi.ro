@@ -4,6 +4,8 @@ date: 2015-03-01T02:00:00Z
 year: 2015
 month: 2015-03
 draft: false
+featured: false
+pinned: false
 authors: 
   - daniela-ignat
 categories:
