@@ -8,8 +8,8 @@ authors:
   - iulian-ignat
 categories:
   - Revistă
-#tags:
-#  Cateheză
+tags:
+  - Cuvânt duhovnicesc
 ---
 În perioada Postului Sfintelor Paști căutăm să ne înnoim duhovnicește, să ne curățim de păcate și rele. 
 

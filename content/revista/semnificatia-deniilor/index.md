@@ -8,8 +8,8 @@ authors:
   - nicolae-giolu
 categories:
   - Revistă
-#tags:
-#  - Cateheză
+tags:
+  - Cuvânt duhovnicesc
 ---
 
 # Sfânta și Marea Luni
