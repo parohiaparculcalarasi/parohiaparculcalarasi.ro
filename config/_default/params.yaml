@@ -251,11 +251,11 @@ contact:
   # reCaptcha:
     # siteKey: ""
 
-repo:
-  url: https://github.com/razonyang/hugo-theme-bootstrap-skeleton
-  branch: main
-  # subPath: exampleSite
-  # dateFormat: 02/01/2006, 15:04:05 PM
+#repo:
+#  url: https://github.com/razonyang/hugo-theme-bootstrap-skeleton
+#  branch: main
+#  # subPath: exampleSite
+#  # dateFormat: 02/01/2006, 15:04:05 PM
 
 topAppBar:
   social:
