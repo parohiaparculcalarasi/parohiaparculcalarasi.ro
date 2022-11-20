@@ -59,7 +59,7 @@
                         {{- if and (lt $count $taxonomyCount) (ne .Name "") }}
                         <a href="{{ .Page.Permalink }}" class="btn btn-sm btn-secondary post-taxonomy ps-3 post-{{ $key | singularize }} me-2 mb-2" title="{{ .Page.Title }}">
                             {{- if eq $key "authors" }}
-                                {{ $author_val := index $.Site.Data.authors .Page.Title }}
+                                {{ $author_val := index $.Site.Data.authors .Page.File.ContentBaseName }}
                                 {{ $author_val }}
                             {{- else }}
                                 {{ .Page.Title }}

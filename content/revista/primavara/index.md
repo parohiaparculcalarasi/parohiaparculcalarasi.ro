@@ -3,9 +3,9 @@ title: Primăvara
 date: 2015-03-01T03:00:00Z
 year: 2015
 month: 2015-03
-draft: false
+draft: true
 featured: false
-pinned: true
+pinned: false
 authors: 
   - maria-ignat
 categories:
