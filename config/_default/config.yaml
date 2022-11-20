@@ -15,7 +15,7 @@ enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
 # googleAnalytics: UA-123-45
-# disqusShortname: yourdiscussshortname
+disqusShortname: parohiaparculcalarasi
 
 blackfriday:
   hrefTargetBlank: true
