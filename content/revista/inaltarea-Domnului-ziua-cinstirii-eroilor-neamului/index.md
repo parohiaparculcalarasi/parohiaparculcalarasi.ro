@@ -1,0 +1,29 @@
+---
+title: Înălțarea Domnului - Ziua Cinstirii Eroilor Neamului
+date: 2015-05-01T00:00:00Z
+year: 2015
+month: 2015-05
+draft: false
+featured: false
+pinned: false
+authors: 
+  - nicolae-giolu
+categories:
+  - Revistă
+  - Cuvânt duhovnicesc
+tags:
+---
+În fiecare an, la patruzeci de zile după mântuitoarea Înviere a Domnului Hristos, proslăvim Sfânta Sa Înălțare cu trupul la Cer, praznic plin de lumină și bucurie, care ne amintește că Mântuitorul a coborât pe pământ, S-a întrupat, luând chip de om, Și-a însușit natura umană, îndumnezeindu-o în Trupul Său, apoi S-a înălțat cu ea la Ceruri, ca să ne arate că destinația noastră finală n-o reprezintă pământul, ci Împărăția lui Dumnezeu, unde suntem chemați să trăim veșnic în iubirea Preasfintei Treimi. Domnul nu ne indică doar ținta, ci ni se face itinerar și energie, ca să ne ajute să ajungem la binecuvântata stare a celor mântuiți. 
+
+La noi, sărbătoarea se trăiește cu toată evlavia, deoarece în aceeași zi ne cinstim eroii: ostașii și luptătorii români din toate timpurile, din toate locurile, jertfiți pe câmpurile de luptă, în lagăre, în închisori, pentru apărarea patriei, a credinței strămoșești, pentru întregirea neamului, libertatea și demnitatea poporului român. De ce a rânduit Biserica această împreună serbare? În ce constă legătura dintre Înălțarea Domnului cu trupul la Cer și eroii români? Este lesne de stabilit o relație duhovnicească, fiindcă nouă, românilor, ni s-a rânduit să ne ridicăm, să ne înălțăm ca neam prin jertfă, cunoscând în existența bimilenară nenumărate răstigniri, dar și minunate învieri. Nu cred că era mai potrivită cinstirea eroilor români decât în ziua Înălțării, arătând astfel că, prin sângele lor, noi am ținut mereu fruntea sus, nelăsându-ne umiliți de tăvălugul istoriei. 
+
+Totuși, celebrarea parcă nu se prea potrivește cu perioada atât de zbuciumată pe care o traversăm: globalizare, universalizare și uniformizare. Din pricina acestor procese și transformări, identitatea națională are foarte mult de suferit. Ne paște pericolul risipirii într-o pluralitate de idei sau obiceiuri străine de glia și de simțirea națională. Românul adevărat nu se izolează, dar nici nu-și dizolvă identitatea spirituală, acceptând tot felul de ritualuri ori practici nerecunoscute de sfânta sa tradiție bimilenară. 
+
+Poporul român, spunea Gheorghe Brătianu, constituie „_o enigmă și un miracol_”. Chiar așa este căci, viețuind atâtea veleaturi într-o „_mare slavă_”, dar și la răspântia intereselor marilor imperii sau stăpânirilor recente, încă nu și-a pierdut credința, tradiția ori graiul! Am spus „_încă nu_”, întrucât ceea ce nu s-a reușit până acum prin constrângerea războiului, a amenințării cu moartea, se pare că se izbutește astăzi, prin multele ispite și încercări ce ne zdruncină aceste valori. Principalele cauze nu sunt, așadar, forța armelor sau șantajul politic, ci propriile slăbiciuni, relativizarea adevărurilor credinței noastre sfinte. 
+
+Un semn vădit al stării de fapt îl reprezintă modul superficial de a ne raporta la înaintași, la tot ce ne reprezintă pe noi, ca neam. Vorbim de cinstirea eroilor, dar oare pe câți dintre conaționali îi interesează, în realitate, așa ceva? Uităm prea ușor că, dacă unui popor îi slăbește puterea de a-și iubi și de a-și respecta valorile, el se află în declin; când viața lui se macină din pricina rătăcirilor, a indiferentismului religios, a luptelor fratricide pentru putere, când își uită credința strămoșească și istoria, atunci patria se stinge. Cerul țării pare, ce-i drept, același, pământul arată la fel de roditor, râurile repezi cu ape cristaline curg, așijderea, grăbite către Marea cea Mare; așezările omenești rămân la locurile lor, încremenite între veacuri, dar sufletul neamului parcă se spulberă. 
+
+Fără acesta, amintirile sfinte se șterg, peste tradițiile multiseculare se așterne uitarea, iar sub ochii noștri nu rămâne decât cadavrul unui popor, alături de mormântul unei patrii.Vasăzică suntem chemați să ne cinstim eroii nației. În toate bisericile din cuprinsul românismului se fac slujbe de pomenire, ba chiar și prin piațete, pe la monumentele istorice, apoi se depun coroane de flori, rostindu-se cuvinte elogioase. Să precizăm că Sfânta noastră
+Biserică a rânduit pomenirea lor nu doar în astfel de momente solemne, ci în fiecare zi în cadrul dumnezeieștii liturghii, când preotul, la ieșirea cu cinstitele daruri, spune: „_pe eroii români din toate timpurile și din toate locurile, care s-au jertfit pe câmpurile de luptă, în lagăre și în închisori pentru apărarea patriei și a credinței strămoșești, pentru întregirea neamului, libertatea și demnitatea poporului român, să-i pomenească Domnul Dumnezeu întru Împărăția Sa_”. Ce bine ar fi dacă am învăța de la Biserica dreptmăritoare, „_mama spirituală a poporului român_” după cum o numea Mihai Eminescu, să ne amintim zilnic de ei, rugându-ne Domnului pentru sufletele lor! Dar, e suficient numai atât? Parcă e prea puțin pentru sacrificiul lor. S-ar cădea să împletim neuitarea cu truda fiecăruia dintre noi de a le imita, pe cât posibil, jertfa și dragostea pentru țară, pentru idealul sfânt al unității și demnității noastre ca neam. Fără apartenența la un neam, la o istorie, devenim mai săraci, mai înfometați, mai datori. Patria ne face să simțim că aparținem unui popor, că avem obârșii. Apărându-ne identitatea, ne apărăm pe noi înșine și pe eroii noștri, al căror sânge ne curge prin vene. 
+
+De aceea zic, să reînvățăm să ne cinstim eroii, adăugând aducerilor aminte lucrare, dăruire, jertfă și recunoștință; într-un cuvânt, iubire față de tot ceea ce este românesc, frumos și curat.
