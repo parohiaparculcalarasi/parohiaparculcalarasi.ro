@@ -40,6 +40,7 @@ palette: red # Default palette. Optional. You'll need to clear the browser cache
 #  - yellow
 
 # color: dark # light, dark or auto. Default to auto.
+color: light
 
 # fullWidth: true # Full width.
 # fixedHeader: false # Turn on/off fixed header.
