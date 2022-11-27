@@ -8,6 +8,7 @@ featured: true
 pinned: true
 authors: 
 categories:
+  - Evenimente
 #tags:
 ---
 Corul de Copii și Tineri, „Cor cu Dor” așteaptă și se pregătește pentru Nașterea Domnului!  
