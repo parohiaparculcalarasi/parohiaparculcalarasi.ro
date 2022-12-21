@@ -12,5 +12,5 @@ categories:
   - Evenimente
 #tags:
 ---
-La cererea mulțimilor, încercăm sa revitalizam noua generație spre învățarea și perpetuarea muzicii bizantine!  
+La cererea mulțimilor, încercăm să revitalizăm noua generație spre învățarea și perpetuarea muzicii bizantine!  
 Domnul să ne ajute să redescoperim noi talente muzicale în folosul stranei!
