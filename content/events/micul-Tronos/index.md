@@ -4,7 +4,7 @@ date: 2022-12-21T00:00:00Z
 year: 2022
 month: 2022-12
 draft: false
-featured: true
+featured: false
 pinned: true
 authors:
   - mihail-buca

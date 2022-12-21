@@ -4,7 +4,7 @@ date: 2022-11-23T00:00:00Z
 year: 2022
 month: 2022-11
 draft: false
-featured: true
+featured: false
 pinned: false
 authors: 
 categories:
