@@ -5,7 +5,7 @@ year: 2022
 month: 2022-11
 draft: false
 featured: true
-pinned: true
+pinned: false
 authors: 
 categories:
   - Evenimente
