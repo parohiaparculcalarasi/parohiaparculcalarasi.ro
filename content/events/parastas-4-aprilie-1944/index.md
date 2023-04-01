@@ -11,7 +11,8 @@ categories:
   - Evenimente
 #tags:
 ---
-Marți, 4 aprilie 2023, ora 09:45, la <a href="https://parohiaparculcalarasi.ro/contact/" target="_blank">Biserica „Sfinţii Împăraţi Constantin şi Elena” şi „Sfânta Cuvioasă Parascheva”</a>, va avea loc un parastas în memoria victimelor bombardamentelor din [4 aprilie 1944](https://4aprilie1944.ro "4 aprilie 1944").
+Marți, 4 aprilie 2023, ora 09:45, la [Biserica „Sfinţii Împăraţi Constantin şi Elena” şi „Sfânta Cuvioasă Parascheva”](/contact "Biserica „Sfinţii Împăraţi Constantin şi Elena” şi „Sfânta Cuvioasă Parascheva”"), va avea loc un parastas în memoria victimelor bombardamentelor din [4 aprilie 1944](https://4aprilie1944.ro "4 aprilie 1944").
+
 Invităm pe toți cei interesați să ne rugăm împreună pentru sufletele celor adormiți.
 
 Program:
