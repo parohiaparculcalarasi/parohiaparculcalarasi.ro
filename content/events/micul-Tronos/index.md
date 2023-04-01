@@ -5,7 +5,7 @@ year: 2022
 month: 2022-12
 draft: false
 featured: false
-pinned: true
+pinned: false
 authors:
   - mihail-buca
 categories:
