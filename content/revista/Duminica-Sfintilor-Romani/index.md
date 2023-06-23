@@ -8,7 +8,7 @@ draft: false
 featured: true
 pinned: false
 authors: 
-  - dumitru-staniloaie
+  - dumitru-staniloae
 categories:
   - Revistă
 #tags:
