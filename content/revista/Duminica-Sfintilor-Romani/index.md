@@ -1,6 +1,6 @@
 
 ---
-title: Duminica Sfinților români
+title: Duminica Sfinților Români
 date: 2023-06-18T00:00:00Z
 year: 2023
 month: 2023-06
