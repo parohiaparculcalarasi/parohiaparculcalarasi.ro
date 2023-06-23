@@ -5,7 +5,7 @@ year: 2023
 month: 2023-03
 draft: false
 featured: false
-pinned: true
+pinned: false
 authors:
 categories:
   - Evenimente
