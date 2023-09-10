@@ -6,6 +6,7 @@ month: 2011-09
 draft: false
 featured: true
 pinned: true
+toc: false
 authors:
   - patriarhul-daniel  
 categories:
