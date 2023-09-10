@@ -6,7 +6,8 @@ month: 2011-09
 draft: false
 featured: true
 pinned: true
-authors: 
+authors:
+  - patriarhul-daniel  
 categories:
   - Revistă
 #tags:
