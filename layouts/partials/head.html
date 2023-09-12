@@ -3,6 +3,6 @@
 <meta name="description" content="{{ if .IsPage }}{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}{{ else }}{{ $.Site.Params.description }}{{ end }}" />
 {{- partial "head/meta" . }}
 {{- partial "head/feed" . }}
-./pu{{- partial "seo_schema.seo" . | safeHTML }}
+{{- partial "seo_schema.seo" . | safeHTML }}
 {{- partialCached "head/site-verification" . }}
 {{- partial "head/assets" . }}
