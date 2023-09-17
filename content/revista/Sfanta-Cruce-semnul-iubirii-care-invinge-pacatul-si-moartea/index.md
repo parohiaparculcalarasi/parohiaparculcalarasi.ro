@@ -19,7 +19,7 @@ _**Duminica dinaintea Înălțării Sfintei Cruci (Convorbirea lui Iisus cu Nico
 
 În Antichitate, crucea era un instrument de tortură și de ocară pentru răufăcători. Dar **Mântuitorul Iisus Hristos, primind a fi răstignit pe cruce din iubire pentru oameni și luând asupra Sa păcatele lumii, a transformat crucea din instrument de ocară și de tortură în simbol al iubirii de viață făcătoare. Prin moartea Sa, Hristos Domnul a biruit păcatul și moartea, iar prin Învierea Sa din morți a arătat slava Crucii ca fiind slavă a iubirii Sale jertfelnice, sfințitoare și de viață făcătoare**. De aceea, cântăm noi în fiecare Duminică: „_Iată, a venit prin Cruce bucurie la toată lumea_".
 
-## Crucea, semn de mântuire și de viață veșnică
+### Crucea, semn de mântuire și de viață veșnică
 
 **Transformarea morții lui Hristos în biruință a vieții veșnice înseamnă și transformarea Crucii din instrument de tortură sau de ocară în semn de mântuire și de viață veșnică**. Evanghelia ne spune că „_Dumnezeu așa a iubit lumea, încât pe Fiul Său Cel Unul Născut L-a dat, ca oricine crede în El să nu piară, ci să aibă viață veșnică_" (Ioan 3, 16).
 
@@ -33,19 +33,19 @@ La răstignirea Mântuitorului Iisus Hristos au participat și păgânii, adică
 
 În noaptea de Paști, preotul înalță cu ambele mâini Sfânta Cruce în văzul tuturor, adaugă lumânarea de Înviere la ea și spune: „_Hristos a Înviat!_" I se răspunde: „_Adevărat a Înviat!_", deoarece Hristos Cel răstignit este Hristos Cel Înviat, Care și după moartea Sa poartă în trupul Său semnele Crucii, adică semnele cuielor din mâini și picioare, precum și semnul lăsat de lancea care L-a străpuns în coastă.
 
-## Crucea, întipărită veșnic în trupul lui Hristos
+### Crucea, întipărită veșnic în trupul lui Hristos
 
 **Semnele Crucii rămân veșnic în trupul preaslăvit al Mântuitorului Iisus Hristos, Cel Înviat și Înălțat la ceruri**, _pentru a ne arăta că ne-a iubit și ne iubește cu iubire veșnică smerită și milostivă_. De aceea, **_sărbătoarea Înălțării Sfintei Cruci_, ca cinstire a Sfintei Cruci, este preamărirea iubirii jertfelnice și smerite, singura iubire pe care Dumnezeu o prețuiește**. _El nu prețuiește iubirea posesivă și mândră, ci iubirea smerită, care deschide sufletul omului spre a iubi pe Dumnezeu și pe semeni_.
 
 Evanghelia de astăzi ne mai spune că „_n-a trimis Dumnezeu pe Fiul Său în lume ca să judece lumea, ci ca să se mântuiască prin El lumea_" (Ioan 3, 17). Deci, Mântuitorul vine să mântuiască, nu să osândească lumea. El vine să cheme, să vindece pe cei bolnavi, să hrănească pe cei săraci, să călăuzească pe cei rătăciți, să ridice pe cei păcătoși și căzuți, vine să dăruiască oamenilor viața cea adevărată.
 
-## Sfânta Cruce - lumină și binecuvântare pentru viața creștină
+### Sfânta Cruce - lumină și binecuvântare pentru viața creștină
 
 Crucea este lumină și binecuvântare pentru mântuire. Crucea este semnul credinței în iubirea smerită și milostivă a lui Dumnezeu, iubire mai tare decât moartea. De aceea, noi vedem în semnul Crucii semnul mântuirii, ca unire a noastră cu Dumnezeu. Iar când spunem „_Doamne, ajută-ne_", „_Doamne, mântuiește-ne_", „_Doamne, miluiește-ne_", ne însemnăm cu Sfânta Cruce, deoarece ea este semnul iubirii Preasfintei Treimi pentru noi.
 
 De aceea, și _biserica lăcaș de închinare este construită în formă de cruce, iar pe turlele ei se află o cruce, care ne amintește de iubirea jertfelnică a lui Hristos pentru noi_.
 
-## Pretutindeni unde locuiesc creștinii adevărați întâlnim semnul Crucii
+### Pretutindeni unde locuiesc creștinii adevărați întâlnim semnul Crucii
 
 Să ne ajute Preamilostivul Dumnezeu ca să Îl iubim pe Hristos Domnul mai mult, ori de câte ori vedem _Sfânta Lui Cruce, pe biserică și în biserică, la margine de drum, pe morminte sau lângă o fântână, întrucât ne aducem aminte cât de mult ne iubește Dumnezeu și așteaptă răspunsul nostru la iubirea Lui._
 
