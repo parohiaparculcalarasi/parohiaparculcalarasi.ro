@@ -10,8 +10,9 @@ toc: false
 authors:
   - patriarhul-daniel  
 categories:
-  - Revistă
-#tags:
+  - Teologie și spiritualitate
+tags:
+  - Evanghelia de Duminică 
 ---
 _**Duminica dinaintea Înălțării Sfintei Cruci (Convorbirea lui Iisus cu Nicodim) Ioan 3, 13-17**_
 

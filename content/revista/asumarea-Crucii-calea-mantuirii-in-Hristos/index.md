@@ -10,8 +10,9 @@ toc: false
 authors:
   - patriarhul-daniel  
 categories:
-  - Revistă
-#tags:
+  - Teologie și spiritualitate
+tags:
+  - Evanghelia de Duminică
 ---
 **Evanghelia Duminicii după Înălțarea Cinstitei Cruci (Luarea Crucii și urmarea lui Hristos)**
 
