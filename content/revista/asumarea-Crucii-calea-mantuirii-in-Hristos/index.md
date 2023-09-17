@@ -25,7 +25,7 @@ Evanghelia acestei duminici conține _o mulțime de învățături care se refer
 
 În acest înțeles, Evanghelia ne arată taina mântuirii ca fiind _asumare a crucii din viața personală, lepădare de sine și urmare a lui Hristos_.
 
-## Dumnezeu respectă libertatea omului
+### Dumnezeu respectă libertatea omului
 
 Hristos Domnul cheamă sau invită la mântuire pe toți oamenii, dar nu forțează pe nimeni să-L urmeze, deoarece respectă libertatea omului. De aceea, El zice: „_**De voiește cineva să vină după Mine**, să se lepede de sine, să-și ia crucea sa și să-Mi urmeze Mie_" (Mc. 8, 34). Dumnezeu dorește ca omul să răspundă chemării la mântuire în mod liber, pentru că _mântuirea înseamnă iubire față de Dumnezeu și iubire față de aproapele exprimată în mod liber_. Prin urmare, noi putem să ascultăm de Dumnezeu sau să fim nepăsători, să-L căutăm sau să-L ignorăm, chiar afirmând că El nu există ori că cerul și pământul ar fi doar rezultatul întâmplării sau al hazardului, nu creația lui Dumnezeu. Ca atare, folosim aerul creat de Dumnezeu, apa creată de Dumnezeu, ne încălzim de la soarele creat de Dumnezeu și ne hrănim din roadele pământului creat de Dumnezeu, în totală necunoaștere sau uitare de Dumnezeu. Trăim doar biologic, fără nici un orizont teologic. Deci libertatea omului este atât de mare, că deși el trăiește în creația lui Dumnezeu, totuși omul se poate comporta ca și când Dumnezeu nu ar exista. Cu alte cuvinte, omul poate răspunde la iubirea Lui sau o poate refuza, poate dobândi mântuirea sau poate pierde mântuirea, se poate uni cu Dumnezeu sau se poate despărți de El.
 
@@ -35,13 +35,13 @@ Așadar, _Dumnezeu dăruiește viață veșnică și fericită doar celor care o
 
 În concluzie, putem spune că _omul este liber să trăiască duhovnicește după chipul lui Dumnezeu Cel veșnic și să dorească veșnicia_ sau să trăiască doar trupește, să mănânce și să bea, să doarmă și să se afirme până la mormânt, crezând că după moartea trupului nu mai este nimic, nici o formă de existență a persoanei umane, adică a sufletului.
 
-## De ce trebuie să urmăm lui Hristos?
+### De ce trebuie să urmăm lui Hristos?
 
 _Darul cel mai mare pe care îl poate căuta sufletul credincios este viața veșnică_, deoarece oamenii sunt creați după chipul Preasfintei Treimi Celei veșnice (cf. Facere 1, 26). Întrucât **Hristos este deodată Dumnezeu și Om, are în El viața veșnică**, după cum spune El surorilor lui Lazăr, Marta și Maria, zicând: „_Eu sunt învierea și viața. Cine crede în Mine, chiar dacă va muri, va trăi_" (In. 11, 25). Deci, chiar dacă va muri omul cu trupul, va fi viu cu sufletul, dacă se unește cu Hristos prin credință, prin Sfintele Taine și prin fapte bune.
 
 Când urmăm lui Hristos nu mergem după un om muritor, ci după Dumnezeu Cel veșnic Care S-a făcut Om pentru ca pe oamenii pământeni și muritori să-i ducă la înviere și la viață veșnică, netrecătoare și nelimitată.
 
-## Lepădarea de sine - eliberare de egoism pentru a iubi fără patimă
+### Lepădarea de sine - eliberare de egoism pentru a iubi fără patimă
 
 Evanghelia de astăzi ne arată că pentru a urma lui Hristos avem nevoie de _lepădarea de sine_. Ce înseamnă această lepădare de sine? Ce înseamnă această negare de sine? Nu înseamnă oare o depersonalizare? Cum să ne lepădăm de noi înșine când ne iubim pe noi înșine atât de mult, încât uităm de Dumnezeu și de semenii noștri?
 
@@ -49,7 +49,7 @@ _Lepădarea de sine pe care Mântuitorul Iisus Hristos ne-o cere înseamnă schi
 
 Iubirea de Dumnezeu și de semeni ne ajută să ieșim din închisoarea egoistă a sufletului nostru. În esență, **de sine înseamnă deschiderea sufletului nostru pentru ca iubirea sfântă a lui Dumnezeu sau harul Lui să lumineze viața noastră, iar noi să transmitem această iubire semenilor noștri**. Această lepădare de sine pentru a dobândi o iubire nepătimașă este, de fapt, o înviere din mormântul egoismului și o bucurie de comuniune cu Dumnezeu, în rugăciune, și cu oamenii, în fapte bune. Astfel, lepădarea de sine ne ajută să urmăm lui Hristos pe calea mântuirii. Ca atare, viața lui Hristos devine Viața vieții noastre.
 
-## Hristos schimbă crucea noastră în bucurie a învierii
+### Hristos schimbă crucea noastră în bucurie a învierii
 
 În acest înțeles, Sfântul Apostol Pavel spune: „_Nu mai trăiesc eu, ci Hristos trăiește în Mine_" (Gal. 2, 20), sau: „_Iar mie să nu-mi fie a mă lăuda decât numai în Crucea Domnului nostru Iisus Hristos prin care lumea este răstignită pentru mine și eu pentru lume!_" (Gal. 6, 14). Cu alte cuvinte, el vrea să spună: **nu mă laud cu ceea ce fac eu, ci cu ceea ce face Dumnezeu cu mine și prin mine; mă laud cu harul lui Dumnezeu care locuiește și lucrează în mine, nu cu puterea mea limitată, nu mă încred în gândirea mea egoistă, plină de sine, ci în înțelepciunea lui Dumnezeu arătată în Hristos Cel răstignit și înviat**. Adică prin puterea Crucii lui Hristos, ca iubire smerită și jertfelnică, se răstignește ceea ce este egoist, lumesc și păcătos în om, ca să pătrundă în sufletul lui sfințenia lui Dumnezeu. Când cerem iertarea păcatelor, ne curățim de păcate, de comportarea noastră egoistă, iar când cerem lui Dumnezeu să ne miluiască, mila Lui sau iubirea Lui milostivă ne sfințește și ne face ființe iubitoare de Dumnezeu și de semenii noștri, fără patimă, adică fără dorință de avere, de stăpânire și de slavă lumească.
 
@@ -59,7 +59,7 @@ Hristos Domnul mai spune că pentru a-I urma Lui, _omul care se leapădă de sin
 
 În general, fiecare om are o cruce a vieții sale, mai ușoară sau mai grea, o neputință de-a realiza pe deplin un ideal dorit. Dar Hristos Domnul ne îndeamnă zicând: _fiecare să-și ia crucea sa și să-I urmeze Lui_. Adică să nu o poarte singur, ci să o poarte cerând ajutorul Său, al lui Hristos Cel răstignit și înviat, Care cu iubirea Sa milostivă **schimbă crucea noastră în bucurie a învierii**, transformă suferința în speranță, singurătatea în comuniune și neputința în biruință.
 
-## Cei care au trecut prin suferință înțeleg mai bine crucea altora
+### Cei care au trecut prin suferință înțeleg mai bine crucea altora
 
 Când omul trece prin necazuri și suferință, el se poate apropia sau îndepărta de Dumnezeu. Dacă nu se apropie de Hristos mai mult, cerându-I ajutorul, cel suferind poate cădea în deznădejde. Sunt unii oameni care, sub povara suferinței, bolii și necazurilor, și-au pus capăt zilelor, deoarece au căzut în deznădejde întrucât, slăbind credința lor, a slăbit și răbdarea lor sau puterea lor de a îndura suferința. Însă cei care și-au pus nădejdea în Dumnezeu și au simțit puterea Lui, au trecut prin suferință, boală, încercare și au biruit. De aceea, Mântuitorul spune ucenicilor Săi: „_În lume necazuri veți avea, dar îndrăzniți: Eu am biruit lumea_" (In. 16, 33). Prin simpla sa voință sau putere, omul nu poate dobândi mântuirea sau viața veșnică, deoarece mântuirea este unirea omului cu Dumnezeu. Omul are deci nevoie de ajutorul lui Dumnezeu ca să poată purta crucea sa, după cuvântul Mântuitorului Iisus Hristos: „_Veniți la Mine toți cei osteniți și împovărați și Eu vă voi odihni pe voi_" (Matei 11, 28).
 
