@@ -16,11 +16,11 @@ tags:
 ---
 ### Duminica a XX-a după Rusalii (Învierea fiului văduvei din Nain) Luca 7, 11-16
 
-_În vremea aceea S-a dus Iisus într-o cetate numită Nain și împreună cu El mergeau ucenicii Lui și mulțime mare. Iar când s-a apropiat de poarta cetății, iată scoteau un mort, singurul copil al mamei sale, și ea era văduvă, și mulțime mare din cetate era cu ea. Şi, văzând-o Domnul, I s-a făcut milă de ea și i-a zis: Nu plânge! Şi, apropiindu-Se, S-a atins de sicriu, iar cei ce-l duceau s-au oprit. Şi a zis: Tinere, ție îți zic, scoală-te! Şi s-a ridicat mortul și a început să vorbească și l-a dat mamei lui. Şi frică i-a cuprins pe toți și slăveau pe Dumnezeu, zicând: Prooroc mare S-a ridicat între noi și Dumnezeu a cercetat pe poporul Său._
+_În vremea aceea S-a dus Iisus într-o cetate numită Nain și împreună cu El mergeau ucenicii Lui și mulțime mare. Iar când s-a apropiat de poarta cetății, iată scoteau un mort, singurul copil al mamei sale, și ea era văduvă, și mulțime mare din cetate era cu ea. Și, văzând-o Domnul, I s-a făcut milă de ea și i-a zis: Nu plânge! Și, apropiindu-Se, S-a atins de sicriu, iar cei ce-l duceau s-au oprit. Și a zis: Tinere, ție îți zic, scoală-te! Și s-a ridicat mortul și a început să vorbească și l-a dat mamei lui. Și frică i-a cuprins pe toți și slăveau pe Dumnezeu, zicând: Prooroc mare S-a ridicat între noi și Dumnezeu a cercetat pe poporul Său._
 
 În Evanghelia Duminicii a XX-a după Rusalii, vedem _milostivirea lui Dumnezeu față de oamenii îndurerați și față de cei morți_. Minunea învierii fiului văduvei din Nain ne arată că _Mântuitorul Iisus Hristos cunoaște durerea fiecărui om, dar și măsura răbdării lui_.
 
-Minunea aceasta nu s-a făcut la cererea cuiva. Nimeni nu L-a invitat în satul Nain pe Iisus împreună cu ucenicii Săi; nimeni nu L-a chemat să aducă alinare durerii mamei care jelea pe ultimul drum, de la casă la mormânt, pe unicul ei copil. Şi totuși Iisus a venit, din proprie inițiativă, având iubire milostivă față de oamenii îndurerați ca urmare a morții celor dragi ai lor.
+Minunea aceasta nu s-a făcut la cererea cuiva. Nimeni nu L-a invitat în satul Nain pe Iisus împreună cu ucenicii Săi; nimeni nu L-a chemat să aducă alinare durerii mamei care jelea pe ultimul drum, de la casă la mormânt, pe unicul ei copil. Și totuși Iisus a venit, din proprie inițiativă, având iubire milostivă față de oamenii îndurerați ca urmare a morții celor dragi ai lor.
 
 ### Mântuitorul Hristos alină durerea și întristarea oamenilor îndoliați
 
