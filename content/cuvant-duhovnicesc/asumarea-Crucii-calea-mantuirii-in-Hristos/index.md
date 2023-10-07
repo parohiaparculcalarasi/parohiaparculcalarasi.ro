@@ -10,7 +10,7 @@ toc: false
 authors:
   - patriarhul-daniel  
 categories:
-  - Cuvând duhovnicesc
+  - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
 ---
