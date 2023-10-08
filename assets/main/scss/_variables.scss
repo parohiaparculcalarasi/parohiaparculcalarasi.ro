@@ -10,3 +10,7 @@ $popover-border-color: var(--hbs-primary);
 
 // $tooltip-bg: var(--hbs-surface-bg);
 // $tooltip-color: var(--hbs-card-color);
+
+.tooltip-inner {
+  white-space: nowrap;
+}
