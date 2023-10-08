@@ -1,3 +1,6 @@
+@import 'bootstrap/scss/tooltip';
+//@import 'bootstrap/scss/popover';
+
 [data-palette=blue] {
   --hbs-primary: #212529;
   --hbs-primary-secondary: #373b3d;
@@ -76,4 +79,8 @@ ul.contact-list {
 
 .ppc-cursor-pointer-on-hover {
   cursor: pointer;
+}
+
+.tooltip-inner {
+  white-space: nowrap;
 }
