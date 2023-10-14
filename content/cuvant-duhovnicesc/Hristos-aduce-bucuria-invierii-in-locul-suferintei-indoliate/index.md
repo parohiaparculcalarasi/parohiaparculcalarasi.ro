@@ -5,7 +5,7 @@ year: 2010
 month: 2010-10
 draft: false
 featured: true
-pinned: true
+pinned: false
 toc: false
 authors:
   - patriarhul-daniel  
@@ -62,5 +62,4 @@ Sfântul Chiril al Alexandriei, tâlcuind Evanghelia după Luca în care se vorb
 
 Este semnificativ faptul că cele trei persoane pe care le-a înviat din morți Hristos-Domnul au fost _trei tineri_, și anume: _fiul văduvei din Nain, fiica lui Iair și Lazăr din Betania_, fratele surorilor Marta și Maria și prietenul Domnului Iisus Hristos. Prin aceasta, Mântuitorul ne arată că _tinerii sunt chemați la viață de comuniune cu părinții, frații și surorile lor_, nu la însingurare prin despărțire de ei. De ce? Pentru că însingurarea aceasta, chiar dacă nu este moarte fizică, _poate deveni totuși o moarte spirituală_, o existență egoistă, „morbidă" pentru suflet. Însă comuniunea de iubire părintească, frățească și amicală duhovnicească îi ajută pe tineri să crească spiritual și să se maturizeze. De aceea, **familia, Biserica, școala și societatea trebuie să-i ajute pe copii și pe tineri să nu confunde libertatea cu înstrăinarea de propria lor familie, nici fericirea cu individualismul egoist și insensibil la nevoia de ajutor a celor din jur**. De fapt, _lipsa de comuniune spirituală și de solidaritate concretă în familie și în societate este astăzi semnul unei vieți umane în declin spiritual și în deficit de omenie._
 
-În concluzie, putem spune că este mare nevoie astăzi _să fim alături de familiile îndoliate, dar și să îi ajutăm pe tineri să prețuiască mai mult viața de familie și să cultive prietenia cu tineri credincioși_, pentru a înțelege că viața adevărată este _binecuvântare de la Dumnezeu și bucurie a comuniunii între oameni_, spre slava Preasfintei Treimi și mântuirea lumii.  
-Amin!
+În concluzie, putem spune că este mare nevoie astăzi _să fim alături de familiile îndoliate, dar și să îi ajutăm pe tineri să prețuiască mai mult viața de familie și să cultive prietenia cu tineri credincioși_, pentru a înțelege că viața adevărată este _binecuvântare de la Dumnezeu și bucurie a comuniunii între oameni_, spre slava Preasfintei Treimi și mântuirea lumii. Amin!
