@@ -1,8 +1,8 @@
 ---
 title: Hristos aduce bucuria învierii în locul suferinței îndoliate
 date: 2011-10-06T00:00:00Z
-year: 2010
-month: 2010-10
+year: 2011
+month: 2011-10
 draft: false
 featured: true
 pinned: false

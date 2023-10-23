@@ -1,11 +1,11 @@
 ---
 title: Inima curată și bună - omul care face roditor cuvântul lui Dumnezeu
 date: 2009-10-11T00:00:00Z
-year: 2010
-month: 2010-10
+year: 2009
+month: 2009-10
 draft: false
 featured: true
-pinned: true
+pinned: false
 toc: false
 authors:
   - patriarhul-daniel  
