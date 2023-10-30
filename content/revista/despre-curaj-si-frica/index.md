@@ -21,6 +21,6 @@ _Scrieri filocalice_
  
 > „De te vor amenința dracii, arătându-se deodată din văzduh ca să te înspăimânte și să-ți răpească mintea, să nu te înfricoșezi de ei și să nu ai nici o grijă de amenințarea lor, căci ei se tem de tine, încercând să vadă dacă le dai atenție, sau îl disprețuiești cu desăvârșire. (**Evagrie Ponticul**)
 
-> „Despre frate duhovnicesc am cetit că, rugându-se el, a venit o năpârcă și s-a lipit de piciorul lui. Dar el nu a coborât mâinile, mai-nainte de ce nu și-a împlinit rugăciunea obișnuită. Şi întru nimic nu s-a vătămat cel ce iubea pe Dumnezeu mai mult decât pe sine însuși.” (**Evagrie Ponticul**) 
+> „Despre frate duhovnicesc am cetit că, rugându-se el, a venit o năpârcă și s-a lipit de piciorul lui. Dar el nu a coborât mâinile, mai-nainte de ce nu și-a împlinit rugăciunea obișnuită. Și întru nimic nu s-a vătămat cel ce iubea pe Dumnezeu mai mult decât pe sine însuși.” (**Evagrie Ponticul**) 
  
 > „Îngrijește-te să agonisești multă cugetare smerită și bărbăție, și răutatea lor nu se va atinge de sufletul tău și biciul nu se va apropia de cortul tău, că îngerilor Săi va porunci ca să te păzească pe tine, iar aceștia vor izgoni de la tine toată lucrarea potrivnică.” (**Evagrie Ponticul**)

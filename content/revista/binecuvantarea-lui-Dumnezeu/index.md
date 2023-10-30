@@ -59,7 +59,7 @@ Multe gânduri sunt în mintea noastră. Această binecuvântare este pace pentr
 
 Când mergem la un examen, călătorim sau avem ceva important de făcut, să alergăm la biserică să luăm binecuvântare de la Dumnezeu prin preoți. 
 
--- O altă binecuvântare o putem primi prin prinoase, pe care le ducem la biserică. La momentul sfințirii acestora auzim rugăciunea de sfințire a colivei: „…_Însuți, întru tot bunule Împărate, și aceste semințe cu multe feluri de roade le binecuvintează_ (acum le binecuvintează cu mâna dreaptă) _și sfințește pe cei ce vor gusta dintr-însele, căci acestea spre slava Ta și spre cinstirea sfântului (N) s-au pus înaintea Ta de robii Tăi, încă și spre pomenirea celor ce s-au săvârșit întru dreapta credință. Şi dăruiește, Bunule, celor ce au înfrumusețat acestea și celor ce săvârșesc pomenirea, toate cererile cele către mântuire și desfătarea bunătăților Tale cele veșnice…_”. 
+-- O altă binecuvântare o putem primi prin prinoase, pe care le ducem la biserică. La momentul sfințirii acestora auzim rugăciunea de sfințire a colivei: „…_Însuți, întru tot bunule Împărate, și aceste semințe cu multe feluri de roade le binecuvintează_ (acum le binecuvintează cu mâna dreaptă) _și sfințește pe cei ce vor gusta dintr-însele, căci acestea spre slava Ta și spre cinstirea sfântului (N) s-au pus înaintea Ta de robii Tăi, încă și spre pomenirea celor ce s-au săvârșit întru dreapta credință. Și dăruiește, Bunule, celor ce au înfrumusețat acestea și celor ce săvârșesc pomenirea, toate cererile cele către mântuire și desfătarea bunătăților Tale cele veșnice…_”. 
 
 Dumnezeu îi sfințește pe cei ce vor gusta din ele, iar celor ce au pregătit acestea le dăruiește să guste din bunătățile cele veșnice pe care le-a pregătit însuși Dumnezeu în Împărăția Sa. 
 
