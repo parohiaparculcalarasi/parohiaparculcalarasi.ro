@@ -77,6 +77,10 @@ ul.contact-list {
   color: var(--hbs-primary);
 }
 
+.day-meaning a:hover {
+  text-decoration: underline;
+}
+
 .day-meaning-simple {
   list-style-type: none;
 }
