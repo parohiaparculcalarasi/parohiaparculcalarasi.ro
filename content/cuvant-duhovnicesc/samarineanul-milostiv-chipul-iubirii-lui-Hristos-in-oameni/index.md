@@ -5,7 +5,7 @@ year: 2011
 month: 2011-11
 draft: false
 featured: true
-pinned: false
+pinned: true
 toc: false
 authors:
   - patriarhul-daniel  
