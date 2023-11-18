@@ -224,4 +224,10 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 <sup>2</sup> Pr. Dumitru Stăniloae, Marc-Antoine Costa de Beauregard, _Mică dogmatică vorbită. Dialoguri la Cernica_, trad. Maria-Cornelia Oros, Ed. Deisis, Sibiu, 1995, p. 143.
 
+<br>
+
+<br>
+
 Foto credit: Tipografia Cărților Bisericești
+
+Descarcă documentul: [PDF](./pastorala-la-inceputul-postului-2023.pdf) 
