@@ -44,7 +44,7 @@ Cel care nu-și respecta părinții vârstnici era văzut ca un blasfemiator: �
 
 _Noul Testament_ ne arată lămurit că înțelepciunea celor vârstnici ține de apropierea lor de Dumnezeu prin rugăciune și de viața virtuoasă pe care aceștia o trăiesc. Astfel, Dreptul Simeon nu era doar un om învățat, ci și un permanent rugător, luminat de Duhul Sfânt pentru a-L recunoaște pe Mesia în Pruncul Iisus: „_omul acesta era drept și temător de Dumnezeu, așteptând mângâierea lui Israel, și Duhul Sfânt era asupra lui_” (_Luca_ 2, 25). Dreptul Simeon L-a purtat în brațele sale pe Cuvântul lui Dumnezeu înomenit și L-a prezentat ca fiind „_Lumină spre descoperirea neamurilor și slavă poporului Tău Israel_” (_Luca_ 2, 32). Astfel, înțelegem de ce, în Tradiția creștină, _Dreptul Simeon devine model și ocrotitor al persoanelor vârstnice: era învățat, drept, temător de Dumnezeu, răbdător, plin de credință și nădejde._
 
-Slăbiciunea trupească a bătrâneții este acoperită de tăria înțelepciunii, de bogăția cunoașterii, de frumusețea blândeții și a bunătății. În acest sens, Sfântul Ioan Gură de Aur învață: „_Slăbiciunea trupului nu vatămă cu nimic tăria credinței. Podoabă a Bisericii e căruntețea gârbovă unită cu credința întraripată. De ea se bucură în mod deosebit Biserica_”<sup>[1]</sup>. Bătrânețea trebuie înțeleasă ca fiind mai ales vârsta la care ne apropiem de sfârșitul călătoriei pământești, când Domnul Iisus Hristos ne conduce la casa Tatălui ceresc (cf. _Ioan_ 14, 2).
+Slăbiciunea trupească a bătrâneții este acoperită de tăria înțelepciunii, de bogăția cunoașterii, de frumusețea blândeții și a bunătății. În acest sens, Sfântul Ioan Gură de Aur învață: „_Slăbiciunea trupului nu vatămă cu nimic tăria credinței. Podoabă a Bisericii e căruntețea gârbovă unită cu credința întraripată. De ea se bucură în mod deosebit Biserica_”<a id="note_1" href="#note_def_1" class="ppc-note"><sup>1</sup></a>. Bătrânețea trebuie înțeleasă ca fiind mai ales vârsta la care ne apropiem de sfârșitul călătoriei pământești, când Domnul Iisus Hristos ne conduce la casa Tatălui ceresc (cf. _Ioan_ 14, 2).
 
 Astăzi, din nefericire, sunt foarte mulți bătrâni care trăiesc în multă însingurare, în izolare de comunitate, simțindu-se cumva inutili acesteia sau, mai mult, traumatizați de propria îmbătrânire, ajungând chiar la deznădejde. Statisticile, la nivel mondial, arată faptul că procesul de îmbătrânire este unul foarte accelerat, 9,6% din populația lumii fiind vârstnică, adică aproximativ 800 milioane de persoane. În România, din 19,2 milioane de locuitori, trăiesc 3,7 milioane de persoane a căror vârstă depășește pragul de 65 de ani (aproape 20% din populația țării), conform raportului _Institutului Național de Statistică_.
 
@@ -72,7 +72,7 @@ Dintre campaniile cele mai importante la nivel național, amintim: **campania �
 
 Sfântul Sinod al Bisericii Ortodoxe Române a proclamat anul 2023 și ca _Anul comemorativ al imnografilor și cântăreților bisericești_, oferind, astfel, prilej de comemorare a celor ce s-au ostenit prin munca lor, inspirați de Dumnezeu, să compună cântări bisericești și să le interpreteze, spre înaintarea noastră în cunoașterea lui Dumnezeu. Cântările cuprinse în cărțile de cult ale Bisericii noastre sunt creații ale unor imnografi inspirați de Duhul Sfânt și ne ajută în înțelegerea textului scripturistic, ca parte a Sfintei Tradiții. Textele imnurilor care se cântă în slujbele Bisericii Ortodoxe aprofundează și explică bogăția teologică a Cuvântului lui Dumnezeu. Muzica bisericească este Evanghelia cântată.
 
-În acest sens, Părintele Dumitru Stăniloae spunea despre limbajul imnografic că: „_Dumnezeu este atât de mare, că singură poezia poate încerca să-L exprime_”<sup>[2]</sup>. Profunzimea teologică și spirituală a textelor liturgice este dată de adăparea lor permanentă din Sfintele Scripturi și din scrierile Sfinților Părinți ai Bisericii care au meditat îndelung și profund la Cuvântul lui Dumnezeu.
+În acest sens, Părintele Dumitru Stăniloae spunea despre limbajul imnografic că: „_Dumnezeu este atât de mare, că singură poezia poate încerca să-L exprime_”<a id="note_2" href="#note_def_2" class="ppc-note"><sup>2</sup></a>. Profunzimea teologică și spirituală a textelor liturgice este dată de adăparea lor permanentă din Sfintele Scripturi și din scrierile Sfinților Părinți ai Bisericii care au meditat îndelung și profund la Cuvântul lui Dumnezeu.
 
 **Teologia exprimată în imnografia bisericească este una dintre cele mai bogate în sensuri și, în același timp, lămuritoare pentru credincioșii Bisericii noastre, de aceea trebuie valorificată mai mult în predicile și catehezele din zilele noastre.**
 
@@ -220,9 +220,12 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 ---
 
-<sup>1</sup> Sf. Ioan Gură de Aur, _Predici la sărbători împărătești și cuvântări de laudă la sfinți_, trad. din lb. greacă și note Pr. Prof. Dumitru Fecioru, Ed. Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2002, p. 559.
+**Note:**
 
-<sup>2</sup> Pr. Dumitru Stăniloae, Marc-Antoine Costa de Beauregard, _Mică dogmatică vorbită. Dialoguri la Cernica_, trad. Maria-Cornelia Oros, Ed. Deisis, Sibiu, 1995, p. 143.
+<a id="note_def_1" href="#note_1" class="ppc-note-def"><sup>1</sup></a> Sf. Ioan Gură de Aur, _Predici la sărbători împărătești și cuvântări de laudă la sfinți_, trad. din lb. greacă și note Pr. Prof. Dumitru Fecioru, Ed. Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2002, p. 559.
+
+<a id="note_def_2" href="#note_2" class="ppc-note-def"><sup>2</sup></a> Pr. Dumitru Stăniloae, Marc-Antoine Costa de Beauregard, _Mică dogmatică vorbită. Dialoguri la Cernica_, trad. Maria-Cornelia Oros, Ed. Deisis, Sibiu, 1995, p. 143.
+
 
 <br>
 

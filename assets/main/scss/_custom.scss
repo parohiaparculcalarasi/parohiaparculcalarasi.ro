@@ -92,3 +92,15 @@ ul.contact-list {
 .tooltip-inner {
   white-space: nowrap;
 }
+
+.ppc-note:not(sup)::before {
+  display: unset !important;
+}
+
+.ppc-note {
+  font-weight: bold;
+}
+
+.ppc-note-def {
+  font-weight: bold;
+}
