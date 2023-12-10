@@ -5,7 +5,7 @@ year: 2023
 month: 2023-01
 draft: false
 featured: true
-pinned: true
+pinned: false
 toc: false
 authors:
   - patriarhul-daniel  
