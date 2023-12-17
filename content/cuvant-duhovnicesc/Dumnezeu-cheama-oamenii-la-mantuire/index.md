@@ -1,0 +1,80 @@
+---
+title: Dumnezeu cheamă oamenii la mântuire
+date: 2011-12-07T00:00:00Z
+year: 2011
+month: 2011-12
+draft: false
+featured: true
+pinned: true
+toc: false
+authors:
+  - patriarhul-daniel  
+categories:
+  - Cuvânt duhovnicesc
+tags:
+  - Evanghelia de Duminică
+---
+
+**Evanghelia Duminicii a XXVIII-a după Rusalii (Pilda celor poftiți la cină) **
+
+> _„Zis-a Domnul pilda aceasta: Un om oarecare a făcut cină mare și a chemat pe mulți; și a trimis la ceasul cinei pe slujitorul său ca să spună celor chemați: Veniți, că, iată, toate sunt gata! Și au început toți, câte unul, să-și ceară iertare. Cel dintâi i-a zis: Am cumpărat un ogor și trebuie să ies ca să-l văd; te rog, iartă-mă. Și altul a zis: Cinci perechi de boi am cumpărat și mă duc să-i încerc; te rog, iartă-mă. Al treilea a zis: Femeie mi-am luat și de aceea nu pot veni. Și, întorcându-se, slujitorul a spus stăpânului său acestea. Atunci, mâniindu-se, stăpânul casei a zis: Ieși îndată în piețele și ulițele cetății, și pe săraci și pe neputincioși, și pe orbi și pe șchiopi adu-i aici. Și slujitorul a zis: Doamne, s-a făcut precum ai poruncit și tot mai este loc. Și a zis stăpânul către slugă: Ieși la drumuri și la garduri și silește-i să intre, ca să mi se umple casa, căci zic vouă: Nici unul din bărbații aceia care au fost chemați nu va gusta din cina mea.“_ (**_Luca_ 14, 16-24**) 
+
+Sfânta Evanghelie din _Duminica a XXVIII-a după Rusalii_ prezintă _Pilda celor poftiți la cină_ și a fost rânduită de Biserică spre a se citi în această perioadă de pregătire pentru sărbătoarea Nașterii Domnului și Mântuitorului nostru Iisus Hristos.
+
+_Pilda celor poftiți la cină_ are două înțelesuri majore. Primul se referă la istoria mântuirii neamului omenesc, adică _la lucrarea Mântuitorului Iisus Hristos ca Fiu și Slujitor al lui Dumnezeu_, Care cheamă la mântuire mai întâi pe poporul evreu și apoi pe toate popoarele. În al doilea rând, pilda se referă la viața noastră, a fiecăruia dintre noi, mai precis la _modul în care noi răspundem chemării lui Dumnezeu la mântuire sau refuzăm chemarea Lui, sub diferite pretexte_.
+
+### Slujitorul Stăpânului, Mesia Cel prezis de profeți
+
+Anonimul sau „_un om oarecare_", cum se spune în Evanghelie, este Însuși Dumnezeu, Cel cu multe nume și mai presus de orice nume, după cum învață Sfântul Dionisie Areopagitul. De fapt, dincolo de numele atribuite lui Dumnezeu în relația Sa activă cu lumea, El este mai presus de orice nume și de orice înțelegere omenească în privința ființei Sale. Iar numele Lui de Tată al unui Fiu veșnic ni s-a descoperit nouă de Mântuitorul Iisus Hristos, după cum El Însuși spune: „_V-am descoperit numele Lui vouă_" (Ioan 17, 6).
+
+Așadar, Dumnezeu Tatăl Cel veșnic cheamă la mântuire omenirea întreagă. Cum? La amurgul istoriei, _în zilele mai de pe urmă_ (cf. _Evrei_ 1, 2), _la plinirea vremii_ (cf. _Galateni_ 4, 4-5), El trimite în lume pe Fiul Său Cel ceresc ca să cheme lumea la mântuire. În Sfânta Evanghelie de astăzi, cel care cheamă oamenii la cina stăpânului nu se numește fiu, ci numai slujitor, pentru a arăta aici că _Fiul lui Dumnezeu Care S-a făcut Om, adică Iisus Hristos, este în primul rând **Slujitor al lui Dumnezeu**, ca să ne învețe pe noi ascultarea și slujirea față de Dumnezeu._ Deja profeții Vechiului Testament au vorbit despre Mesia ca fiind „_Ebed-Iahve_", sluga Domnului (cf. _Isaia_ 53, 11), iar Mântuitorul Iisus Hristos ne spune că Fiul Omului, adică El Însuși, „_nu a venit în lume ca să I se slujească, ci ca El să slujească_" (_Matei_ 20, 28).
+
+Deci, Fiul lui Dumnezeu întrupat, adică Iisus Hristos, cheamă oamenii la cina Tatălui ceresc, la comuniunea vieții veșnice.
+
+### Cina din casa Stăpânului semnifică Împărăția lui Dumnezeu
+
+Aproape la toate popoarele, dar mai cu seamă în tradiția ebraică, _cina este simbolul comuniunii, al bucuriei de a fi împreună, de a mânca și a bea împreună, de a se vedea și de-a comunica față către față, de a se cunoaște și a se prețui reciproc. Cina din Evanghelia de astăzi semnifică tainic Împărăția lui Dumnezeu, a cărei arvună aici pe pământ este însăși Biserica lui Hristos în care se săvârșește Cina cea de Taină sau Sfânta Euharistie_, pe care Mântuitorul Iisus Hristos a instituit-o în Sfânta și Marea Joi seara, înainte de Pătimirile Sale, de Răstignirea Sa și de Învierea Sa din morți.
+
+În pilda din Evanghelia de astăzi, cei dintâi care au fost chemați la cină erau căpeteniile poporului evreu și cărturarii sau învățătorii de lege. _Ei sunt chemați cu prioritate, pentru că ei cunosc mai bine Legea Domnului și lor li s-a încredințat descoperirea dumnezeiască a planului de mântuire a lumii întregi, pe care Dumnezeu Tatăl îl inițiază și-l împlinește prin Fiul Său, Care S-a făcut Om din iubire pentru oameni și pentru mântuirea lor._ Evanghelia ne arată cum această elită a poporului evreu, care a fost chemată de către Slujitorul Domnului, de Mântuitorul Iisus Hristos, refuză abil și politicos invitația la cină, folosind diferite scuze, care, la prima vedere, par credibile, dar în realitate ele acoperă o existență egoistă și pătimașă a celor invitați. Primul invitat a spus: „_Mi-am cumpărat ogor și trebuie să ies ca să îl văd; te rog, iartă-mă_" (_Luca_ 14, 18). Al doilea a spus: „_Cinci perechi de boi am cumpărat și mă duc să-i încerc; te rog, iartă-mă_" (_Luca_ 14, 19). Al treilea și-a motivat refuzul cu următorul răspuns: „_Femeie mi-am luat și de aceea nu pot veni_" (_Luca_ 14, 20).
+
+Când a văzut Stăpânul casei că oamenii considerați de El a fi cunoscuți și prieteni ai Săi, pentru că erau cunoscători ai învățăturilor Sale sfinte, au refuzat chemarea Sa la ospățul sau bucuria mântuirii, _S-a mâniat_, după cum se spune în Evanghelie. Desigur, _refuzul lor era expresia libertății lor, dar libertatea lor de a rămâne, în mod egoist, în afara comuniunii cu El a produs supărare Celui Care le-a adresat invitația la cină. Drept consecință, bunătatea Lui s-a îndreptat spre alți oameni._
+
+### Chemarea lui Dumnezeu și libertatea omului de a răspunde sau nu chemării divine
+
+Întrucât Dumnezeu dorește ca „_toți oamenii să se mântuiască și la cunoștința adevărului să vină_" (_I Timotei_ 2, 4), toți oamenii sunt chemați la mântuire, dar nu toți răspund acestei chemări. De aceea, Sfântul Grigore de Nyssa, comentând cuvintele Mântuitorului „_mulți chemați, dar puțini aleși_" (_Matei_ 22, 14), _spune că toți sunt chemați, dar sunt puțini aleși, pentru că puțini oameni răspund chemării lui Dumnezeu._ Aflând de scuzele unora care nu au găsit timp pentru a răspunde chemării Sale, Stăpânul casei Îl trimite pe Slujitorul Său _să invite la cină o mulțime de oameni de rând, fără pretenții de superioritate, care nu se așteptau la o astfel de invitație, și nici nu se considerau vrednici să stea la o masă atât de strălucită._
+
+### Preocupări excesive pentru trup, dar puțină grijă pentru suflet
+
+Cel dintâi care refuză invitația la cină aduce ca scuză sau motivație _grija pentru ogor_, adică pentru țarina cumpărată pe care trebuia să o vadă.
+
+În tâlcuirea unor Sfinți Părinți ai Bisericii, _acest câmp sau ogor din Evanghelie simbolizează toate grijile și dorințele de a stăpâni în lumea aceasta spații și teritorii pământești limitate și trecătoare. **Ogorul este aici simbolul dorinței omului de avere, de expansiune, de extindere pe orizontală, nu de creștere duhovnicească pe verticală, în relația sa cu Dumnezeu - Creatorul lumii.** Când grija omului pentru averile materiale devine mai mare decât preocuparea pentru mântuirea sufletului său, atunci averile materiale constituie pentru om motiv puternic de a nu răspunde chemării lui Dumnezeu la mântuire și viață veșnică._
+
+Al doilea invitat care refuză chemarea Stăpânului de-a veni la cină spune că și-a cumpărat _cinci perechi de boi_ pe care trebuie să-i încerce. Tâlcuirea patristică a textului biblic vede în cele _cinci perechi de boi cele cinci simțuri ale omului_, care în general sunt grupate câte două: doi ochi (văzul), două urechi (auzul), două nări (mirosul), două buze sau limba și gura (gustul) și două mâini (pipăitul). _**Aceste cinci perechi de boi semnifică grija excesivă a oamenilor pentru mâncare, băutură și jocuri care aduc desfătări trupului.** Căutate și folosite în mod excesiv sau pătimaș, acestea îl fac pe om rob al simțurilor, întunecându-i și limitându-i orizontul duhovnicesc al sufletului. Prin urmare, **patimile egoiste care manifestă subjugarea sufletului sau a voinței de către simțuri conduc pe om la amorțire duhovnicească și la nepăsare privind mântuirea și viața veșnică la care este el chemat. Când oamenii trăiesc numai trupește și deloc duhovnicește, atunci simțurile lor se împătimesc, iar sufletul lor intră în jugul simțurilor împătimite.**_
+
+Al treilea om care se scuză că nu poate veni la cină spune că „_și-a luat femeie și de aceea nu poate veni_" (_Luca_ 14, 20). Deși căsătoria este o instituție sfântă și binecuvântată de Dumnezeu, _**uneori familia poate deveni pentru om un motiv de-a nu răspunde chemării lui Dumnezeu la mântuire**, dacă ea se transformă în idol, adică devine o preocupare exclusivă și excesivă a omului, încât acesta nu mai poate cultiva relația sa spirituală cu Dumnezeu. **Întrucât nu mai văd familia ca fiind, mai înainte de toate, o binecuvântare de la Dumnezeu, mulți oameni iubesc familia lor în uitare totală de Dumnezeu. Însă dacă familia este văzută ca fiind un dar de la Dumnezeu, atunci această iubire față de familie se sfințește.**_ Prin urmare, întrucât părinții, soțul, soția, copiii, frații și surorile, rudele și prietenii buni sunt pentru om dar sau binecuvântare de la Dumnezeu, _aceștia trebuie să fie iubiți nu numai afectiv sau sentimental, ci și duhovnicește, adică să fie cuprinși în iubirea și rugăciunea omului către Dumnezeu, pentru a înainta pe calea mântuirii și a sfințeniei. În acest sens, familia conjugală se sfințește prin participarea ei la viața duhovnicească a Bisericii lui Hristos_, la viața familiei eclesiale în care oamenii sunt frați în Hristos și fii duhovnicești ai Bisericii Lui, conduși de părinți duhovnicești pe calea mântuirii în lumina și iubirea Preasfintei Treimi.
+
+### În mod neașteptat, sărăci, bolnavi și oameni dintre păgâni sunt chemați la cina lui Dumnezeu
+
+Văzând refuzul celor poftiți sau invitați la cină, Stăpânul casei a schimbat și extins planul Său inițial, zicând Slujitorului Său: „_Ieși îndată în piețele și ulițele cetății, și pe săraci și pe neputincioși și pe orbi și pe șchiopi adu-i aici_" (_Luca_ 14, 21). Îndată, Slujitorul a făcut întocmai cum I s-a poruncit. Iar după ce a constatat că încă mai este loc în casă, Stăpânul casei a amplificat invitația Sa, zicând: „_Ieși la drumuri și la garduri și silește-i să intre ca să mi se umple casa_" (_Luca_ 14, 23). După ce s-a împlinit și porunca aceasta, toată casă s-a umplut de oameni care niciodată nu s-au considerat vrednici să fie invitați la o cină în casa aceea. Totuși, Stăpânul casei S-a supărat pe cei care n-au răspuns inițial chemării Sale, zicând: „_nici unul din bărbații aceia care au fost chemați_ (și n-au răspuns) _nu va mai gusta din cina Mea_" (_Luca_ 14, 24).
+
+După tâlcuirea Sfinților Părinți, cele trei categorii de oameni care au fost chemați la cină sunt foarte diferite între ele. **Cea dintâi categorie de invitați reprezintă elita sau conducătorii poporului evreu, care îndrumau spiritual poporul, dar care au refuzat să primească Evanghelia lui Hristos, Fiul Tatălui ceresc, Care S-a făcut Om din iubire pentru oameni și pentru mântuirea lor.**
+
+**A doua categorie de invitați la cină (săraci, neputincioși, orbi și șchiopi) reprezintă mulțimile de oameni săraci și bolnavi, care vin la Hristos să asculte cuvântul Evangheliei Sale și să fie vindecați de El.**
+
+**A treia categorie de invitați, „_cei de la drumuri și garduri_", sunt mulțimi de călători în lume pe drumuri întortocheate sau confuze, fără destinație precisă, trăitori la limitele existenței, în afara comuniunii adevărate în harul mântuitor. Aceștia reprezintă neamurile păgâne sau popoarele care, deși erau religioase, nu-L cunoșteau pe singurul Dumnezeu adevărat, Creatorul și Mântuitorul lumii.** _Și aceste popoare sunt chemate de Hristos la cină în casa Tatălui ceresc, care este Biserica, acum arvună, anticameră și icoană a Împărăției Lui Dumnezeu._
+
+### Cina Euharistică, arvuna Împărăției cerurilor
+
+Evanghelia de astăzi este într-un fel _Evanghelia tainei libertății omului, dar și a libertății lui Dumnezeu_. Noi avem libertatea de a spune „da" sau „nu" lui Dumnezeu când ne cheamă la mântuire și viață veșnică. Însă cine nu răspunde pozitiv la invitația de-a veni la Cina cea de Taină, la ospățul iubirii milostive și darnice a lui Dumnezeu, acela pierde bucuria de a fi veșnic împreună cu Domnul casei cerești. Pe de altă parte, _libertatea Stăpânului Care invită la Cină se vede mai ales din faptul că dacă cei dintâi chemați refuză invitația Lui, El are libertatea de a modifica planul Său și de-a prefera pe alții. Prin urmare, nimeni nu poate zădărnici planul lui Dumnezeu de mântuire a lumii, pentru că iubirea Lui milostivă se revarsă peste vidul spiritual al celor care nu răspund chemării Sale._
+
+Așadar, Evanghelia de astăzi ne privește și pe noi creștinii, întrucât și noi suntem uneori înclinați să repetăm greșelile căpeteniilor poporului lui Israel. Și noi inventăm uneori scuze că nu mai găsim timp de rugăciune, nu mai găsim timp pentru Spovedanie, pentru pocăință, deoarece suntem robiți de prea multe griji, de grijile zilei de astăzi și ale zilei de mâine. Atât de mult suntem uneori legați de cele materiale și de programe de activitate suprasolicitante, încât nu mai găsim timpul necesar pregătirii hranei duhovnicești pentru suflet și nici timpul necesar pentru a înveșmânta sufletul în haina luminoasă a harului și a virtuților izvorâte din rugăciunea neîncetată a minții și a inimii.
+
+Pilda Evangheliei de astăzi vorbește, așadar, despre taina sau misterul mântuirii lumii în Iisus Hristos, Care cheamă oamenii la mântuire, prin binevestirea Evangheliei Împărăției lui Dumnezeu și prin instituirea Cinei de Taină sau a Euharistiei, ca arvună a prânzului din Împărăția cerurilor, ca ospăț care pregătește bucuria comuniunii veșnice a oamenilor cu Dumnezeu, după ce ei s-au curățit de păcate prin Botez și prin Spovedanie.
+
+În sens mistic sau duhovnicesc, cina Stăpânului casei semnifică iubirea lui Dumnezeu dăruită oamenilor și viața oamenilor trăită în comuniune cu Dumnezeu în Biserică. De aceea, mai ales în această perioadă de pregătire pentru sărbătoarea Nașterii Domnului, invitația Stăpânului la cină are și înțelesul de chemare la Sfânta Euharistie, împărtășindu-ne cu Trupul și Sângele Mântuitorului Iisus Hristos, spre iertarea păcatelor și spre viața de veci.
+
+Deci, **prima învățătură duhovnicească practică a acestei Evanghelii pentru perioada Postului Nașterii Domnului este chemarea de a ne curăți de păcate prin Taina Pocăinței (Spovedaniei) și a ne împărtăși cu Trupul și Sângele Domnului, pentru a primi sănătate și mântuire, trezvie a sufletului și sfințire a simțurilor, pace și bucurie cerească**.
+
+Totodată, Evanghelia care cuprinde Pilda celor poftiți la cină a fost rânduită de Biserică să fie citită în această perioadă de pregătire pentru sărbătoarea Nașterii Domnului Iisus Hristos și **pentru a ne îndemna să fim milostivi și darnici, precum este Stăpânul Care invită la cină, să ajutăm pe cei săraci, pe cei bolnavi, pe cei călători, pe cei singuri și pe toți cei întristați.**
+
+Să ne ajute Bunul Dumnezeu ca în această perioadă de pregătire pentru a primi pe Pruncul Iisus ca să Se nască duhovnicește în peștera și ieslea sufletului nostru să sporim grija noastră pentru mântuirea sufletului și să ne sfințim simțirile prin rugăciune și post, prin pocăință și Spovedanie, prin milostenie și prin împărtășirea mai deasă cu Trupul și Sângele lui Hristos ca participare la Cina Domnului, care este arvuna Împărăției cerurilor, spre slava Preasfintei Treimi și spre a noastră mântuire. Amin!

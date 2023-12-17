@@ -5,7 +5,7 @@ year: 2021
 month: 2021-12
 draft: false
 featured: false
-pinned: true
+pinned: false
 authors:
 categories:
   - Evenimente
