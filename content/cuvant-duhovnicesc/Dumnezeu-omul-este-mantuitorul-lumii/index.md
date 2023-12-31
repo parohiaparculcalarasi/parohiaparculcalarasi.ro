@@ -5,7 +5,7 @@ year: 2020
 month: 2020-12
 draft: false
 featured: true
-pinned: true
+pinned: false
 toc: false
 authors:
   - patriarhul-daniel  
