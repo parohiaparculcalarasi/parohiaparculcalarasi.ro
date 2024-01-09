@@ -20,7 +20,7 @@ tags:
 
 **<p style="text-align: center;">† Daniel,<br>Patriarhul Bisericii Ortodoxe Române</p>**
 
-Ultima duminică dinaintea sărbătorii Nașterii Domnului este _Duminica Sfinților Părinți după trup ai Mântuitorului Iisus Hristos_, în care Biserica a rânduit să se citească Evanghelia de la Sfântul Apostol și Evanghelist Matei 1, 1-25, unde se prezintă genealogia Mântuitorului sau Cartea neamurilor lui Iisus.
+Ultima duminică dinaintea sărbătorii Nașterii Domnului este _Duminica Sfinților Părinți după trup ai Mântuitorului Iisus Hristos_, în care Biserica a rânduit să se citească Evanghelia de la Sfântul Apostol și Evanghelist Matei 1, 1-25, unde se prezintă _genealogia Mântuitorului_ sau _Cartea neamurilor lui Iisus_.
 
 Ea cuprinde o pedagogie și o înțelepciune divină care împreună exprimă: _așteptarea cu speranță a Mântuitorului de-a lungul generațiilor și pregătirea în credință a oamenilor pentru venirea Domnului Iisus Hristos_.
 
