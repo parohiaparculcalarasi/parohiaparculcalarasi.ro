@@ -56,7 +56,7 @@ _Predica Preafericitului Părinte Daniel, Patriarhul Bisericii Ortodoxe Române,
 
 **Note:**
 
-<a id="note_def_1" href="#note_1" class="ppc-note-def"><sup>1</sup></a>  Sf. Chiril al Alexandriei este de părere că termenul „kamilos” - cămila „nu este viețuitoarea cămila, ci o frânghie groasă folosită la corăbii”, în _Comentar la Sfânta Evanghelie de la Luca_, Editura Pelerinul Român, Oradea, 1998, p. 247.
+<a id="note_def_1" href="#note_1" class="ppc-note-def"><sup>1</sup></a> Sf. Chiril al Alexandriei este de părere că termenul „kamilos” - cămila „nu este viețuitoarea cămila, ci o frânghie groasă folosită la corăbii”, în _Comentar la Sfânta Evanghelie de la Luca_, Editura Pelerinul Român, Oradea, 1998, p. 247.
 
 <a id="note_def_2" href="#note_2" class="ppc-note-def"><sup>2</sup></a> Paschasius Radbertus (c. 790–859), _Expositio in Evangelium Matthaei_, în _PL_, vol. 120, col. 665; Anselm de Laon (sec. 12), _Enarrationes in Matthaeum_, în _PL_, vol. 162, col. 1415; Thomas Aquinas (1225-74), _Catena aurea in quatuor evangelia_, vol. 1: _Expositio in Matthaeum et Marcum_, Roma, Marietti, 1953, p. 288.
 
