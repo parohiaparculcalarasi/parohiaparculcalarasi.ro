@@ -28,7 +28,7 @@ Ea cuprinde o pedagogie și o înțelepciune divină care împreună exprimă: _
 
 Numai când ne pregătim îndelung pentru a primi un dar, atunci conștientizăm faptul cât de prețios este acest dar. Dumnezeu lasă pe oameni să dorească mai mult mântuirea, după ce au constatat că generații multe se nasc și apoi mor, una după alta, dar că _acest curs nu este unul normal sau conform cu vocația omului de-a trăi veșnic, fiind creat după chipul lui Dumnezeu Cel nemuritor sau veșnic viu_. Pe de o parte, constatăm că omenirea merge spre moarte, iar pe de altă parte observăm că în fiecare persoană umană există dorul de a trăi veșnic. _Pregătirea generațiilor din poporul evreu sau chiar și din alte popoare este, în același timp, o pedagogie înțeleaptă a lui Dumnezeu cu oamenii și o lucrare liberă a oamenilor credincioși pentru a împlini planul lui Dumnezeu de mântuire a lumii._
 
-### Nașterea după trup a Domnului pregătește așterea după Duh a oamenilor
+### Nașterea după trup a Domnului pregătește nașterea după Duh a oamenilor
 
 _Genealogia pe care ne-o prezintă Evanghelia de astăzi ne arată perioada etapizată de pregătire și de așteptare a omenirii întru credință și speranță pentru venirea lui Mesia-Hristos._
 
