@@ -18,7 +18,7 @@ tags:
 
 > _„În vremea aceea, auzind că Ioan a fost întemnițat, Iisus a plecat în Galileea. Şi, părăsind Nazaretul, a venit să locuiască în Capernaum, lângă mare, în hotarele lui Zabulon și Neftali, ca să se împlinească ce s-a zis prin Isaia prorocul, care zice: «Pământul lui Zabulon și pământul lui Neftali spre mare, dincolo de Iordan, Galileea neamurilor; poporul care stătea în întuneric a văzut lumină mare și celor ce ședeau în latura și în umbra morții lumină le-a răsărit». De atunci a început Iisus să propovăduiască și să spună: Pocăiți-vă, că s-a apropiat Împărăția cerurilor."_ (**_Matei_ 4, 12-17**)
 
-Duminica aceasta este numită Duminica după Botezul Domnului și are ca temă principală **începutul propovăduirii Domnului Iisus Hristos**. Ea ne arată că Mântuitorul Iisus Hristos este Lumina vieții veșnice.
+Duminica aceasta este numită _Duminica după Botezul Domnului_ și are ca temă principală **începutul propovăduirii Domnului Iisus Hristos**. Ea ne arată că Mântuitorul Iisus Hristos este Lumina vieții veșnice.
 
 În calendarul ortodox există duminici care se numesc _duminica dinaintea_ unei sărbători mari și _duminica după_ sărbătoarea respectivă. Așa avem _Duminica dinaintea Înălțării Sfintei Cruci_ și _Duminica după Înălțarea Sfintei Cruci_, _Duminica dinaintea Nașterii Domnului_ și _Duminica după Nașterea Domnului_, _Duminica dinaintea Botezului Domnului_ și _Duminica după Botezul Domnului_.
 
