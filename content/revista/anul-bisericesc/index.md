@@ -18,13 +18,13 @@ Acestea le-a făcut în ziua a treia, după ce a făcut verdeața în ziua a dou
 
 Deci Dumnezeu a rânduit zilele, săptămânile, lunile și anii pentru viața omului pe pământ. Căci precum Dumnezeu a creat lumea în cele 6 zile și în a șaptea zi, pe care a sfințit-o, S-a odihnit, tot așa I-a poruncit omului zicând: „_Șase zile să lucrezi iar în ziua a șaptea care este sâmbăta Domnului Dumnezeului tău, să nu faci niciun fel de lucru în această zi._” 
 
-La fel și ziua întâi din luna a șaptea, luna septembrie, a șaptea lună de la creație, a binecuvântat-o, a dat-o poporului său spre bucurie. Legat de luna aceasta, amintim că şi arca lui Noe, după ce au scăzut apele potopului, s-a odihnit pe Muntele Ararat. 
+La fel și ziua întâi din luna a șaptea, luna septembrie, a șaptea lună de la creație, a binecuvântat-o, a dat-o poporului său spre bucurie. Legat de luna aceasta, amintim că și arca lui Noe, după ce au scăzut apele potopului, s-a odihnit pe Muntele Ararat. 
 
 Tot în această lună Moise s-a coborât a doua oară din munte aducând cu el Tablele Legii. În această lună arhiereul cel mare al Legii vechi intra singura dată din an în cortul ce se numea Sfânta Sfintelor unde aducea jertfă sângeroasă pentru sine și pentru neștiințele poporului.
 
 Praznicul acesta al începutului de an Nou bisericesc a fost așezat de sfinții părinți de la Sinodul I de la Niceea aducând aminte de începutul activității Domnului nostru Iisus Hristos când a citit în sinagogă cuvintele proorocului Isaia (LXI, 1-2): 
 
-> _„Duhul Domnului este peste Mine, pentru care M-a uns să binevestesc săracilor; M-a trimis să vindec pe cei zdrobiți cu inima; să propovăduiesc robilor dezrobirea şi celor orbi vederea; să slobozesc pe cei apăsați,_   
+> _„Duhul Domnului este peste Mine, pentru care M-a uns să binevestesc săracilor; M-a trimis să vindec pe cei zdrobiți cu inima; să propovăduiesc robilor dezrobirea și celor orbi vederea; să slobozesc pe cei apăsați,_   
 > _Și să vestesc anul plăcut Domnului”_ (**Luca 4,17-19**). 
 
 Romanii au așezat începutul anului la 1 septembrie ca zi de amintire a biruinței lui August împotriva lui Antonie și a Cleopatrei.

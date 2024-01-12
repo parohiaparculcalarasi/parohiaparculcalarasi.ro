@@ -11,7 +11,7 @@ categories:
   - Evenimente
 #tags:
 ---
-Concert realizat la Biserica „Sfinții Împărați Constantin şi Elena” şi „Sfânta Cuvioasă Parascheva”  
+Concert realizat la Biserica „Sfinții Împărați Constantin și Elena” și „Sfânta Cuvioasă Parascheva”  
 
 {{< youtube gRp-dQVjk-A >}}
 

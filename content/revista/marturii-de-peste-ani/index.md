@@ -16,7 +16,7 @@ Cercetând cu interes unul dintre puținele documente care s-au mai păstrat în
 
 Eforturile Preotului Constantin Sârbu, ctitorul acestei Sfinte Biserici, au fost susținute de oameni deosebiți care și-au pus darurile date lor de Dumnezeu în atingerea acestui țel. 
 
-Din registrul cu primele procese verbale ale Consiliului Parohial al bisericii noastre am aflat că un important rol în strângerea de fonduri pentru continuarea lucrărilor la Sfântul Locaș l-a avut corul din acea vreme, care înfrumuseța Sfintele Liturghii, era alcătuit din „…60 de persoane, intelectuali ai cartierului…” şi era condus la acea dată de regretatul profesor și compozitor Victor Giuleanu. 
+Din registrul cu primele procese verbale ale Consiliului Parohial al bisericii noastre am aflat că un important rol în strângerea de fonduri pentru continuarea lucrărilor la Sfântul Locaș l-a avut corul din acea vreme, care înfrumuseța Sfintele Liturghii, era alcătuit din „…60 de persoane, intelectuali ai cartierului…” și era condus la acea dată de regretatul profesor și compozitor Victor Giuleanu. 
 
 Reținem din procesul verbal nr.2/27 ian. 1947, că în perioada 14 oct. 1945 - 22 dec. 1946, corul bisericii a susținut un număr de șapte concerte, la demisolul bisericii aflate în construcție, prilej cu care s-a strâns suma de 22.128.420 lei. Se propunea totodată continuarea acestor concerte. 
 
