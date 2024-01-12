@@ -40,7 +40,7 @@ Poporul care stătea în întuneric, adică în nedeplinătatea cunoașterii ade
 
 ### „Latura și umbra morții” semnifică starea de păcat ca înstrăinare a oamenilor de Dumnezeu Creatorul
 
-_„Poporul care stătea în întuneric”_ era poporul evreu care, deși se închina unicului Dumnezeu adevărat, Făcătorul cerului și al pământului, și primise unele lumini ale adevărului mântuitor prin Legea lui Moise și prin proroci, _totuși se afla într-o incertitudine privind identitatea lui Mesia_ pe care-L aștepta, într-o vreme când Ţara Sfântă se afla sub stăpânire romană politeistă, știut fiind faptul că romanii se închinau multor zei sau idoli.
+_„Poporul care stătea în întuneric”_ era poporul evreu care, deși se închina unicului Dumnezeu adevărat, Făcătorul cerului și al pământului, și primise unele lumini ale adevărului mântuitor prin Legea lui Moise și prin proroci, _totuși se afla într-o incertitudine privind identitatea lui Mesia_ pe care-L aștepta, într-o vreme când Țara Sfântă se afla sub stăpânire romană politeistă, știut fiind faptul că romanii se închinau multor zei sau idoli.
 
 Evanghelia din această zi mai precizează că și celor care ședeau _„în latura și în umbra morții”_ le-a răsărit lumină. Aceștia sunt etniile sau neamurile _politeiste ori idolatre care trăiau într-o totală necunoaștere a singurului Dumnezeu adevărat, Dumnezeu-Creatorul sau Făcătorul cerului și al pământului. De aceea, spre deosebire de evrei, păgânii nu se închinau Creatorului unic al lumii, ci multor zei sau idoli._
 

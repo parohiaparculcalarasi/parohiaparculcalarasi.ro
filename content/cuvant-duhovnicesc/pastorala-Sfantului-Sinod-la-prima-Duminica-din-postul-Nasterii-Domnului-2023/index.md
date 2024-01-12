@@ -106,7 +106,7 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† TEOFAN**, Arhiepiscopul Iașilor și Mitropolitul Moldovei și Bucovinei
 
-**† LAURENŢIU**, Arhiepiscopul Sibiului  și Mitropolitul Ardealului
+**† LAURENȚIU**, Arhiepiscopul Sibiului  și Mitropolitul Ardealului
 
 **† ANDREI**, Arhiepiscopul Vadului, Feleacului și Clujului și Mitropolitul Clujului, Maramureșului și Sălajului
 
@@ -156,7 +156,7 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† VENIAMIN**, Episcopul Basarabiei de Sud
 
-**† VINCENŢIU**, Episcopul Sloboziei și Călărașilor
+**† VINCENȚIU**, Episcopul Sloboziei și Călărașilor
 
 **† ANDREI**, Episcopul Covasnei și Harghitei
 
@@ -196,11 +196,11 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† ILARION FĂGĂRĂȘANUL**, Episcop-vicar al Arhiepiscopiei Sibiului
 
-**† BENEDICT BISTRIŢEANUL**, Episcop-vicar al Arhiepiscopiei Vadului, Feleacului și Clujului
+**† BENEDICT BISTRIȚEANUL**, Episcop-vicar al Arhiepiscopiei Vadului, Feleacului și Clujului
 
 **† PAISIE LUGOJEANUL**, Episcop-vicar al Arhiepiscopiei Timișoarei
 
-**† MARC NEMŢEANUL**, Episcop-vicar al Arhiepiscopiei Ortodoxe Române a Europei Occidentale
+**† MARC NEMȚEANUL**, Episcop-vicar al Arhiepiscopiei Ortodoxe Române a Europei Occidentale
 
 **† NECTARIE DE BRETANIA**, Episcop-vicar al Arhiepiscopiei Ortodoxe Române a Europei Occidentale
 

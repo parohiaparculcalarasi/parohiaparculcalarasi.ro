@@ -48,11 +48,11 @@ Dacă vom săvârși o singură virtute, cea mai mare chiar, dar nu ne vom îngr
 
 Când Iisus s-a suit în Ierusalim și era în casa lui Simon cel lepros, o femeie păcătoasă s-a apropiat de El și a turnat pe capul Lui acel mir de mare preț. Pomenirea ei se face în această zi pentru că, după cuvântul Mântuitorului, să se predice pretutindeni și tuturor fapta ei făcută cu multă dragoste. Ce-a îndemnat-o oare la asta? Dragostea pe care ea a văzut că Hristos o are pentru toți, dar mai cu seamă faptul de acum, când L-a văzut că intră în casa unui lepros. Se gândea, deci, femeia că îi va vindeca sufletul după cum l-a vindecat și pe acela. Și, într-adevăr, Hristos a tămăduit-o dându-i iertare de păcate. 
 
-> _„Doamne femeia ce căzuse în păcate multe, simțind dumnezeirea Ta, luând rânduială de mironosiță și tânguindu-se a adus Ţie mir mai înainte de îngropare…” (**Casiana monahia**)_ 
+> _„Doamne femeia ce căzuse în păcate multe, simțind dumnezeirea Ta, luând rânduială de mironosiță și tânguindu-se a adus Ție mir mai înainte de îngropare…” (**Casiana monahia**)_ 
 
 # Sfânta și Marea Joi 
 
-> _„Când măriții ucenici la spălarea Cinei s-au luminat, atunci Iuda cel rău credincios, cu iubirea de arginți bolnăvindu-se, s-a întunecat… Vezi, iubitorule de avuții, cel ce pentru acestea spânzurare și-a agonisit. Fugi de sufletul nesățios care a îndrăznit unele ca acestea asupra Învățătorului. Cel ce ești peste toți bun, Doamne, slavă Ţie.” (**Tropar**)_
+> _„Când măriții ucenici la spălarea Cinei s-au luminat, atunci Iuda cel rău credincios, cu iubirea de arginți bolnăvindu-se, s-a întunecat… Vezi, iubitorule de avuții, cel ce pentru acestea spânzurare și-a agonisit. Fugi de sufletul nesățios care a îndrăznit unele ca acestea asupra Învățătorului. Cel ce ești peste toți bun, Doamne, slavă Ție.” (**Tropar**)_
 
 Patru lucruri se prăznuiesc în această zi: Spălarea picioarelor, Cina cea de Taină, Rugăciunea din Grădina Ghetsimani și Vânzarea și prinderea Domnului. 
 

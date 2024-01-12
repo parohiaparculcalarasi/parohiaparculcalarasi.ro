@@ -1,6 +1,6 @@
 +++
 title = "Locație"
-description = 'Parohia Parcul Călărași, Biserica „Sfinţii Împăraţi Constantin şi Elena” şi „Sfânta Cuvioasă Parascheva”'
+description = 'Parohia Parcul Călărași, Biserica „Sfinții Împărați Constantin şi Elena” şi „Sfânta Cuvioasă Parascheva”'
 date = "2022-02-28"
 aliases = ["location"]
 author = "Parohia Parcul Călărași"
