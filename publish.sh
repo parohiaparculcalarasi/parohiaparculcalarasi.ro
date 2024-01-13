@@ -7,7 +7,7 @@ find ../parohiaparculcalarasi.github.io/ -mindepth 1 -maxdepth 1 -type d -not -p
 find ../parohiaparculcalarasi.github.io/ -mindepth 1 -maxdepth 1 -type f -name '*ml' -exec rm -r {} \;
 
 rm -rf public
-hugo --environment production
+hugo --environment production --buildFuture
 yes | cp -f -r public/. ../parohiaparculcalarasi.github.io/
 cd ../parohiaparculcalarasi.github.io/
 

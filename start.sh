@@ -11,5 +11,5 @@
 
 clear
 rm -rf ./public ./resources
-hugo server -D --port=8033
+hugo server -D --buildFuture --port=8033
 #sudo hugo server -b http://parohiaparculcalarasi.ro -p 80 -D
