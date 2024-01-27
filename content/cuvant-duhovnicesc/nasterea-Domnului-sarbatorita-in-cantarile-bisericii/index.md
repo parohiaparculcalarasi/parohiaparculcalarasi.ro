@@ -10,9 +10,8 @@ toc: false
 authors:
   - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+#  - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
   - Pastorala Sinodală
 ---
 **- Pastorală de Crăciun -**
