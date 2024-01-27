@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Învierea fiicei lui Iair
 ---
 **Evanghelia la Duminica a XXIV-a după Rusalii (Învierea fiicei lui Iair)**
 

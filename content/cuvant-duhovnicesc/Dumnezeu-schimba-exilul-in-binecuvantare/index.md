@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Fuga în Egipt
 ---
 **Evanghelia Duminicii după Nașterea Domnului nostru Iisus Hristos (Fuga în Egipt) (Mt. 2, 13-23)**
 

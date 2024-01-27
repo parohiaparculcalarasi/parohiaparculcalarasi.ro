@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Învierea fiului văduvei din Nain
 ---
 ### Duminica a XX-a după Rusalii (Învierea fiului văduvei din Nain) Luca 7, 11-16
 

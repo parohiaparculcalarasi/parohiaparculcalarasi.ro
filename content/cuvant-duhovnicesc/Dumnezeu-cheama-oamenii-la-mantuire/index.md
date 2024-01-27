@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Pilda celor poftiți la cină
 ---
 
 **Evanghelia Duminicii a XXVIII-a după Rusalii (Pilda celor poftiți la cină)**

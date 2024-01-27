@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Vindecarea demonizatului din ținutul Gherghesenilor
 ---
 **Evanghelia Duminicii a XXIII-a după Rusalii (Vindecarea demonizatului din ținutul Gherghesenilor)**
 

@@ -12,7 +12,8 @@ authors:
 categories:
   - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică 
+  - Evanghelia de Duminică
+  - Pilda bogatului nemilostiv și a săracului Lazăr
 ---
 _**Evanghelia Duminicii a XXII-a după Rusalii (Pilda bogatului nemilostiv și a săracului Lazăr)**_
 

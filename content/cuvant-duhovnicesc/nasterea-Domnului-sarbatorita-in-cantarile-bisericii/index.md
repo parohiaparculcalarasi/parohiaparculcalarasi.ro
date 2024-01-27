@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Pastorala Sinodală
 ---
 **- Pastorală de Crăciun -**
 

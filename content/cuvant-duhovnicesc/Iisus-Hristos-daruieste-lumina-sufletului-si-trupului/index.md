@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Vindecarea orbului din Ierihon
 ---
 
 **Duminica a XXXI-a după Rusalii (Vindecarea orbului din Ierihon), Luca 18, 35-43**

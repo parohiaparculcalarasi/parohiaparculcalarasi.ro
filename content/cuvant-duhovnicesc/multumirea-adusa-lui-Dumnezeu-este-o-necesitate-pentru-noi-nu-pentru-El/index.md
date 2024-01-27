@@ -14,6 +14,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Pilda celor zece leproși
 ---
 **Duminica a 29-a după Rusalii (a celor 10 leproși)**
 

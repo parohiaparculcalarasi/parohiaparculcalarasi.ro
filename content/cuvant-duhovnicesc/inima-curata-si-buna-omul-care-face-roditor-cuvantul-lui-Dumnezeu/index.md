@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Pilda semănătorului
 ---
 
 **Evanghelia Duminicii a XXI-a după Rusalii (Pilda semănătorului)**

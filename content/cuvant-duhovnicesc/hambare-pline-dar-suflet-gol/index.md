@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Pilda bogatului căruia i-a rodit țarina
 ---
 **Evanghelia Duminicii a XXVI-a după Rusalii (Pilda bogatului căruia i-a rodit țarina)**
 

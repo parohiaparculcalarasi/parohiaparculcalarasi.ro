@@ -11,6 +11,7 @@ authors:
   - dumitru-staniloae
 categories:
   - Cuvânt duhovnicesc
+  - Duminica Sfinților Români
 #tags:
 ---
 Creștinismul românesc a rodit și el din sine mulți și minunați sfinți, chiar dacă smerenia caracteristică poporului nostru sau alte împrejurări istorice nefavorabile în care a avut de trăit au făcut ca Biserica noastră să nu canonizeze decât un mic număr dintre ei și aceasta de-abia în 1955.
