@@ -8,6 +8,10 @@
 # npm install
 # npm update
 
+# https://github.com/gohugoio/hugo/releases/
+# sudo dpkg -i hugo_extended_0.123.7_linux-amd64.deb
+# nvm install --lts
+# npm install postcss-cli -global
 
 clear
 rm -rf ./public ./resources
