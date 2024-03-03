@@ -2,6 +2,7 @@
 <meta name="keywords" content="{{ if .IsPage }}{{ delimit .Keywords ", " }}{{ else }}{{ $.Site.Params.keywords }}{{ end }}" />
 <meta name="description" content="{{ if .IsPage }}{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}{{ else }}{{ $.Site.Params.description }}{{ end }}" />
 {{- partial "head/meta" . }}
+<link href="//fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
 {{- partial "head/feed" . }}
 {{- partial "seo_schema.seo" . | safeHTML }}
 {{- partialCached "head/site-verification" . }}
