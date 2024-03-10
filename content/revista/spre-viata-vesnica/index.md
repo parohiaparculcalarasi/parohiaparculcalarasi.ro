@@ -39,8 +39,8 @@ La țară bătrânii adună în podul casei vase, prosoape, batiste, unii chiar 
 
 Este trist că omul gândește la moarte în felul acesta, uitând de lucrurile cele mai importante: deasa Spovedanie și Sfânta Împărtășanie, arvuna vieții veșnice. 
 
-> „De aceea și voi fiți gata, că în ceasul în care nu gândiți Fiul Omului va veni“! (**Matei, capitolul 24, versetul 44.**)
+> „De aceea și voi fiți gata, că în ceasul în care nu gândiți Fiul Omului va veni“! (**_Matei_, capitolul 24, versetul 44.**)
 
 Înarmați cu fapte bune și ascultând cuvântul lui Dumnezeu ajungem din timpul vieții să trăim veșnicia întru Hristos, iar moartea să o privim nu cu spaimă, ci cu liniște și bucurie nădăjduind la Împărăția lui Dumnezeu. 
 
-> „Drept aceea, privegheați, că nu știți ziua, nici ceasul când vine Fiul Omului“ (**Matei, capitolul 25, versetul 13.**)
+> „Drept aceea, privegheați, că nu știți ziua, nici ceasul când vine Fiul Omului“ (**_Matei_, capitolul 25, versetul 13.**)

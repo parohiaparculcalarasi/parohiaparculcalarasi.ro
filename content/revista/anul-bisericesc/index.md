@@ -12,7 +12,7 @@ categories:
   - Revistă
 #tags:
 ---
-> _„Și a zis Dumnezeu să facem luminători pe tăria cerului ca să lumineze pe pământ, să despartă ziua de noapte și să fie semne ca să deosebească anotimpurile, zilele și anii.”_ (**Facerea 1,14**)
+> _„Și a zis Dumnezeu să facem luminători pe tăria cerului ca să lumineze pe pământ, să despartă ziua de noapte și să fie semne ca să deosebească anotimpurile, zilele și anii.”_ (**_Facerea_ 1,14**)
  
 Acestea le-a făcut în ziua a treia, după ce a făcut verdeața în ziua a doua, ca să nu creadă omul că originea vieții este de la soare. Odată cu creația a fost creat și timpul - „_Și a fost seară și a fost și dimineață_” -, arătând ziua liturgică ca zi a creației. 
 
@@ -25,7 +25,7 @@ Tot în această lună Moise s-a coborât a doua oară din munte aducând cu el 
 Praznicul acesta al începutului de an Nou bisericesc a fost așezat de sfinții părinți de la Sinodul I de la Niceea aducând aminte de începutul activității Domnului nostru Iisus Hristos când a citit în sinagogă cuvintele proorocului Isaia (LXI, 1-2): 
 
 > _„Duhul Domnului este peste Mine, pentru care M-a uns să binevestesc săracilor; M-a trimis să vindec pe cei zdrobiți cu inima; să propovăduiesc robilor dezrobirea și celor orbi vederea; să slobozesc pe cei apăsați,_   
-> _Și să vestesc anul plăcut Domnului”_ (**Luca 4,17-19**). 
+> _Și să vestesc anul plăcut Domnului”_ (**_Luca_ 4,17-19**). 
 
 Romanii au așezat începutul anului la 1 septembrie ca zi de amintire a biruinței lui August împotriva lui Antonie și a Cleopatrei.
 
@@ -38,4 +38,4 @@ Anii finali ai acestor perioade se numeau Lustrum (strălucit). Oamenii se vesel
 Hristos Dumnezeu, Mântuitorul nostru, nu este numai întemeietorul bisericii ci și axa timpului, mijlocul istoriei religioase. Înainte de venirea lui Hristos, ea se îndrepta spre El. După întruparea Lui a început să curgă timpul și să se numere anii. Așadar, Sfânta Biserică prăznuiește acest Indiction creștin în locul celui vechi al romanilor, creștinul dezbrăcându-se de omul cel vechi și îmbrăcându-se în omul cel nou, după chipul ziditorului său Hristos. 
 
 De aceea prăznuim anul nou așa cum ne sfătuiește Sfântul Apostol Pavel: 
-> „Întru înnoirea vieții să umblăm”. (**Romani 6,4**)
+> „Întru înnoirea vieții să umblăm”. (**_Romani_ 6,4**)

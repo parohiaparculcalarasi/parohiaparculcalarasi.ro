@@ -17,7 +17,7 @@ tags:
 ---
 **Evanghelia Duminicii după Înălțarea Cinstitei Cruci (Luarea Crucii și urmarea lui Hristos)**
 
-> _„Zis-a Domnul: cel care voiește să vină după Mine să se lepede de sine, să-și ia crucea sa și să-Mi urmeze Mie. Căci cine va voi să-și mântuiască sufletul său îl va pierde; dar cine-și va pierde sufletul său pentru Mine și pentru Evanghelie, acela îl va mântui. Și ce-i folosește omului să câștige lumea întreagă, dacă-și va pierde sufletul său? Sau ce ar putea să dea omul în schimb, pentru sufletul său? Iar cine se va rușina de Mine și de cuvintele Mele, în acest neam desfrânat și păcătos, și Fiul Omului se va rușina de el, când va veni în slava Tatălui Său cu sfinții îngeri. Apoi a zis către ei: adevărat vă spun vouă că sunt unii, din cei care stau aici, care nu vor gusta moarte, până când nu vor vedea împărăția lui Dumnezeu, venind cu putere.”_ (**Marcu 8, 34-38; 9, 1**)
+> _„Zis-a Domnul: cel care voiește să vină după Mine să se lepede de sine, să-și ia crucea sa și să-Mi urmeze Mie. Căci cine va voi să-și mântuiască sufletul său îl va pierde; dar cine-și va pierde sufletul său pentru Mine și pentru Evanghelie, acela îl va mântui. Și ce-i folosește omului să câștige lumea întreagă, dacă-și va pierde sufletul său? Sau ce ar putea să dea omul în schimb, pentru sufletul său? Iar cine se va rușina de Mine și de cuvintele Mele, în acest neam desfrânat și păcătos, și Fiul Omului se va rușina de el, când va veni în slava Tatălui Său cu sfinții îngeri. Apoi a zis către ei: adevărat vă spun vouă că sunt unii, din cei care stau aici, care nu vor gusta moarte, până când nu vor vedea împărăția lui Dumnezeu, venind cu putere.”_ (**_Marcu_ 8, 34-38; 9, 1**)
 
 **† Daniel, Patriarhul Bisericii Ortodoxe Române**
 
