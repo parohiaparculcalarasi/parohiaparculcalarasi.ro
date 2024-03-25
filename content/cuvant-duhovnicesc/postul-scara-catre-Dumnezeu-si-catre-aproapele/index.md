@@ -8,9 +8,9 @@ featured: true
 pinned: false
 toc: false
 authors:
-  - ips-nifon--arhiepiscopul-targovistei-si-exarh-patriarhal 
+  - patriarhul-daniel
 categories:
-  - Cuvânt duhovnicesc
+#  - Cuvânt duhovnicesc
 tags:
   - Pastorala Sinodală
 ---
