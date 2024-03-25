@@ -1,8 +1,8 @@
 ---
 title: Parastas în memoria victimelor bombardamentelor din 4 aprilie 1944
-date: 2023-03-30T00:00:00Z
-year: 2023
-month: 2023-03
+date: 2024-02-22T00:00:00Z
+year: 2024
+month: 2024-02
 draft: false
 featured: false
 pinned: true
