@@ -8,9 +8,9 @@ featured: true
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+  - patriarhul-daniel 
 categories:
-#  - Cuvânt duhovnicesc
+# - Cuvânt duhovnicesc
 tags:
   - Pastorala Sinodală
 ---
@@ -106,23 +106,23 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† TEOFAN**, Arhiepiscopul Iașilor și Mitropolitul Moldovei și Bucovinei
 
-**† LAURENȚIU**, Arhiepiscopul Sibiului  și Mitropolitul Ardealului
+**† LAURENȚIU**, Arhiepiscopul Sibiului și Mitropolitul Ardealului
 
 **† ANDREI**, Arhiepiscopul Vadului, Feleacului și Clujului și Mitropolitul Clujului, Maramureșului și Sălajului
 
-**† IRINEU**, Arhiepiscopul Craiovei  și Mitropolitul Olteniei
+**† IRINEU**, Arhiepiscopul Craiovei și Mitropolitul Olteniei
 
-**† IOAN**, Arhiepiscopul Timișoarei  și Mitropolitul Banatului
+**† IOAN**, Arhiepiscopul Timișoarei și Mitropolitul Banatului
 
-**† PETRU**, Arhiepiscopul Chișinăului,  Mitropolitul Basarabiei  și Exarh al Plaiurilor
+**† PETRU**, Arhiepiscopul Chișinăului, Mitropolitul Basarabiei și Exarh al Plaiurilor
 
-**† IOSIF**, Arhiepiscopul Ortodox Român  al Europei Occidentale și Mitropolitul Ortodox Român al Europei Occidentale și Meridionale
+**† IOSIF**, Arhiepiscopul Ortodox Român al Europei Occidentale și Mitropolitul Ortodox Român al Europei Occidentale și Meridionale
 
-**† SERAFIM**, Arhiepiscopul Ortodox Român  al Germaniei, Austriei și Luxemburgului și Mitropolitul Ortodox Român  al Germaniei, Europei Centrale și de Nord
+**† SERAFIM**, Arhiepiscopul Ortodox Român al Germaniei, Austriei și Luxemburgului și Mitropolitul Ortodox Român al Germaniei, Europei Centrale și de Nord
 
-**† NICOLAE**, Arhiepiscopul Ortodox Român al Statelor Unite ale Americii  și Mitropolitul Ortodox Român  al celor două Americi
+**† NICOLAE**, Arhiepiscopul Ortodox Român al Statelor Unite ale Americii și Mitropolitul Ortodox Român al celor două Americi
 
-**† NIFON**, Mitropolit onorific, Arhiepiscopul Târgoviștei  și Exarh Patriarhal
+**† NIFON**, Mitropolit onorific, Arhiepiscopul Târgoviștei și Exarh Patriarhal
 
 **† TEODOSIE**, Arhiepiscopul Tomisului
 
@@ -138,7 +138,7 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† CIPRIAN**, Arhiepiscopul Buzăului și Vrancei
 
-**† CASIAN**, Arhiepiscopul Dunării de Jos  6
+**† CASIAN**, Arhiepiscopul Dunării de Jos 6
 
 **† TIMOTEI**, Arhiepiscopul Aradului
 
@@ -148,7 +148,7 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† SOFRONIE**, Episcopul Ortodox Român al Oradiei
 
-**† IUSTIN**, Episcopul Ortodox Român  al Maramureșului și Sătmarului
+**† IUSTIN**, Episcopul Ortodox Român al Maramureșului și Sătmarului
 
 **† NICODIM**, Episcopul Severinului și Strehaiei
 
@@ -178,15 +178,15 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† SILUAN**, Episcopul Ortodox Român al Italiei
 
-**† TIMOTEI**, Episcopul Ortodox Român  al Spaniei și Portugaliei
+**† TIMOTEI**, Episcopul Ortodox Român al Spaniei și Portugaliei
 
-**† MACARIE**, Episcopul Ortodox Român  al Europei de Nord
+**† MACARIE**, Episcopul Ortodox Român al Europei de Nord
 
-**† MIHAIL**, Episcopul Ortodox Român  al Australiei și Noii Zeelande
+**† MIHAIL**, Episcopul Ortodox Român al Australiei și Noii Zeelande
 
 **† IOAN CASIAN**, Episcopul Ortodox Român al Canadei
 
-**† VARLAAM PLOIEȘTEANUL**, Episcop-vicar patriarhal  7
+**† VARLAAM PLOIEȘTEANUL**, Episcop-vicar patriarhal 7
 
 **† PAISIE SINAITUL**, Episcop-vicar patriarhal
 
@@ -204,7 +204,7 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† NECTARIE DE BRETANIA**, Episcop-vicar al Arhiepiscopiei Ortodoxe Române a Europei Occidentale
 
-**† SOFIAN BRAȘOVEANUL**, Episcop-vicar al Arhiepiscopiei  Ortodoxe Române a Germaniei,  Austriei și Luxemburgului
+**† SOFIAN BRAȘOVEANUL**, Episcop-vicar al Arhiepiscopiei Ortodoxe Române a Germaniei, Austriei și Luxemburgului
 
 **† DAMASCHIN DORNEANUL**, Episcop-vicar al Arhiepiscopiei Sucevei și Rădăuților
 
@@ -212,7 +212,7 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 
 **† TIMOTEI SĂTMĂREANUL**, Arhiereu-vicar al Episcopiei Ortodoxe Române a Maramureșului și Sătmarului
 
-**† GHERONTIE HUNEDOREANUL**, Arhiereu-vicar al Episcopiei Devei  și Hunedoarei
+**† GHERONTIE HUNEDOREANUL**, Arhiereu-vicar al Episcopiei Devei și Hunedoarei
 
 **† ATANASIE DE BOGDANIA**, Arhiereu-vicar al Episcopiei Ortodoxe Române a Italiei
 
@@ -225,7 +225,6 @@ Cu multă bucurie, vă îmbrățișăm părintește și vă împărtășim binec
 <a id="note_def_1" href="#note_1" class="ppc-note-def"><sup>1</sup></a> Sf. Ioan Gură de Aur, _Predici la sărbători împărătești și cuvântări de laudă la sfinți_, trad. din lb. greacă și note Pr. Prof. Dumitru Fecioru, Ed. Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2002, p. 559.
 
 <a id="note_def_2" href="#note_2" class="ppc-note-def"><sup>2</sup></a> Pr. Dumitru Stăniloae, Marc-Antoine Costa de Beauregard, _Mică dogmatică vorbită. Dialoguri la Cernica_, trad. Maria-Cornelia Oros, Ed. Deisis, Sibiu, 1995, p. 143.
-
 
 <br>
 
