@@ -12,7 +12,12 @@
                 {{- partial "author/avatar" .Page }}
                 <div class="text-center text-md-start flex-grow-1 ms-0 ms-md-4">
                     <h2 class="taxonomy-title card-title author-name fs-4 mb-2 text-surface">
-                      {{ $author_val := index $.Site.Data.authors .File.ContentBaseName }}
+                      {{ $author_val := "" }}
+
+                      {{ with .File }}
+                        {{ $author_val = index $.Site.Data.authors .ContentBaseName }}
+                      {{ end }}
+
                       <a href="{{ .Page.Permalink }}">{{ $author_val }}</a>
 <!--                      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>-->
                     </h2>
