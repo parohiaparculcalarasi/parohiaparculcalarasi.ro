@@ -5,7 +5,7 @@ year: 2024
 month: 2024-02
 draft: false
 featured: false
-pinned: true
+pinned: false
 authors:
 categories:
   - Evenimente
