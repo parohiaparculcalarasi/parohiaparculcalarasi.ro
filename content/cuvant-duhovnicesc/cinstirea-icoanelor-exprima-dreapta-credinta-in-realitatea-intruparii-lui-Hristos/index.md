@@ -8,11 +8,11 @@ featured: true
 pinned: false
 toc: false
 authors:
-    - patriarhul-daniel
+  - patriarhul-daniel
 categories:
 #  - Cuvânt duhovnicesc
 tags:
-    - Pastorala Sinodală
+  - Pastorala Sinodală
 ---
 **<p style="text-align: center;">Pastorala Sfântului Sinod<br>al Bisericii Ortodoxe Române<br>la <i>Duminica Ortodoxiei</i> din Anul Domnului 2024</p>**
 

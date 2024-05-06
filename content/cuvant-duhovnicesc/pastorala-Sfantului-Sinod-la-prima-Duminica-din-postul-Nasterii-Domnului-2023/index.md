@@ -10,7 +10,7 @@ toc: false
 authors:
   - patriarhul-daniel 
 categories:
-# - Cuvânt duhovnicesc
+#  - Cuvânt duhovnicesc
 tags:
   - Pastorala Sinodală
 ---
