@@ -8,7 +8,7 @@ featured: true
 pinned: false
 toc: false
 authors:
-  - ps-lucian--episcopul-caransebesului  
+  - ps-lucian--episcopul-caransebesului
 categories:
   - Cuvânt duhovnicesc
 tags:
