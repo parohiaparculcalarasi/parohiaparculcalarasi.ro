@@ -22,7 +22,7 @@ tags:
 
 La Sfânta Liturghie, săvârșită în Duminica a 29-a după Rusalii, se rostesc două cuvinte din Dumnezeiasca Scriptură, spre călăuzirea celor prezenți în Biserică: al Sfântului Apostol Pavel (_Col._ 1, 12-18) și al Sfântului Evanghelist Luca (17, 12-19). Ambele mărturisesc despre mulțumirea care se cuvine a fi adusă lui Dumnezeu.
 
-_„Fraților_, spune Sfântul Pavel, _mulțumim cu bucurie Tatălui, Celui ce ne-a învrednicit pe noi să luăm parte la moștenirea sfinților, întru lumină”_ (_Col._ 1, 12). Sfântul Evanghelist Luca, relatând vindecarea celor zece leproși, arată că _„unul dintre ei, văzând că s-a vindecat, s-a întors, cu glas mare slăvind pe Dumnezeu. Şi a căzut cu fața la pământ la picioarele lui Iisus, mulțumindu-I”_ (_Lc._ 17, 15-16).
+_„Fraților_, spune Sfântul Pavel, _mulțumim cu bucurie Tatălui, Celui ce ne-a învrednicit pe noi să luăm parte la moștenirea sfinților, întru lumină”_ (_Col._ 1, 12). Sfântul Evanghelist Luca, relatând vindecarea celor zece leproși, arată că _„unul dintre ei, văzând că s-a vindecat, s-a întors, cu glas mare slăvind pe Dumnezeu. Și a căzut cu fața la pământ la picioarele lui Iisus, mulțumindu-I”_ (_Lc._ 17, 15-16).
 
 Mare în fața lui Dumnezeu și a oamenilor este starea de mulțumire, de recunoștință!
 
