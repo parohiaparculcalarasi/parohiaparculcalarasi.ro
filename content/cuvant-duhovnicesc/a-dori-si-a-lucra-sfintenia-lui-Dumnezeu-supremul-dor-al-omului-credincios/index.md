@@ -1,4 +1,3 @@
-
 ---
 title: A dori și a lucra sfințenia lui Dumnezeu, supremul dor al omului credincios
 date: 2024-06-30T00:00:00Z
