@@ -29,7 +29,7 @@ La prima vedere, Evanghelia de astăzi ar putea părea doar una din multele minu
 
 ### Care este învățătura demnă de evidențiat?
 
-Marea învolburată este lumea aceasta care, de multe ori, așa cum s-a întâmplat să le fie potrivnică ucenicilor, ne stă uneori și nouă împotrivă. Valurile ei înfuriate sunt împrejurările grele prin care trecem cu anevoie și noi câteodată și din care, de cele mai multe ori, nu știm cum să facem să scăpăm. Iar vânturile, care l-au înspăimântat pe Petru și mai mult, sunt greutățile și ispitele care se năpustesc adeseori nemiloase asupra noastră, îngrozindu-ne până la moarte.
+Marea învolburată este lumea aceasta ./atcare, de multe ori, așa cum s-a întâmplat să le fie potrivnică ucenicilor, ne stă uneori și nouă împotrivă. Valurile ei înfuriate sunt împrejurările grele prin care trecem cu anevoie și noi câteodată și din care, de cele mai multe ori, nu știm cum să facem să scăpăm. Iar vânturile, care l-au înspăimântat pe Petru și mai mult, sunt greutățile și ispitele care se năpustesc adeseori nemiloase asupra noastră, îngrozindu-ne până la moarte.
 
 Uitați-vă la Apostol! Deși într-o primă fază se îndoiește, căci spune: _„Doamne, **dacă ești Tu**, poruncește să vin la Tine pe apă”_, găsește totuși curajul necesar de a înfrunta valurile și, pentru aceasta, reușește să pășească pe mare ca pe uscat. Vânturile însă îl fac să se clatine și să se afunde pentru câteva momente, dar chemarea în ajutor a Domnului îi aduce, până la urmă, salvarea.
 
