@@ -1,8 +1,8 @@
 ---
 title: Strigătul credinței
-date: 2024-08-25T00:00:00Z
+date: 2024-09-01T00:00:00Z
 year: 2024
-month: 2024-08
+month: 2024-09
 draft: false
 featured: true
 pinned: false
