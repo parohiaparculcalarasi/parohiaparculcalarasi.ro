@@ -68,7 +68,7 @@ Nu doar Ioachim și Ana nu au putut avea copii, la fel s-a întâmplat și cu al
 
 Cu toate acestea, există și o deosebire între Ioachim și Ana și toate celelalte personalități pomenite din Vechiul Testament, pentru că, în afară de Ioachim și Ana, toate celelalte cupluri au avut băieți, dar cu toate acestea, Sfânta Fecioară Maria s-a ridicat cu mult deasupra tuturor, din moment ce ea este „mai cinstită decât heruvimii și mai mărită fără de asemănare decât serafimii”.
 
-Ioachim și Ana și-au numit fiica Maria, după cum le spusese îngerul care le-a vestit nașterea ei. Şi aceasta cu toate că în limba ebraică acest nume se găsește sub formele de „Miriam” sau „Mariam”, așa cum se numea sora lui Moise, care era prorociță (_Ieșire_ 15, 20), fiind cel mai frecvent nume pe care îl poartă femeile din Țara Sfântă până în zilele noastre, întrucât Noul Testament a fost scris în limba greacă, Maica Domnului a fost întotdeauna numită Maria, purtând forma grecizată a numelui ebraic.
+Ioachim și Ana și-au numit fiica Maria, după cum le spusese îngerul care le-a vestit nașterea ei. Și aceasta cu toate că în limba ebraică acest nume se găsește sub formele de „Miriam” sau „Mariam”, așa cum se numea sora lui Moise, care era prorociță (_Ieșire_ 15, 20), fiind cel mai frecvent nume pe care îl poartă femeile din Țara Sfântă până în zilele noastre, întrucât Noul Testament a fost scris în limba greacă, Maica Domnului a fost întotdeauna numită Maria, purtând forma grecizată a numelui ebraic.
 
 Din punct de vedere etimologic acest nume provine ori din egipteană, ori din ebraică și are multiple semnificații, precum: „binecuvântată de Dumnezeu”, „doamnă”, „împărăteasă”, „stăpână”, „cea aleasă”, „cea frumoasă” etc.
 
@@ -82,7 +82,7 @@ Pentru ca Dumnezeu să poată mântui omenirea era nevoie de o persoană în car
 
 Sfânta Fecioară Maria este primul om care prin viața ei curată, dedicată în întregime lui Dumnezeu, a arătat ce este de fapt natura umană veritabilă. Ceea ce dovedește că suntem oameni adevărați este iubirea deplină față de Dumnezeu și de semeni. Deși născută cu păcatul strămoșesc, Sfânta Fecioară Maria a stat de la începutul vieții ei împotriva răului și a păcatului, păstrându-se curată și oferind lui Dumnezeu firea umană în frumusețea ei neîntinată cu păcate personale. Numai așa Fiul lui Dumnezeu a putut să Se întrupeze din pântecele ei.
 
-Opera întrupării Fiului lui Dumnezeu nu este doar lucrarea Sfintei Treimi, ci și rodul credinței și voinței Sfintei Fecioare Maria, deoarece Fiul lui Dumnezeu nu-Şi putea alege de mamă decât pe cea mai înaltă dintre toate ființele umane, cea în care să se vadă scopul pentru care Dumnezeu a creat natura umană, anume ca să existe o ființă omenească în stare să slujească scopului dumnezeiesc, acela de a face posibilă întruparea Fiului Său.
+Opera întrupării Fiului lui Dumnezeu nu este doar lucrarea Sfintei Treimi, ci și rodul credinței și voinței Sfintei Fecioare Maria, deoarece Fiul lui Dumnezeu nu-Și putea alege de mamă decât pe cea mai înaltă dintre toate ființele umane, cea în care să se vadă scopul pentru care Dumnezeu a creat natura umană, anume ca să existe o ființă omenească în stare să slujească scopului dumnezeiesc, acela de a face posibilă întruparea Fiului Său.
 
 ### Legătura dintre aurora dimineții și soare
 
