@@ -8,7 +8,7 @@ featured: true
 pinned: false
 toc: false
 authors:
-    - ps-ieronim--episcopul-daciei-felix.
+    - ps-ieronim--episcopul-daciei-felix
 categories:
     - Cuvânt duhovnicesc
 tags:
