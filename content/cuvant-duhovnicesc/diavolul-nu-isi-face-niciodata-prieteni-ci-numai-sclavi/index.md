@@ -8,7 +8,7 @@ featured: true
 pinned: false
 toc: false
 authors:
-    - ps-timotei--episcopul-ortodox-roman-al-spaniei-si-portugaliei
+    - ps-macarie--episcopul-ortodox-roman-al-europei-de-nord
 categories:
     - Cuvânt duhovnicesc
 tags:
