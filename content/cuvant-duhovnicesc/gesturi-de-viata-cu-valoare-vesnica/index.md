@@ -13,11 +13,11 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
-    - Bogatul nemilostiv şi săracul Lazăr
+    - Bogatul nemilostiv și săracul Lazăr
 ---
-_**Duminica a 22-a după Rusalii (Bogatul nemilostiv şi săracul Lazăr)**_
+_**Duminica a 22-a după Rusalii (Bogatul nemilostiv și săracul Lazăr)**_
 
-> _„Zis-a Domnul: Era un om bogat care se îmbrăca în porfiră şi în vison, veselindu-se în toate zilele în chip strălucit. Iar un sărac, anume Lazăr, zăcea înaintea porții lui, plin de bube, poftind să se sature din cele ce cădeau de la masa bogatului; dar şi câinii venind, lingeau bubele lui. Şi a murit săracul şi a fost dus de către îngeri în sânul lui Avraam. A murit şi bogatul şi a fost înmormântat. Şi, în iad, ridicându-şi ochii, fiind în chinuri, el a văzut de departe pe Avraam şi pe Lazăr în sânul lui. Şi el, strigând, a zis: Părinte Avraame, fie-ți milă de mine şi trimite pe Lazăr să-şi ude vârful degetului în apă şi să-mi răcorească limba, căci mă chinuiesc în această văpaie! Dar Avraam a zis: Fiule, adu-ți aminte că tu ai primit cele bune ale tale în viața ta, iar Lazăr, asemenea, pe cele rele; şi acum aici el se mângâie, iar tu te chinuiești. Şi, peste toate acestea, între noi şi voi s-a întărit prăpastie mare, ca aceia care voiesc să treacă de aici la voi să nu poată, nici cei de acolo să treacă la noi. Iar el a zis: Rogu-te, dar, părinte, să-l trimiți în casa tatălui meu, căci am cinci frați, să le spună lor acestea, ca să nu vină şi ei în acest loc de chin. Şi i-a zis Avraam: Au pe Moise şi pe proroci; să asculte de ei. Iar el a zis: Nu, părinte Avraame, ci, dacă cineva dintre morți se va duce la ei, se vor pocăi. Şi i-a zis Avraam: Dacă nu ascultă de Moise şi de proroci, nu vor crede nici dacă ar învia cineva din morți.”_ (**_Luca_ 16, 19-31**)
+> _„Zis-a Domnul: Era un om bogat care se îmbrăca în porfiră și în vison, veselindu-se în toate zilele în chip strălucit. Iar un sărac, anume Lazăr, zăcea înaintea porții lui, plin de bube, poftind să se sature din cele ce cădeau de la masa bogatului; dar și câinii venind, lingeau bubele lui. Și a murit săracul și a fost dus de către îngeri în sânul lui Avraam. A murit și bogatul și a fost înmormântat. Și, în iad, ridicându-și ochii, fiind în chinuri, el a văzut de departe pe Avraam și pe Lazăr în sânul lui. Și el, strigând, a zis: Părinte Avraame, fie-ți milă de mine și trimite pe Lazăr să-și ude vârful degetului în apă și să-mi răcorească limba, căci mă chinuiesc în această văpaie! Dar Avraam a zis: Fiule, adu-ți aminte că tu ai primit cele bune ale tale în viața ta, iar Lazăr, asemenea, pe cele rele; și acum aici el se mângâie, iar tu te chinuiești. Și, peste toate acestea, între noi și voi s-a întărit prăpastie mare, ca aceia care voiesc să treacă de aici la voi să nu poată, nici cei de acolo să treacă la noi. Iar el a zis: Rogu-te, dar, părinte, să-l trimiți în casa tatălui meu, căci am cinci frați, să le spună lor acestea, ca să nu vină și ei în acest loc de chin. Și i-a zis Avraam: Au pe Moise și pe proroci; să asculte de ei. Iar el a zis: Nu, părinte Avraame, ci, dacă cineva dintre morți se va duce la ei, se vor pocăi. Și i-a zis Avraam: Dacă nu ascultă de Moise și de proroci, nu vor crede nici dacă ar învia cineva din morți.”_ (**_Luca_ 16, 19-31**)
 
 În textul Epistolei către Galateni, citit la Dumnezeiasca Liturghie, Sfântul Apostol Pavel ne vorbește despre _„făptura cea nouă”_  (_Galateni_ 6, 15). Scopul întregii iconomii a lui Dumnezeu este de a-i da posibilitatea omului să devină _făptură nouă_.
 
@@ -25,7 +25,7 @@ Drumul pe care îl parcurge omul în viața lui personală, ocaziile pe care Dum
 
 Asemenea Sfântului Apostol Pavel, care dobândește o nouă înțelegere a vocației și drumului său în viață datorită experienței întâlnirii lui cu Dumnezeu pe calea Damascului, putem și noi la rândul nostru înțelege că Ziditorul ne oferă ocazia, de fiecare dată când întâlnim o persoană sau participăm la un eveniment, să adâncim înțelegerea vieții noastre în legătură cu El, să o îndreptăm și să o așezăm pe făgașul care ne poartă prin transfigurare spre El și spre Împărăția cea veșnică. Spune Sfântul Apostol Pavel că nimic nu este mai important ca devenirea întru făptura cea nouă, adică persoana care reflectă în viața proprie _chipul și asemănarea lui Dumnezeu_.
 
-### Bogatul avea prea multe preocupări şi griji
+### Bogatul avea prea multe preocupări și griji
 
 În Evanghelia de la Sfântul Apostol și Evanghelist Luca, citită astăzi, se vorbește despre parabola pe care Mântuitorul Hristos o prezintă ascultătorilor Săi. Un om bogat petrecea în fiecare zi în desfătări și petreceri, bucurându-se de darurile lui Dumnezeu revărsate asupra lui, fără însă a se îngriji de semenul său. Aproapele lui era un om sărac pe nume Lazăr, care pătimea din cauza bolii sale și din cauza sărăciei. Deși era la poarta casei omului bogat, acesta nu-l vedea de prea multele preocupări și griji lumești. Numele bogatului este anonim, dar pe cel sărac Hristos îl cheamă pe nume - Lazăr.
 
@@ -37,7 +37,7 @@ Bogatul îl vede pe acest sărac la poarta sa în fiecare zi. El ar putea să-i 
 
 Fiecare zi este o ocazie și pentru omul bogat și pentru cel sărac să dobândească veșnicia, fiecare în felul rânduit de Dumnezeu: cel bogat prin a face milostenie și prin mulțumirea adusă lui Dumnezeu pentru acest lucru; cel sărac prin primirea acestei milostenii și prin mulțumirea adusă lui Dumnezeu pentru ea. Viața omului este un dialog permanent cu Dumnezeu și între oameni. Dobândirea vieții veșnice se face prin dialogul cu Dumnezeu și între noi înșine, prin cuvânt și faptă.
 
-### Legătura vie între viața de aici şi cea veşnică
+### Legătura vie între viața de aici și cea veșnică
 
 Hristos în această parabolă ne arată că este o legătură adevărată între viața și faptele de aici și viața veșnică și răsplata care ne va fi dată acolo. Există o corelație între viața de aici și cea de dincolo, între lumea de aici și cea veșnică. Nu este între cele două nici continuitate perfectă, pentru că viața de aici este afectată de păcat față de cea de dincolo, dar nu este nici complet desprinsă de ea pentru că ambele includ persoana noastră în stadiul pământesc aici sau transfigurat de făptura nouă în cea de dincolo.
 
@@ -45,7 +45,7 @@ Hristos în această parabolă ne arată că este o legătură adevărată într
 
 Din răspunsul pe care bogatul îl primește de la Avraam la rugămintea de a-i ușura suferința setei și văpăii, înțelegem cât de importante sunt faptele noastre în viața pământească și cât de mare este distanța ontologică, calitativă, a vieții de sfințenie și a celei de păcat. Prăpastia neiubirii, a lipsei de fapte bune, de dragoste și atenție față de cel de lângă noi, este una care odată creată, nu mai poate fi desființată de om. Esența ei, prăpastia despre care vorbește Avraam, înseamnă lipsa harului și prezenței lui Dumnezeu în viața și faptele omului care nu iubește. Acestea, adică harul și dragostea lui Dumnezeu, nu pot fi înlocuite cu nimic, căci ele sunt atribute ale lui Dumnezeu. Omul nu le poate crea prin sine, post-factum. Doar Dumnezeu, izvorul lor și a toate, poate schimba lucrurile prin dragoste și iertare.
 
-Pe parcursul vieții învățătura și exemplele Sfintei Scripturi sunt oferite tuturor spre folos în vederea schimbării vieții. La cererea bogatului ca Avraam să-l trimită pe săracul Lazăr în casa tatălui său, la frații lui, pentru a nu ajunge și ei în suferință ca şi el, acesta îi răspunde că întreaga Sfântă Scriptură cu învățătura și exemplele ei - Moise și prorocii - au fost și sunt tuturor oferite spre folos. Este suficient să te apropii, să citești și să urmezi îndemnurile pe care ei le oferă pentru a începe schimbarea vieții, pentru a deveni făptura cea nouă. Dumnezeu a pus totul la îndemâna noastră pentru a deveni chip și asemănare a Lui.
+Pe parcursul vieții învățătura și exemplele Sfintei Scripturi sunt oferite tuturor spre folos în vederea schimbării vieții. La cererea bogatului ca Avraam să-l trimită pe săracul Lazăr în casa tatălui său, la frații lui, pentru a nu ajunge și ei în suferință ca și el, acesta îi răspunde că întreaga Sfântă Scriptură cu învățătura și exemplele ei - Moise și prorocii - au fost și sunt tuturor oferite spre folos. Este suficient să te apropii, să citești și să urmezi îndemnurile pe care ei le oferă pentru a începe schimbarea vieții, pentru a deveni făptura cea nouă. Dumnezeu a pus totul la îndemâna noastră pentru a deveni chip și asemănare a Lui.
 
 ### Patriarhul Avraam a lăsat totul pentru o făgăduință
 
@@ -59,7 +59,7 @@ A asculta cuvintele Drepților Vechiului Testament, ale prorocilor, ale Sfintei 
 
 La cea din urmă cerere, bogatul vorbește despre puterea exemplului învierii cuiva care poate schimba viața fraților săi. Mântuitorul, prin acest exemplu, prezintă înainte de vreme chiar exemplul vieții Sale. Omul, din cauza păcatului și căderii, a îndepărtării lui de firescul existenței în Dumnezeu, chiar dacă i se va arăta cineva înviat din morți, este foarte posibil să nu se schimbe mult. O vedem nu numai în viața dușmanilor Mântuitorului, a mai marilor templului în timpul vieții pământești și chiar și în viața ucenicilor Lui după înviere - cu femeile mironosițe, cu Sfinții Apostoli Petru și Ioan, cu Luca și Cleopa pe drumul spre Emaus, cu ucenicii pe malul Mării Galileii. Toți au avut nevoie de ceva timp să se dumirească după întâlnirea cu Hristos cel înviat. Toți au avut nevoie de frângerea pâinii, de părtășia ei și de inspirația Sfântului Duh pentru a-L recunoaște deplin pe Mântuitorul Hristos și pentru a se întări și continua misiunea de vestire și mărturisire a Evangheliei și pentru întărirea Bisericii.
 
-### Să fim pildă pentru ceilalți prin credința şi fapta noastră
+### Să fim pildă pentru ceilalți prin credința și fapta noastră
 
 Întâlnirea cu diferiți oameni de diferite condiții, trăirea anumitor evenimente, citirea Sfintei Scripturi sau a altor texte importante, a vieții sfinților, sunt tot atâtea ocazii de a ne apropia de Dumnezeu, de a ne cunoaște pe noi și propria vocație din perspectivă dumnezeiască și de a-I vorbi Domnului prin cuvânt și faptă. Avraam îi aduce aminte bogatului în răspunsurile sale ocaziile pe care acesta le-a neglijat, pe care le-a ignorat sau nu a vrut să le vadă din cauza lucrurilor prea mărunte sau neimportante cu care și-a umplut viața. Acestea l-au împiedicat să vadă lucrarea lui Dumnezeu în aproapele său și legătura ei cu sine. Cuvintele lui Avraam ne aduc aminte de esența vieții noastre. Ca zidiri ale lui Dumnezeu, suntem chemați să ne transfigurăm viața, să întrupăm în ea sfințenia și virtuțile datorită lucrării harului lui Dumnezeu.
 
@@ -71,6 +71,6 @@ Oricâte minuni s-ar întâmpla în jurul nostru, oricâți oameni sfinți am ve
 
 Iată cum, prin exemplul simplu al parabolei de astăzi, înțelegem importanța responsabilității noastre creștine în această viață pământească, a rolului relațiilor umane, a dragostei și atenției față de aproapele, dar și rolul credinței și faptelor bune în dobândirea vieții veșnice.
 
-Devenind făptură nouă, dobândim cetățenia Împărăției veșnice. Nu mai suntem străini şi locuitori vremelnici, ci împreună cetățeni cu sfinții şi casnici ai lui Dumnezeu. Suntem zidiți astfel pe temelia apostolilor şi a prorocilor, devenind locaș sfânt, piatra cea din capul unghiului fiind Însuși Iisus Hristos (_Efeseni_ 2, 19-22).
+Devenind făptură nouă, dobândim cetățenia Împărăției veșnice. Nu mai suntem străini și locuitori vremelnici, ci împreună cetățeni cu sfinții și casnici ai lui Dumnezeu. Suntem zidiți astfel pe temelia apostolilor și a prorocilor, devenind locaș sfânt, piatra cea din capul unghiului fiind Însuși Iisus Hristos (_Efeseni_ 2, 19-22).
 
 {{< gallery images="images/1.jpg,images/2.jpg,images/3.jpg,images/4.jpg,images/5.jpg" >}}
