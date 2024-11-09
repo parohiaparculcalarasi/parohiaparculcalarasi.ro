@@ -1,13 +1,14 @@
-+++
-title = "Istoric"
-description = 'Parohia Parcul Călărași,  Biserica „Sfinții Împărați Constantin și Elena” și „Sfânta Cuvioasă Parascheva”'
-date = "2022-02-28"
-aliases = ["about-us"]
-author = "Parohia Parcul Călărași"
-reward = false
-postDate = false
-readingTime = false
-+++
+---
+title: Istoric
+description: Parohia Parcul Călărași,  Biserica „Sfinții Împărați Constantin și Elena” și „Sfânta Cuvioasă Parascheva”
+date: 2022-02-28
+aliases: 
+    - about-us
+author: Parohia Parcul Călărași
+reward: false
+postDate: false
+readingTime: false
+---
 
 Biserica se află în partea de est a Capitalei, la „Bariera Vergului”. Construcția bisericii a început în anul 1942, în timpul guvernării Mareșalului Ion Antonescu, care a sprijinit masiv lucrările de construire și al cărui tablou votiv se află în pronaos.
 
