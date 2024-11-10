@@ -1,5 +1,5 @@
 ---
-title: 'Icoana Maicii Domnului „Prodromița” cinstită în biserica Parohiei Parcul Călărași'
+title: 'Icoana Maicii Domnului „Prodromița” cinstită în Biserica Parohiei Parcul Călărași'
 date: 2024-07-12T00:00:00Z
 publishDate: 2024-07-12T00:00:00Z
 year: 2024
