@@ -9,7 +9,7 @@ featured: true
 pinned: false
 toc: false
 authors:
-    - ps-vincentiu--episcopul-sloboziei-si-calarasilor
+    - sfantul-cuvios-cleopa-ilie
 categories:
     - Cuvânt duhovnicesc
 tags:
