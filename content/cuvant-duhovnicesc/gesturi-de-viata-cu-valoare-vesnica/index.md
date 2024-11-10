@@ -1,6 +1,7 @@
 ---
 title: Gesturi de viață cu valoare veșnică
 date: 2024-11-03T00:00:00Z
+publishDate: 2024-11-03T00:00:00Z
 year: 2024
 month: 2024-11
 draft: false
