@@ -89,7 +89,7 @@ Ne rugăm Preamilostivului Dumnezeu să-i binecuvânteze pe toți românii, din 
 
 **† Laurențiu**, Arhiepiscopul Sibiului și Mitropolitul Ardealului
 
-**† Andrei, Arhiepiscopul Vadului, Feleacului și Clujului și Mitropolitul Clujului**, Maramureșului și Sălajului
+**† Andrei**, Arhiepiscopul Vadului, Feleacului și Clujului și Mitropolitul Clujului, Maramureșului și Sălajului
 
 **† Irineu**, Arhiepiscopul Craiovei și Mitropolitul Olteniei
 

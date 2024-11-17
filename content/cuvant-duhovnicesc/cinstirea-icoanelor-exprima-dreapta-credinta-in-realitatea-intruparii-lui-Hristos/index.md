@@ -94,7 +94,7 @@ _Harul Domnului nostru Iisus Hristos și dragostea lui Dumnezeu Tatăl și împ�
 
 **† Laurențiu**, Arhiepiscopul Sibiului și Mitropolitul Ardealului
 
-**† Andrei, Arhiepiscopul Vadului, Feleacului și Clujului și Mitropolitul Clujului**, Maramureșului și Sălajului
+**† Andrei**, Arhiepiscopul Vadului, Feleacului și Clujului și Mitropolitul Clujului, Maramureșului și Sălajului
 
 **† Irineu**, Arhiepiscopul Craiovei și Mitropolitul Olteniei
 
