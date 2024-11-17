@@ -190,7 +190,7 @@ _Harul Domnului nostru Iisus Hristos și dragostea lui Dumnezeu Tatăl și împ�
 
 **† Nectarie De Bretania**, Episcop-vicar al Arhiepiscopiei Ortodoxe Române a Europei Occidentale
 
-**† Sofian Brașoveanul, Episcop-vicar al Arhiepiscopiei Ortodoxe Române a Germaniei**, Austriei și Luxemburgului
+**† Sofian Brașoveanul**, Episcop-vicar al Arhiepiscopiei Ortodoxe Române a Germaniei, Austriei și Luxemburgului
 
 **† Damaschin Dorneanul**, Episcop-vicar al Arhiepiscopiei Sucevei și Rădăuților
 
