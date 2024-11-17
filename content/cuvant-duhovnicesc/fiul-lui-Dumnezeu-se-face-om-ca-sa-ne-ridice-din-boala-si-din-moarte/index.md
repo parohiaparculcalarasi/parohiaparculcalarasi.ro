@@ -95,7 +95,7 @@ Ne rugăm Preamilostivului Dumnezeu să-i binecuvânteze pe toți românii, din 
 
 **† Ioan**, Arhiepiscopul Timișoarei și Mitropolitul Banatului
 
-**† Petru, Arhiepiscopul Chișinăului**, Mitropolitul Basarabiei și Exarhul Plaiurilor
+**† Petru**, Arhiepiscopul Chișinăului, Mitropolitul Basarabiei și Exarhul Plaiurilor
 
 **† Iosif**, Arhiepiscopul Ortodox Român al Europei Occidentale și Mitropolitul Ortodox Român al Europei Occidentale și Meridionale
 
@@ -103,7 +103,7 @@ Ne rugăm Preamilostivului Dumnezeu să-i binecuvânteze pe toți românii, din 
 
 **† Nicolae**, Arhiepiscopul Ortodox Român al Statelor Unite ale Americii și Mitropolitul Ortodox Român al celor două Americi
 
-**† Nifon, Arhiepiscopul Târgoviștei**, Mitropolit onorific și Exarh Patriarhal
+**† Nifon**, Arhiepiscopul Târgoviștei, Mitropolit onorific și Exarh Patriarhal
 
 **† Teodosie**, Arhiepiscopul Tomisului
 
@@ -177,7 +177,7 @@ Ne rugăm Preamilostivului Dumnezeu să-i binecuvânteze pe toți românii, din 
 
 **† Ilarion Făgărășanul**, Episcop-vicar al Arhiepiscopiei Sibiului
 
-**† Benedict Bistrițeanul, Episcop-vicar al Arhiepiscopiei Vadului**, Feleacului și Clujului
+**† Benedict Bistrițeanul**, Episcop-vicar al Arhiepiscopiei Vadului, Feleacului și Clujului
 
 **† Paisie Lugojeanul**, Episcop-vicar al Arhiepiscopiei Timișoarei
 
