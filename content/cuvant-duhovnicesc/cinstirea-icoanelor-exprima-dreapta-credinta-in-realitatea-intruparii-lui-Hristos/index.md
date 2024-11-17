@@ -104,7 +104,7 @@ _Harul Domnului nostru Iisus Hristos și dragostea lui Dumnezeu Tatăl și împ�
 
 **† Iosif**, Arhiepiscopul Ortodox Român al Europei Occidentale și Mitropolitul Ortodox Român al Europei Occidentale și Meridionale
 
-**† Serafim, Arhiepiscopul Ortodox Român al Germaniei, Austriei și Luxemburgului și Mitropolitul Ortodox Român al Germaniei**, Europei Centrale și de Nord
+**† Serafim**, Arhiepiscopul Ortodox Român al Germaniei, Austriei și Luxemburgului și Mitropolitul Ortodox Român al Germaniei**, Europei Centrale și de Nord
 
 **† Nicolae**, Arhiepiscopul Ortodox Român al Statelor Unite ale Americii și Mitropolitul Ortodox Român al celor două Americi
 
