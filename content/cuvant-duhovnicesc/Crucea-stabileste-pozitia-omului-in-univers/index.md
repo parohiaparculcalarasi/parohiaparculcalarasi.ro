@@ -62,7 +62,7 @@ Eshatologicul „trebuie” nu presupune o desfășurare impusă a Pătimirilor,
 
 ### Iconomia mântuirii prin Jertfă este de neînțeles pentru rațiunea umană
 
-Vestea a căzut ca un trăsnet. La orice s-ar fi așteptat apostolii și cei care-L urmau, numai la așa ceva nu. Atunci, Petru L-a luat pe Iisus de o parte și _„a început să-L dojenească, zicându-I: Fie-Ţi milă de Tine, să nu Ţi se întâmple Ţie aceasta”_ (_Matei_ 16, 22). Apostolul Petru a încercat - fără îndoială - să-I sugereze Mântuitorului să evite Ierusalimul. El ar fi vrut ca nimic din cele spuse să nu I se întâmple, omenește vorbind. Însă planul lui Dumnezeu era altul.
+Vestea a căzut ca un trăsnet. La orice s-ar fi așteptat apostolii și cei care-L urmau, numai la așa ceva nu. Atunci, Petru L-a luat pe Iisus de o parte și _„a început să-L dojenească, zicându-I: Fie-Ți milă de Tine, să nu Ți se întâmple Ție aceasta”_ (_Matei_ 16, 22). Apostolul Petru a încercat - fără îndoială - să-I sugereze Mântuitorului să evite Ierusalimul. El ar fi vrut ca nimic din cele spuse să nu I se întâmple, omenește vorbind. Însă planul lui Dumnezeu era altul.
 
 Iisus, indignat de sugestiile apostolului, opuse învățăturii Sale, întorcându-se spre Petru, l-a mustrat: _„Mergi înapoia Mea, Satano! Sminteală Îmi ești; că nu cugeți cele ale lui Dumnezeu, ci cele ale oamenilor”_ (_Matei_ 16, 23). Pentru o clipă, Petru a devenit prototipul gândirii omenești care, adesea influențată emoțional, nu observă că în spatele raționamentelor se ascunde ispititorul de altădată din pustia Carantaniei, căruia i-a spus Mântuitorul: _„Piei, Satano, căci scris este: «Domnului Dumnezeului tău să te închini și Lui singur să-I slujești»”_ (_Matei_ 4, 10). Petru avea atunci un fel de a gândi sugerat de diavol.
 
@@ -152,7 +152,7 @@ Sfinții Părinți consideră Crucea, pe Hristos Cel răstignit, singurul mijloc
 
 Cine privește Crucea, acest martor al pogorârii lui Hristos la noi și prețul răscumpărării noastre, cu dispreț, arată că nu crede în ea și, implicit, în El; prin urmare, nu se poate mântui, întrucât nu acceptă răscumpărarea sa de către Dumnezeu.
 
-Venerând însă Crucea, primești totodată pe Duhul Sfânt lucrător în ea și, respectiv, efectele mântuitoare ale Sfintelor Pătimiri ale lui Hristos. Ţi se deschid toate ușile închise, precum odinioară celor de demult.
+Venerând însă Crucea, primești totodată pe Duhul Sfânt lucrător în ea și, respectiv, efectele mântuitoare ale Sfintelor Pătimiri ale lui Hristos. Ți se deschid toate ușile închise, precum odinioară celor de demult.
 
 Prin Cruce, ca putere și sceptru al lui Dumnezeu, poți birui patimile, așa încât pentru unii ea este pricină de mântuire, iar pentru alții prilej de sminteală, după cum atenționează Sfântul Apostol Pavel (_I Corinteni_ 1, 18). În afara Crucii, orice logică devine imposibilă și absurdă.
 
