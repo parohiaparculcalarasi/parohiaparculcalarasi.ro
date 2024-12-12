@@ -41,3 +41,15 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+    author:
+      name: Parohia Parcul Călărași
+      email: contact@parohiaparculcalarasi.ro
+      # avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
+      bio: 'Biserica „Sfinții Împărați Constantin și Elena” și „Sfânta Cuvioasă Parascheva”'
+      #company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+      #location: Bd. Basarabia nr. 2, Sector 2, București, România # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+      location: București # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+    social:
+      email: contact@parohiaparculcalarasi.ro
