@@ -4,7 +4,7 @@ date: 2011-12-07T00:00:00Z
 year: 2011
 month: 2011-12
 draft: false
-featured: true
+featured: false
 pinned: false
 toc: false
 authors:

@@ -4,7 +4,7 @@ date: 2015-09-01T00:00:00Z
 year: 2015
 month: 2015-09
 draft: false
-featured: true
+featured: false
 pinned: false
 authors: 
   - nicolae-giolu

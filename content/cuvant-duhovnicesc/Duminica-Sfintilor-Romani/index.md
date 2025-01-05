@@ -5,7 +5,7 @@ date: 2023-06-18T00:00:00Z
 year: 2023
 month: 2023-06
 draft: false
-featured: true
+featured: false
 pinned: false
 authors: 
   - dumitru-staniloae

@@ -4,7 +4,7 @@ date: 2020-12-17T00:00:00Z
 year: 2020
 month: 2020-12
 draft: false
-featured: true
+featured: false
 pinned: false
 toc: false
 authors:

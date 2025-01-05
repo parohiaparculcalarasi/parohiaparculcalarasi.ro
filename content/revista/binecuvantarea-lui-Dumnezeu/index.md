@@ -4,7 +4,7 @@ date: 2015-03-01T01:00:00Z
 year: 2015
 month: 2015-03
 draft: false
-featured: true
+featured: false
 pinned: false
 authors: 
   - iulian-ignat

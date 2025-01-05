@@ -1,6 +1,7 @@
 ---
 title: Icoana Maicii Domnului Prodromița
 date: 2015-09-01T02:00:00Z
+publishDate: 2015-09-01T02:00:00Z
 year: 2015
 month: 2015-09
 draft: false

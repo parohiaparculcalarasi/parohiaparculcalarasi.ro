@@ -5,7 +5,7 @@ publishDate: 2024-07-12T00:00:00Z
 year: 2024
 month: 2024-07
 draft: false
-featured: false
+featured: true
 pinned: false
 authors:
   - arhid--alexandru-briciu
