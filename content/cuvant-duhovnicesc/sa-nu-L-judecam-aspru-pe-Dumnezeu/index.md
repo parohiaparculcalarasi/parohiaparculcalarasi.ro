@@ -13,6 +13,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
+  - Pilda talanților
 ---
 **Duminica a 16-a după Rusalii (Pilda talanților)**
 

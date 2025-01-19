@@ -15,8 +15,7 @@ tags:
   - Evanghelia de Duminică
   - Vindecarea orbului din Ierihon
 ---
-
-**Duminica a XXXI-a după Rusalii (Vindecarea orbului din Ierihon), Luca 18, 35-43**
+**Duminica a XXXI-a după Rusalii (Vindecarea orbului din Ierihon)**
 
 > _„În vremea aceea, pe când Se apropia Iisus de Ierihon, un orb ședea lângă drum, cerșind. Și, auzind el mulțimea care trecea, întreba ce se întâmplă. Și i-au spus că trece Iisus Nazarineanul. Și el a strigat, zicând: Iisuse, Fiul lui David, fie-Ți milă de mine! Și cei care mergeau înainte îl certau ca să tacă, iar el cu mult mai mult striga: Fiule al lui David, fie-Ți milă de mine! Și oprindu-Se, Iisus a poruncit să-l aducă la El; și apropiindu-se, l-a întrebat: Ce voiești să-ți fac? Iar el a zis: Doamne, să văd! Și Iisus i-a zis: Vezi! Credința ta te-a mântuit. Și îndată a văzut și mergea după El, slăvind pe Dumnezeu. Și tot poporul care văzuse a dat laudă lui Dumnezeu.“_ (**_Luca_ 18, 35-43**) 
 
