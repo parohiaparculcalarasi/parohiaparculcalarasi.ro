@@ -8,7 +8,7 @@ draft: false
 featured: true
 pinned: false
 authors:
-  - arhid--alexandru-briciu
+  - arhid-alexandru-briciu
 categories:
   - Actualitate
 #tags:

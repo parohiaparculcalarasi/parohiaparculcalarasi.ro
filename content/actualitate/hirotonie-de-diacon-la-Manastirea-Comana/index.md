@@ -8,7 +8,7 @@ draft: false
 featured: false
 pinned: false
 authors:
-  - diac--emilian-apostolescu
+  - diac-emilian-apostolescu
 categories:
   - Actualitate
 #tags:

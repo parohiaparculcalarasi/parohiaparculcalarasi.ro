@@ -8,7 +8,7 @@ draft: false
 featured: false
 pinned: false
 authors:
-  - diac--vasile-robert-nechifor
+  - diac-vasile-robert-nechifor
 categories:
   - Actualitate
 #tags:
