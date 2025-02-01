@@ -17,7 +17,7 @@ tags:
 ---
 **Duminica după Botezul Domnului (Începutul propovăduirii Domnului)**
 
-> _„În vremea aceea, auzind că Ioan a fost întemnițat, Iisus a plecat în Galileea. Și, părăsind Nazaretul, a venit să locuiască în Capernaum, lângă mare, în hotarele lui Zabulon și Neftali, ca să se împlinească ce s-a zis prin Isaia prorocul, care zice: «Pământul lui Zabulon și pământul lui Neftali spre mare, dincolo de Iordan, Galileea neamurilor; poporul care stătea în întuneric a văzut lumină mare și celor ce ședeau în latura și în umbra morții lumină le-a răsărit». De atunci a început Iisus să propovăduiască și să spună: Pocăiți-vă, că s-a apropiat Împărăția cerurilor."_ (**_Matei_ 4, 12-17**)
+> _„În vremea aceea, auzind că Ioan a fost întemnițat, Iisus a plecat în Galileea. Și, părăsind Nazaretul, a venit să locuiască în Capernaum, lângă mare, în hotarele lui Zabulon și Neftali, ca să se împlinească ce s-a zis prin Isaia prorocul, care zice: «Pământul lui Zabulon și pământul lui Neftali spre mare, dincolo de Iordan, Galileea neamurilor; poporul care stătea în întuneric a văzut lumină mare și celor ce ședeau în latura și în umbra morții lumină le-a răsărit». De atunci a început Iisus să propovăduiască și să spună: Pocăiți-vă, că s-a apropiat Împărăția cerurilor.”_ (**_Matei_ 4, 12-17**)
 
 Duminica aceasta este numită _Duminica după Botezul Domnului_ și are ca temă principală **începutul propovăduirii Domnului Iisus Hristos**. Ea ne arată că Mântuitorul Iisus Hristos este Lumina vieții veșnice.
 

@@ -2,7 +2,7 @@
 title: Istoric
 description: Parohia Parcul Călărași,  Biserica „Sfinții Împărați Constantin și Elena” și „Sfânta Cuvioasă Parascheva”
 date: 2022-02-28
-aliases: 
+aliases:
     - about-us
 author: Parohia Parcul Călărași
 reward: false

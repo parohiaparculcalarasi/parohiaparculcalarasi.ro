@@ -6,10 +6,6 @@
 {{- with .company -}}
 <div class="profile-company"><i class="fas fa-fw fa-building"></i>{{ . | safeHTML }}</div>
 {{- end -}}
-{{- with $.GetPage "location" -}}
-<!--<div class="profile-location text-primary"><i class="fas fa-fw fa-map-marker-alt"></i><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></div>-->
-<!--<div class="profile-location text-primary"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></div>-->
-{{- end -}}
 {{- if .about -}}
 <div class="profile-about"><i class="fas fa-fw fa-user"></i><a target="_blank" rel="noopener noreferrer" href="{{ .about }}">{{ i18n "about_me" }}</a></div>
 {{- else -}}
