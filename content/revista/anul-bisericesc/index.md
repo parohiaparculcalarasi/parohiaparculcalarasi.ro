@@ -14,9 +14,9 @@ categories:
 ---
 > _„Și a zis Dumnezeu să facem luminători pe tăria cerului ca să lumineze pe pământ, să despartă ziua de noapte și să fie semne ca să deosebească anotimpurile, zilele și anii.”_ (**_Facerea_ 1,14**)
  
-Acestea le-a făcut în ziua a treia, după ce a făcut verdeața în ziua a doua, ca să nu creadă omul că originea vieții este de la soare. Odată cu creația a fost creat și timpul - „_Și a fost seară și a fost și dimineață_” -, arătând ziua liturgică ca zi a creației. 
+Acestea le-a făcut în ziua a treia, după ce a făcut verdeața în ziua a doua, ca să nu creadă omul că originea vieții este de la soare. Odată cu creația a fost creat și timpul - _„Și a fost seară și a fost și dimineață”_ -, arătând ziua liturgică ca zi a creației. 
 
-Deci Dumnezeu a rânduit zilele, săptămânile, lunile și anii pentru viața omului pe pământ. Căci precum Dumnezeu a creat lumea în cele 6 zile și în a șaptea zi, pe care a sfințit-o, S-a odihnit, tot așa I-a poruncit omului zicând: „_Șase zile să lucrezi iar în ziua a șaptea care este sâmbăta Domnului Dumnezeului tău, să nu faci niciun fel de lucru în această zi._” 
+Deci Dumnezeu a rânduit zilele, săptămânile, lunile și anii pentru viața omului pe pământ. Căci precum Dumnezeu a creat lumea în cele 6 zile și în a șaptea zi, pe care a sfințit-o, S-a odihnit, tot așa I-a poruncit omului zicând: _„Șase zile să lucrezi iar în ziua a șaptea care este sâmbăta Domnului Dumnezeului tău, să nu faci niciun fel de lucru în această zi.”_ 
 
 La fel și ziua întâi din luna a șaptea, luna septembrie, a șaptea lună de la creație, a binecuvântat-o, a dat-o poporului său spre bucurie. Legat de luna aceasta, amintim că și arca lui Noe, după ce au scăzut apele potopului, s-a odihnit pe Muntele Ararat. 
 

@@ -64,7 +64,7 @@ Sfinții Părinți spun că în măsura în care Îl slujim pe Dumnezeu suntem l
 
 ### Cel însuflețit de iubire nu se simte limitat de poruncile lui Dumnezeu
 
-Cel care trăiește „_după trup”_ resimte Legea lui Dumnezeu ca pe o povară, ca pe o restrângere a propriei libertăți. Dar cel care este însuflețit de iubire, care _„umblă în Duhul”_ (_Galateni_ 5, 16) simte nevoia de a nu se limita la cerințele minime ale Legii, ci de a le trăi în _„plinătatea”_ lor.
+Cel care trăiește _„după trup”_ resimte Legea lui Dumnezeu ca pe o povară, ca pe o restrângere a propriei libertăți. Dar cel care este însuflețit de iubire, care _„umblă în Duhul”_ (_Galateni_ 5, 16) simte nevoia de a nu se limita la cerințele minime ale Legii, ci de a le trăi în _„plinătatea”_ lor.
 
 Chemarea la iubirea desăvârșită nu este rezervată doar unui grup de persoane. Recomandarea lui Iisus: _„Vinde toate câte ai și le împarte săracilor”_, împreună cu făgăduința _„și vei avea comoară în ceruri”_, se adresează tuturor, fiindcă este vorba de o maximalizare a poruncii iubirii față de aproapele, după cum îndemnul _„Vino de urmează Mie”_ (_Luca_ 18, 22) este noua formă concretă a poruncii iubirii față de Dumnezeu.
 
