@@ -53,7 +53,7 @@ Când Iisus s-a suit în Ierusalim și era în casa lui Simon cel lepros, o feme
 
 # Sfânta și Marea Joi 
 
-> _„Când măriții ucenici la spălarea Cinei s-au luminat, atunci Iuda cel rău credincios, cu iubirea de arginți bolnăvindu-se, s-a întunecat… Vezi, iubitorule de avuții, cel ce pentru acestea spânzurare și-a agonisit. Fugi de sufletul nesățios care a îndrăznit unele ca acestea asupra Învățătorului. Cel ce ești peste toți bun, Doamne, slavă Ție.” (**Tropar**)_
+> _„Când măriții ucenici la spălarea Cinei s-au luminat, atunci Iuda cel rău credincios, cu iubirea de arginți bolnăvindu-se, s-a întunecat… Vezi, iubitorule de avuții, cel ce pentru acestea spânzurare și-a agonisit. Fugi de sufletul nesățios care a îndrăznit unele ca acestea asupra Învățătorului. Cel ce ești peste toți bun, Doamne, slavă Ție.”_ (_**Tropar**_)
 
 Patru lucruri se prăznuiesc în această zi: Spălarea picioarelor, Cina cea de Taină, Rugăciunea din Grădina Ghetsimani și Vânzarea și prinderea Domnului. 
 
@@ -89,4 +89,4 @@ Cuvântul lui Dumnezeu a stat cu trupul în mormânt iar cu sufletul Lui curat �
 
 În această zi se săvârșește Liturghia Sfântului Vasile cel Mare unită cu vecernia. 
 
-> _„Să tacă tot trupul omenesc și să stea cu frică și cu cutremur și nimic pământesc întru sine să nu gândească, că Împăratul împăraților și Domnul domnilor merge să se junghie și să se dea spre mâncare credincioșilor. Și merg înaintea Lui cetele îngerești cu toate căpeteniile și puterea, Heruvimii cei cu ochi mulți și Serafimii cei cu câte șase aripi, fețele acoperindu-și și cântând cântare: Aliluia, Aliluia, Aliluia.” (**Heruvicul din Sâmbăta Mare**)_
+> _„Să tacă tot trupul omenesc și să stea cu frică și cu cutremur și nimic pământesc întru sine să nu gândească, că Împăratul împăraților și Domnul domnilor merge să se junghie și să se dea spre mâncare credincioșilor. Și merg înaintea Lui cetele îngerești cu toate căpeteniile și puterea, Heruvimii cei cu ochi mulți și Serafimii cei cu câte șase aripi, fețele acoperindu-și și cântând cântare: Aliluia, Aliluia, Aliluia.”_ (_**Heruvicul din Sâmbăta Mare**_)

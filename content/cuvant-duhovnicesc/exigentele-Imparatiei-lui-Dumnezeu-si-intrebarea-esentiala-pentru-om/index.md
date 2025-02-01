@@ -38,11 +38,11 @@ Dar Dumnezeu a răspuns deja la această întrebare: a făcut-o atunci când l-a
 
 Și Iisus îi răspunde tânărului: _„Dacă vrei să intri în viață, păzește poruncile”_ (_Matei_ 19, 17). În acest fel este exprimată legătura strânsă între viața veșnică și ascultarea față de poruncile lui Dumnezeu.
 
-Răspunsul lui Iisus nu-i este suficient tânărului, care insistă despre poruncile de respectat: L-a întrebat: „Care?” (_Matei_ 19, 18), iar Iisus, după ce a orientat privirea tânărului spre Dumnezeu, îi amintește poruncile Decalogului, care se referă la aproapele: _„Să nu ucizi! Să nu săvârșești adulter! Să nu furi! Să nu mărturisești strâmb; Cinstește pe tatăl tău și pe mama ta și să iubești pe aproapele tău ca pe tine însuți”_ (_Matei_ 19, 18-19).
+Răspunsul lui Iisus nu-i este suficient tânărului, care insistă despre poruncile de respectat: L-a întrebat: _„Care?”_ (_Matei_ 19, 18), iar Iisus, după ce a orientat privirea tânărului spre Dumnezeu, îi amintește poruncile Decalogului, care se referă la aproapele: _„Să nu ucizi! Să nu săvârșești adulter! Să nu furi! Să nu mărturisești strâmb; Cinstește pe tatăl tău și pe mama ta și să iubești pe aproapele tău ca pe tine însuți”_ (_Matei_ 19, 18-19).
 
 ### Rezumat al poruncii iubirii aproapelui
 
-Poruncile pe care Domnul Iisus i le amintește tânărului sunt porunci al căror rezumat și fundament îl constituie porunca iubirii față de aproapele: „Să-l iubești pe aproapele tău ca pe tine însuți” (_Matei_ 19, 19; cf. Marcu 12, 31). În această poruncă este exprimată demnitatea persoanei umane, „singura făptură de pe pământ pe care Dumnezeu a voit-o pentru ea însăși”.
+Poruncile pe care Domnul Iisus i le amintește tânărului sunt porunci al căror rezumat și fundament îl constituie porunca iubirii față de aproapele: _„Să-l iubești pe aproapele tău ca pe tine însuți”_ (_Matei_ 19, 19; cf. Marcu 12, 31). În această poruncă este exprimată demnitatea persoanei umane, „singura făptură de pe pământ pe care Dumnezeu a voit-o pentru ea însăși”.
 
 Poruncile amintite de Iisus tânărului au scopul de a apăra binele persoanei umane, creată după chipul lui Dumnezeu. _„Să nu ucizi, să nu săvârșești adulter, să nu furi, să nu mărturisești strâmb”_, sunt norme morale formulate în termeni negativi, de interdicție. Poruncile negative exprimă cu putere necesitatea imprescriptibilă de a apăra viața umană, curăția căsătoriei, proprietatea, sinceritatea și buna reputație.
 
