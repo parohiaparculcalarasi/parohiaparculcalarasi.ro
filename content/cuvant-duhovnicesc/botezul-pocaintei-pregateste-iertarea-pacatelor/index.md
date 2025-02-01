@@ -57,6 +57,6 @@ Pentru a ajunge cu adevărat la Mântuitorul nostru Iisus Hristos, trebuie să p
 
 Glasul prorocului nu mai strigă astăzi în pustiu, dar ne cheamă necontenit din paginile Sfintei Scripturi, pentru a-L primi pe Hristos în inimile noastre, spre moștenirea Împărăției cerurilor, care _„nu va veni în chip văzut. Și nici nu vor zice: Iat-o aici sau acolo. Căci Împărăția lui Dumnezeu este înlăuntrul vostru”_ (_Luca_ 17, 20-21).
 
-Să pregătim așadar în inimile noastre calea Domnului! Să ținem dreaptă calea vieții și să lucrăm pocăința cea adevărată, pe care ne-o arată Sfântul Ioan Botezătorul. Iată, Hristos vine! Hristos Se apropie de Iordan să primească Botezul. Să mergem cu toții la Iordan, acolo unde _„Glasul Cuvântului, sfeșnicul Luminii, luceafărul mergător înaintea Soarelui, în pustiu strigă tuturor popoarelor: «Pocăiți-vă și mai înainte vă curățiți, că de față stă Hristos, mântuind lumea din stricăciune»”_ (Catavasiile Botezului Domnului, Cântarea a șasea).
+Să pregătim așadar în inimile noastre calea Domnului! Să ținem dreaptă calea vieții și să lucrăm pocăința cea adevărată, pe care ne-o arată Sfântul Ioan Botezătorul. Iată, Hristos vine! Hristos Se apropie de Iordan să primească Botezul. Să mergem cu toții la Iordan, acolo unde _„Glasul Cuvântului, sfeșnicul Luminii, luceafărul mergător înaintea Soarelui, în pustiu strigă tuturor popoarelor: «Pocăiți-vă și mai înainte vă curățiți, că de față stă Hristos, mântuind lumea din stricăciune»”_ (_Catavasiile Botezului Domnului, Cântarea a șasea_).
 
 {{< gallery images="images/1.jpg,images/2.jpg" >}}
