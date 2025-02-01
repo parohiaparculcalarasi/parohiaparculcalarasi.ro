@@ -1,9 +1,9 @@
 ---
-title: Pocăința - întâlnirea tainică dintre Dumnezeu și om
-date: 2025-01-26T00:00:00Z
-publishDate: 2025-01-26T00:00:00Z
+title: Dumnezeu aude rugăciunea stăruitoare a dreptului
+date: 2025-02-02T00:00:00Z
+publishDate: 2025-02-02T00:00:00Z
 year: 2025
-month: 2025-01
+month: 2025-02
 draft: false
 featured: false
 pinned: false
