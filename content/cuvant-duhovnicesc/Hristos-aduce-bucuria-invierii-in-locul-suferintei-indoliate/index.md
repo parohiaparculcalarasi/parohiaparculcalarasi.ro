@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Învierea fiului văduvei din Nain
+    - Evanghelia de Duminică
+    - Duminica a 20-a după Rusalii
+    - Învierea fiului văduvei din Nain
 ---
 ### Duminica a XX-a după Rusalii (Învierea fiului văduvei din Nain) Luca 7, 11-16
 

@@ -14,7 +14,9 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 17-a după Rusalii
     - Întâmpinarea Domnului
+    - Duminica Cananeencei
 ---
 _**Întâmpinarea Domnului (Duminica a 17-a după Rusalii, a Cananeencei)**_
 

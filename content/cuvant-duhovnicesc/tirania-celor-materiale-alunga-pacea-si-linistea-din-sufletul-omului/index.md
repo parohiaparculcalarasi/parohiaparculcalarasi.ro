@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 3-a după Rusalii
     - Despre grijile vieții
 ---
 _**Duminica a 3-a după Rusalii (Despre grijile vieții)**_

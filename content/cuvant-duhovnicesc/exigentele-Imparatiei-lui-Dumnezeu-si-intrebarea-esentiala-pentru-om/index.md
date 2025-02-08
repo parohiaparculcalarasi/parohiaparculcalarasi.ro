@@ -14,6 +14,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 30-a după Rusalii
     - Dregătorul bogat - păzirea poruncilor
 ---
 _**Duminica a 30-a după Rusalii (Dregătorul bogat - păzirea poruncilor)**_

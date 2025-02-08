@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-ioan--arhiepiscopul-timisoarei-si-mitropolitul-banatului  
+    - ips-ioan--arhiepiscopul-timisoarei-si-mitropolitul-banatului  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda talanților
+    - Evanghelia de Duminică
+    - Duminica a 16-a după Rusalii
+    - Pilda talanților
 ---
 **Duminica a 16-a după Rusalii (Pilda talanților)**
 

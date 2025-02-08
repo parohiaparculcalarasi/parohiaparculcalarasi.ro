@@ -8,11 +8,11 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
 ---
 **Evanghelia Duminicii dinaintea Nașterii Domnului (a Sfinților Părinți după trup ai Domnului)**
 

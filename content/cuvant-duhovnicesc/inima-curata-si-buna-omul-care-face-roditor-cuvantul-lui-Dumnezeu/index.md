@@ -8,12 +8,12 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda semănătorului
+    - Evanghelia de Duminică
+    - Pilda semănătorului
 ---
 **Evanghelia Duminicii a XXI-a după Rusalii (Pilda semănătorului)**
 

@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 5-a după Rusalii
     - Vindecarea celor doi demonizați din ținutul Gadarei
 ---
 _**Duminica a 5-a după Rusalii (Vindecarea celor doi demonizați din ținutul Gadarei)**_

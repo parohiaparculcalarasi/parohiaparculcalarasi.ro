@@ -7,11 +7,11 @@ draft: true
 featured: false
 pinned: false
 authors: 
-  - maria-ignat
+    - maria-ignat
 categories:
-  - Revistă
+    - Revistă
 tags:
-  - Poezie
+    - Poezie
 ---
 Soarele a răsărit  
 Peste dealurile blânde.  

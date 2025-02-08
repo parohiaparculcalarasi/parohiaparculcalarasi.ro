@@ -8,12 +8,12 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Luarea Crucii și urmarea lui Hristos
+    - Evanghelia de Duminică
+    - Luarea Crucii și urmarea lui Hristos
 ---
 **Evanghelia Duminicii după Înălțarea Cinstitei Cruci (Luarea Crucii și urmarea lui Hristos)**
 

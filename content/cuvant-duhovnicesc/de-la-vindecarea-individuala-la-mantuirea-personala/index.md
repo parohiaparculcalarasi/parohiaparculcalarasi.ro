@@ -14,6 +14,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 29-a după Rusalii
     - Vindecarea celor zece leproși
 ---
 _**Duminica a 29-a după Rusalii (Vindecarea celor zece leproși)**_

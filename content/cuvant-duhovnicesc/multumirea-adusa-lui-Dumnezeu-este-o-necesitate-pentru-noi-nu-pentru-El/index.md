@@ -9,12 +9,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - teofan-mitropolitul-moldovei-si-bucovinei  
+    - teofan-mitropolitul-moldovei-si-bucovinei  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Vindecarea celor zece leproși
+    - Evanghelia de Duminică
+    - Duminica a 29-a după Rusalii
+    - Vindecarea celor zece leproși
 ---
 **Duminica a 29-a după Rusalii (a celor 10 leproși)**
 

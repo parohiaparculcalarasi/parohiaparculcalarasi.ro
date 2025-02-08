@@ -14,6 +14,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 25-a după Rusalii
     - Pilda samarineanului milostiv
 ---
 _**Duminica a 25-a după Rusalii (Pilda samarineanului milostiv)**_

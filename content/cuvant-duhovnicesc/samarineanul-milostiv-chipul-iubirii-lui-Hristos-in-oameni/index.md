@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda samarineanului milostiv
+    - Evanghelia de Duminică
+    - Duminicii a 25-a după Rusalii
+    - Pilda samarineanului milostiv
 ---
 **Evanghelia Duminicii a XXV-a după Rusalii (Pilda samarineanului milostiv)**
 

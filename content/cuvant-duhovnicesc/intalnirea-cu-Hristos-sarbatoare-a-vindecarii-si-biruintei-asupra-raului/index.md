@@ -14,6 +14,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 28-a după Rusalii
     - Pilda celor poftiți la cină
 ---
 _**Duminica a 28-a după Rusalii (Pilda celor poftiți la cină)**_

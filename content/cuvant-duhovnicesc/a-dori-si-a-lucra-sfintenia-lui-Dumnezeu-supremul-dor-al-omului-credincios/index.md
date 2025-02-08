@@ -13,6 +13,8 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica întâi după Rusalii
+    - Duminica Tuturor Sfinților
 ---
 _**Duminica întâi după Rusalii (a Tuturor Sfinților)**_
 

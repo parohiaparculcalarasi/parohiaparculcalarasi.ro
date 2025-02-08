@@ -8,12 +8,12 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Fuga în Egipt
+    - Evanghelia de Duminică
+    - Fuga în Egipt
 ---
 **Evanghelia Duminicii după Nașterea Domnului nostru Iisus Hristos (Fuga în Egipt) (Mt. 2, 13-23)**
 

@@ -14,6 +14,8 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 32-a după Rusalii
+    - Duminica lui Zaheu 
 ---
 _**Duminica a 32-a după Rusalii (a lui Zaheu)**_
 

@@ -14,7 +14,8 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
-    - Bogatul nemilostiv și săracul Lazăr
+    - Duminica a 22-a după Rusalii
+    - Pilda bogatului nemilostiv și a săracului Lazăr
 ---
 _**Duminica a 22-a după Rusalii (Bogatul nemilostiv și săracul Lazăr)**_
 

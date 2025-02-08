@@ -8,11 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 30-a după Rusalii
+    - Pilda dregătorul bogat - păzirea poruncilor 
 ---
 > _„În vremea aceea un dregător oarecare s-a apropiat de Iisus și L-a întrebat, zicând: Bunule Învățător, ce să fac ca să moștenesc viața de veci? Iar Iisus i-a zis: Pentru ce Mă numești bun? Nimeni nu este bun, decât Unul Dumnezeu. Știi poruncile: «Să nu săvârșești adulter, să nu ucizi, să nu furi, să nu mărturisești strâmb, cinstește pe tatăl tău și pe mama ta». Iar el a zis: Toate acestea le-am păzit din tinerețile mele. Auzind, Iisus i-a zis: Încă una îți lipsește: Vinde toate câte ai și le împarte săracilor și vei avea comoară în ceruri; apoi vino de urmează Mie. Iar el, auzind acestea, s-a întristat, căci era foarte bogat. Și, văzându-l întristat, Iisus a zis: Cât de greu vor intra cei ce au averi în Împărăția lui Dumnezeu! Că mai lesne este a trece cămila prin urechile acului decât să intre bogatul în Împărăția lui Dumnezeu. Zis-au cei ce ascultau: Și cine poate să se mântuiască? Iar El a zis: Cele ce sunt cu neputință la oameni sunt cu putință la Dumnezeu.”_ (**_Luca_ 18, 18-27**)
 

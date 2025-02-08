@@ -8,12 +8,12 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-nicolae--mitropolitul-ortodox-roman-al-celor-doua-americi  
+    - ips-nicolae--mitropolitul-ortodox-roman-al-celor-doua-americi  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda Înfricoșătoarei Judecăți
+    - Evanghelia de Duminică
+    - Duminica Înfricoșătoarei Judecăți
 ---
 **Duminica Înfricoșătoarei Judecăți (a Lăsatului sec de carne)**
 

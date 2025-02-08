@@ -14,6 +14,8 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica după Botezul Domnului
+    - Începutul propovăduirii Domnului
 ---
 _**Duminica după Botezul Domnului (Începutul propovăduirii Domnului)**_
 

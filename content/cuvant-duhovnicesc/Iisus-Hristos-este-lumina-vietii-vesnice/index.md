@@ -8,12 +8,12 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Începutul propovăduirii Domnului
+    - Evanghelia de Duminică
+    - Începutul propovăduirii Domnului
 ---
 **Duminica după Botezul Domnului (Începutul propovăduirii Domnului)**
 

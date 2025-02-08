@@ -8,11 +8,11 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel 
+    - patriarhul-daniel 
 categories:
-#  - Cuvânt duhovnicesc
+#    - Cuvânt duhovnicesc
 tags:
-  - Pastorala Sinodală
+    - Pastorala Sinodală
 ---
 **<p style="text-align: center;">PASTORALA<br>_SFÂNTULUI SINOD AL BISERICII ORTODOXE ROMÂNE_<br>LA PRIMA DUMINICĂ<br>A POSTULUI NAȘTERII DOMNULUI DIN ANUL 2023</p>**
 

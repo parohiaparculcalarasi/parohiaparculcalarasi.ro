@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 8-a după Rusalii
     - Înmulțirea pâinilor
 ---
 _**Duminica a 8-a după Rusalii (Înmulțirea pâinilor)**_

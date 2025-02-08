@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 24-a după Rusalii
     - Învierea fiicei lui Iair
 ---
 _**Duminica a 24-a după Rusalii (Învierea fiicei lui Iair)**_

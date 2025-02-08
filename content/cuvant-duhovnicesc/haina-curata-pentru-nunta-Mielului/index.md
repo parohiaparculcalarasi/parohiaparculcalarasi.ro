@@ -9,12 +9,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-andrei--mitropolitul-clujului--maramuresului-si-salajului  
+    - ips-andrei--mitropolitul-clujului--maramuresului-si-salajului  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda nunții fiului de împărat
+    - Evanghelia de Duminică
+    - Duminica a 14-a după Rusalii
+    - Pilda nunții fiului de împărat
 ---
 **Duminica a 14-a după Rusalii (Pilda nunții fiului de împărat)**
 

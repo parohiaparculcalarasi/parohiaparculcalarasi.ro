@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 19-a după Rusalii
     - Predica de pe munte - Iubirea vrăjmașilor
 ---
 _**Duminica a 19-a după Rusalii (Predica de pe munte - Iubirea vrăjmașilor)**_

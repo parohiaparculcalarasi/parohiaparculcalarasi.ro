@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Convorbirea lui Iisus cu Nicodim
+    - Evanghelia de Duminică
+    - Duminica dinaintea Înălțării Sfintei Cruci
+    - Convorbirea lui Iisus cu Nicodim
 ---
 _**Duminica dinaintea Înălțării Sfintei Cruci (Convorbirea lui Iisus cu Nicodim) Ioan 3, 13-17**_
 

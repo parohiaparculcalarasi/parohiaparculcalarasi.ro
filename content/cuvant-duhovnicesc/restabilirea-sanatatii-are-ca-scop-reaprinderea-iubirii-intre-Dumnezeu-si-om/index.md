@@ -8,11 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-teodosie--arhiepiscopul-tomisului  
+    - ips-teodosie--arhiepiscopul-tomisului  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 2-a din Postul Mare
+    - Duminica Sfântului Grigorie Palama
 ---
 **Duminica a 2-a din post (a Sfântului Grigorie Palama)**
 

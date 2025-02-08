@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Vindecarea demonizatului din ținutul Gherghesenilor
+    - Evanghelia de Duminică
+    - Duminica a 23-a după Rusalii
+    - Vindecarea demonizatului din ținutul Gherghesenilor
 ---
 **Evanghelia Duminicii a XXIII-a după Rusalii (Vindecarea demonizatului din ținutul Gherghesenilor)**
 

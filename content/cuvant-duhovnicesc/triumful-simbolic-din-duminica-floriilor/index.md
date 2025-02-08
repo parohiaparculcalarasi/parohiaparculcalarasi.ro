@@ -9,11 +9,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ps-ioachim--arhiepiscopul-romanului-si-bacaului
+    - ps-ioachim--arhiepiscopul-romanului-si-bacaului
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 6-a din Postul Mare
+    - Duminica Floriilor
 ---
 **Duminica a 6-a din Post (a Floriilor)**
 

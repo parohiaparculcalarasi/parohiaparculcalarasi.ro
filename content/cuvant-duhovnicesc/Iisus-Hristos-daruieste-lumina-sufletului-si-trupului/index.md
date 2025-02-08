@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Vindecarea orbului din Ierihon
+    - Evanghelia de Duminică
+    - Duminica a 31-a după Rusalii
+    - Vindecarea orbului din Ierihon
 ---
 **Duminica a XXXI-a după Rusalii (Vindecarea orbului din Ierihon)**
 

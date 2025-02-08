@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 18-a după Rusalii
     - Pescuirea minunată
 ---
 _**Duminica a 18-a după Rusalii (Pescuirea minunată)**_

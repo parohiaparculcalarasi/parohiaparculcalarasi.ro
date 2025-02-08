@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda bogatului căruia i-a rodit țarina
+    - Evanghelia de Duminică
+    - Duminicii a 26-a după Rusalii
+    - Pilda bogatului căruia i-a rodit țarina
 ---
 **Evanghelia Duminicii a XXVI-a după Rusalii (Pilda bogatului căruia i-a rodit țarina)**
 

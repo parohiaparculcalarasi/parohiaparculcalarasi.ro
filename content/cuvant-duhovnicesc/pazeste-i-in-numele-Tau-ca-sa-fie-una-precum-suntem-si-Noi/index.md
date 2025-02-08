@@ -8,11 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ps-lucian--episcopul-caransebesului
+    - ps-lucian--episcopul-caransebesului
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 7-a după Paști
+    - Duminica Sfinților Părinți de la Sinodul I Ecumenic 
 ---
 _**Duminica a 7-a după Paști (a Sfinților Părinți de la Sinodul I Ecumenic)**_
 

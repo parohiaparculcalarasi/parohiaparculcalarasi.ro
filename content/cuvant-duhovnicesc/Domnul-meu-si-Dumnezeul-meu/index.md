@@ -8,11 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-calinic--arhiepiscopul-argesului-si-muscelului  
+    - ips-calinic--arhiepiscopul-argesului-si-muscelului  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 2-a după Paști
+    - Duminica a Sfântului Apostol Toma
 ---
 **Duminica a 2-a după Paști (a Sfântului Apostol Toma)**
 

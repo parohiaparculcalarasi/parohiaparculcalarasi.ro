@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 7-a după Rusalii
     - Vindecarea a doi orbi și a unui mut din Capernaum
 ---
 _**Duminica a 7-a după Rusalii (Vindecarea a doi orbi și a unui mut din Capernaum)**_

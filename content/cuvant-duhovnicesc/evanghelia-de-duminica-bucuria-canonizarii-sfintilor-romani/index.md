@@ -13,6 +13,8 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 2-a după Rusalii
+    - Duminica Sfinților Români 
 ---
 _**Duminica a 2-a după Rusalii (a Sfinților Români)**_
 

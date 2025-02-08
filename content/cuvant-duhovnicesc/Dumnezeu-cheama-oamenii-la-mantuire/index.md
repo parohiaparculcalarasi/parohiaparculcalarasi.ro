@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda celor poftiți la cină
+    - Evanghelia de Duminică
+    - Duminica a 28-a după Rusalii
+    - Pilda celor poftiți la cină
 ---
 **Evanghelia Duminicii a XXVIII-a după Rusalii (Pilda celor poftiți la cină)**
 

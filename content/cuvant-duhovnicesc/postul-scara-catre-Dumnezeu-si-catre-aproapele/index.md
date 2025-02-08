@@ -8,11 +8,11 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-nifon--arhiepiscopul-targovistei-si-exarh-patriarhal  
+    - ips-nifon--arhiepiscopul-targovistei-si-exarh-patriarhal  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
 ---
 **Duminica Izgonirii lui Adam din Rai (a Lăsatului sec de brânză)**
 

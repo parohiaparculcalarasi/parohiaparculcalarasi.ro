@@ -7,11 +7,11 @@ draft: false
 featured: false
 pinned: false
 authors: 
-  - scrieri-filocalice
+    - scrieri-filocalice
 categories:
-  - Revistă
+    - Revistă
 tags:
-  - Filocalia
+    - Filocalia
 ---
 _Scrieri filocalice_
 

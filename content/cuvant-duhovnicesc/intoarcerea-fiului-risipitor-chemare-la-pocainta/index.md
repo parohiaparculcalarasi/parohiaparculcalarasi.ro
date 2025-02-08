@@ -9,12 +9,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-serafim---mitropolitul-ortodox-roman-al-germaniei--europei-centrale-si-de-nord  
+    - ips-serafim---mitropolitul-ortodox-roman-al-germaniei--europei-centrale-si-de-nord  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda întoarcerii fiului risipitor
+    - Evanghelia de Duminică
+    - Duminica a 34-a după Rusalii
+    - Pilda întoarcerii fiului risipitor
 ---
 **Duminica a 34-a după Rusalii (a Întoarcerii Fiului risipitor)**
 

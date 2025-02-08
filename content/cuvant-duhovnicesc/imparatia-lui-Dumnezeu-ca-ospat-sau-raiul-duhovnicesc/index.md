@@ -14,6 +14,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 27-a după Rusalii
     - Tămăduirea femeii gârbove
 ---
 _**Duminica a 27-a după Rusalii (Tămăduirea femeii gârbove)**_

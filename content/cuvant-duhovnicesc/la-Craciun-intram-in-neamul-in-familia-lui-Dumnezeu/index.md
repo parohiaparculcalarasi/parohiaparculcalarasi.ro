@@ -14,6 +14,8 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica dinaintea Nașterii Domnului
+    - Duminica Sfinților Părinți după trup ai Domnului
 ---
 _**Duminica dinaintea Nașterii Domnului (a Sfinților Părinți după trup ai Domnului)**_
 

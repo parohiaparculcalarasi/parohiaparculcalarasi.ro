@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Pilda bogatului nemilostiv și a săracului Lazăr
+    - Evanghelia de Duminică
+    - Duminica a 22-a după Rusalii
+    - Pilda bogatului nemilostiv și a săracului Lazăr
 ---
 _**Evanghelia Duminicii a XXII-a după Rusalii (Pilda bogatului nemilostiv și a săracului Lazăr)**_
 

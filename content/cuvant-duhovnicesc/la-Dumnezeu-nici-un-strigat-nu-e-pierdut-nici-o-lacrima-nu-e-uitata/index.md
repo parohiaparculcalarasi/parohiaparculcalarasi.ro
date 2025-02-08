@@ -8,11 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-petru--mitropolitul-basarabiei  
+    - ips-petru--mitropolitul-basarabiei  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 17-a după Rusalii
+    - Duminica Cananeencei
 ---
 **Duminica a 17-a după Rusalii (a Cananeencei)**
 

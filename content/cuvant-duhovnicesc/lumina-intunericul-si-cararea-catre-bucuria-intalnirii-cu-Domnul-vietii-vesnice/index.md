@@ -14,6 +14,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 31-a după Rusalii
     - Vindecarea orbului din Ierihon
 ---
 _**Duminica a 31-a după Rusalii (Vindecarea orbului din Ierihon)**_

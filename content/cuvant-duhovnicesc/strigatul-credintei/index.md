@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 10-a după Rusalii
     - Vindecarea lunaticului
 ---
 _**Duminica a 10-a după Rusalii (Vindecarea lunaticului)**_

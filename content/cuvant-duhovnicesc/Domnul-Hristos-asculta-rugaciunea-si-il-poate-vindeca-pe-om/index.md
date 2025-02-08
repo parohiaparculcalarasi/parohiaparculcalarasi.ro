@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 4-a după Rusalii
     - Vindecarea slugii sutașului
 ---
 _**Duminica a 4-a după Rusalii (Vindecarea slugii sutașului)**_

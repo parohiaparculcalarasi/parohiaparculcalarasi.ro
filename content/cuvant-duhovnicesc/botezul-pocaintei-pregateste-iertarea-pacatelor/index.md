@@ -14,6 +14,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica dinaintea Botezului Domnului
 ---
 _**Duminica dinaintea Botezului Domnului**_
 

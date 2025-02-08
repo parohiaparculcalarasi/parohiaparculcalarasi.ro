@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 6-a după Rusalii
     - Vindecarea slăbănogului din Capernaum
 ---
 _**Duminica a 6-a după Rusalii (Vindecarea slăbănogului din Capernaum)**_

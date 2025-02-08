@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 9-a după Rusalii
     - Umblarea pe mare - Potolirea furtunii
 ---
 _**Duminica a 9-a după Rusalii (Umblarea pe mare - Potolirea furtunii)**_

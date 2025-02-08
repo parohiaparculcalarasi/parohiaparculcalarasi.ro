@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica dinaintea Înălțării Sfintei Cruci
 ---
 _**Duminica dinaintea Înălțării Sfintei Cruci**_
 

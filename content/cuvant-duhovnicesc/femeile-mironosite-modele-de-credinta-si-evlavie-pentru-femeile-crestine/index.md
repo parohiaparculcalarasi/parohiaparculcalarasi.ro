@@ -8,11 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-ciprian--arhiepiscopul-buzaului-si-vrancei
+    - ips-ciprian--arhiepiscopul-buzaului-si-vrancei
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 3-a după Paști
+    - Duminica a Mironosițelor
 ---
 **Duminica a 3-a după Paști (a Mironosițelor)**
 

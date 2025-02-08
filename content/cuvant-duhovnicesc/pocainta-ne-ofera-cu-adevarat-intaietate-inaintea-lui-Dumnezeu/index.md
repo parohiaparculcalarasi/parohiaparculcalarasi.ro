@@ -9,11 +9,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-varsanufie--arhiepiscopul-ramnicului
+    - ips-varsanufie--arhiepiscopul-ramnicului
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 5-a din Postul Mare
+    - Duminica Sfintei Cuvioase Maria Egipteanca
 ---
 **Duminica a 5-a din Postul Mare (A Sfintei Cuvioase Maria Egipteanca)**
 

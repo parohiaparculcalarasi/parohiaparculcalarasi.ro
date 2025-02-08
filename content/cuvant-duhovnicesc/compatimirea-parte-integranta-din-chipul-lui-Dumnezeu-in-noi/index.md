@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica a 20-a după Rusalii
     - Învierea fiului văduvei din Nain
 ---
 _**Duminica a 20-a după Rusalii (Învierea fiului văduvei din Nain)**_

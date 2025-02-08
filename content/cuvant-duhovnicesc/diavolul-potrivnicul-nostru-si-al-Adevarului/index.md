@@ -9,11 +9,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - ips-irineu--arhiepiscopul-alba-iuliei
+    - ips-irineu--arhiepiscopul-alba-iuliei
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
+    - Evanghelia de Duminică
+    - Duminica a 4-a din Postul Mare
+    - Duminica a Sfântului Cuvios Ioan Scărarul
 ---
 **Duminica a 4-a din Postul Mare (a Sfântului Cuvios Ioan Scărarul)**
 

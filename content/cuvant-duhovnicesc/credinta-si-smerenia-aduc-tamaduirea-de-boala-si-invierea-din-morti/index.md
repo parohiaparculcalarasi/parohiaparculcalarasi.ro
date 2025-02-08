@@ -8,12 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel  
+    - patriarhul-daniel  
 categories:
-  - Cuvânt duhovnicesc
+    - Cuvânt duhovnicesc
 tags:
-  - Evanghelia de Duminică
-  - Învierea fiicei lui Iair
+    - Evanghelia de Duminică
+    - Duminica a 24-a după Rusalii
+    - Învierea fiicei lui Iair
 ---
 **Evanghelia la Duminica a XXIV-a după Rusalii (Învierea fiicei lui Iair)**
 

@@ -8,12 +8,12 @@ featured: false
 pinned: false
 toc: false
 authors:
-  - patriarhul-daniel
+    - patriarhul-daniel
 categories:
-#  - Cuvânt duhovnicesc
+#    - Cuvânt duhovnicesc
 tags:
-  - Pastorală
-  - Învierea Domnului 
+    - Pastorală
+    - Învierea Domnului 
 ---
 **<p style="text-align: center;">- Pastorala de Sfintele Paști 2024 -</p>**
 
