@@ -9,7 +9,7 @@ featured: false
 pinned: false
 toc: false
 authors:
-    - ps-nectarie--episcopul-ortodox--roman-al-irlandei--si-islandei
+    - sfantul-cuvios-cleopa-ilie
 categories:
     - Cuvânt duhovnicesc
 tags:
@@ -56,5 +56,7 @@ Nu fără rost s-a rânduit de Biserică Evanghelia Vameșului și a Fariseului 
 Și dacă mândria a făcut pe îngerii neascultători diavoli și pe primii oameni care erau nemuritori în rai i-a făcut muritori pe pământ, înțelegem că precum căderea și moartea noastră au venit prin mândrie, tot așa pocăința, mântuirea și nemurirea noastră încep întâi prin smerenie. De aceea s-au și rânduit de Sfinții Părinți trei duminici pregătitoare înainte de începerea Sfântului și Marelui Post al Paștilor. Începutul pocăinței și al postului îl facem prin rugăciunea unită cu smerenie, dacă vom urma vameșului. De aceea, frații mei, știind că mândria a creat iadul și a aruncat pe îngerii căzuți și pe oamenii nepocăiți în adâncul gheenei, suntem datori să punem de astăzi început bun de pocăință și să urmăm vameșului pocăit, iar nu fariseului mândru.
 
 Smerenia este cel mai bun leac pentru creștinii de astăzi, pentru mântuirea noastră. Vom putea scăpa de mândrie prin mai multă rugăciune, ajutată de post, prin citirea cărților sfinte și prin deasă spovedanie la duhovnici iscusiți.
+
+(Sfântul Cuvios Cleopa de la Sihăstria Neamțului)
 
 {{< gallery images="images/1.jpg" >}}
