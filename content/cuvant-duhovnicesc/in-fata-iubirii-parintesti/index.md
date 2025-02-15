@@ -1,5 +1,5 @@
 ---
-title: Dumnezeu aude rugăciunea stăruitoare a dreptului
+title: În fața iubirii părintești
 date: 2025-02-16T00:00:00Z
 publishDate: 2025-02-16T00:00:00Z
 year: 2025
