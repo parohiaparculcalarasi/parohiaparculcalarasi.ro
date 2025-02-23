@@ -13,6 +13,8 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica Izgonirii lui Adam din Rai
+    - Duminica Lăsatului sec de brânză
 ---
 **Duminica Izgonirii lui Adam din Rai (a Lăsatului sec de brânză)**
 

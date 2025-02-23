@@ -14,6 +14,7 @@ categories:
 tags:
     - Evanghelia de Duminică
     - Duminica Înfricoșătoarei Judecăți
+    - Duminica Lăsatului sec de carne
 ---
 **Duminica Înfricoșătoarei Judecăți (a Lăsatului sec de carne)**
 
