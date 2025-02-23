@@ -16,7 +16,7 @@ tags:
     - Duminica a 18-a după Rusalii
     - Pescuirea minunată
 ---
-_**Duminica a 18-a după Rusalii (Pescuirea minunată)**_
+**Duminica a 18-a după Rusalii (Pescuirea minunată)**
 
 > _„În vremea aceea Iisus ședea lângă lacul Ghenizaret și a văzut două corăbii oprite lângă țărm, iar pescarii, coborând din ele, spălau mrejele. Atunci El, urcându-Se într-una din corăbii, care era a lui Simon, l-a rugat s-o depărteze puțin de la uscat și, șezând în corabie, învăța din ea mulțimile. Iar când a încetat să vorbească, i-a zis lui Simon: Îndepărteaz-o la adânc și lăsați în jos mrejele voastre ca să pescuiți. Și, răspunzând, Simon a zis: Învățătorule, toată noaptea ne-am trudit și nimic n-am prins, dar, după cuvântul Tău, voi arunca mrejele. Și, făcând ei aceasta, au prins mulțime mare de pește, încât li se rupeau mrejele.<br><br>_
 > _De aceea, au făcut semn celor care erau în cealaltă corabie să vină să-i ajute. Și au venit și au umplut amândouă corăbiile, încât erau gata să se scufunde. Iar Simon Petru, văzând aceasta, a căzut în genunchi, înaintea lui Iisus, zicând: Ieși de la mine, Doamne, că sunt om păcătos! Căci spaimă îi cuprinsese, pe el și pe toți cei ce erau cu el, pentru pescuirea atâtor pești. Tot așa și pe Iacov și pe Ioan, fiii lui Zevedeu, care erau împreună cu Simon. Și a zis Iisus către Simon: Nu te teme; de acum înainte vei fi pescar de oameni. Și, trăgând corăbiile la țărm, au lăsat totul și au mers după El.”_ (**_Luca_ 5, 1-11**)

@@ -17,7 +17,7 @@ tags:
     - Duminica a 31-a după Rusalii
     - Vindecarea orbului din Ierihon
 ---
-_**Duminica a 31-a după Rusalii (Vindecarea orbului din Ierihon)**_
+**Duminica a 31-a după Rusalii (Vindecarea orbului din Ierihon)**
 
 > _„În vremea aceea, pe când Se apropia Iisus de Ierihon, un orb ședea lângă drum, cerșind. Și, auzind el mulțimea care trecea, întreba ce se întâmplă. Și i-au spus că trece Iisus Nazarineanul. Atunci el a strigat, zicând: Iisuse, Fiul lui David, miluiește-mă! Și cei care mergeau înainte îl certau ca să tacă, dar el cu mult mai mult striga: Fiule al lui David, miluiește-mă! Deci, oprindu-Se, Iisus a poruncit să-l aducă la El; și apropiindu-se, l-a întrebat: Ce voiești să-ți fac? Iar el a spus: Doamne, să văd! Și Iisus i-a zis: Vezi! Credința ta te-a mântuit. Și îndată a văzut și mergea după El, slăvind pe Dumnezeu. Iar tot poporul care văzuse a dat laudă lui Dumnezeu.”_ (**_Luca_ 18, 35-43**)
 

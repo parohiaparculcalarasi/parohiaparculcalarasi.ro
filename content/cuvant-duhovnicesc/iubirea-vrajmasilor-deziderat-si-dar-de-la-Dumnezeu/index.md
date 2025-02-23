@@ -16,7 +16,7 @@ tags:
     - Duminica a 19-a după Rusalii
     - Predica de pe munte - Iubirea vrăjmașilor
 ---
-_**Duminica a 19-a după Rusalii (Predica de pe munte - Iubirea vrăjmașilor)**_
+**Duminica a 19-a după Rusalii (Predica de pe munte - Iubirea vrăjmașilor)**
 
 > _„Zis-a Domnul: Precum voiți să vă facă vouă oamenii, faceți-le și voi asemenea. Și, dacă iubiți pe cei ce vă iubesc, ce răsplată puteți avea? Că și păcătoșii iubesc pe cei ce îi iubesc pe ei; și, dacă faceți bine celor ce vă fac vouă bine, ce mulțumire puteți avea? Că și păcătoșii fac același lucru; iar dacă dați împrumut celor de la care nădăjduiți să luați înapoi, ce mulțumire puteți avea? Că și păcătoșii dau cu împrumut păcătoșilor, ca să primească înapoi întocmai. Însă voi iubiți-i pe vrăjmașii voștri și faceți-le bine și dați cu împrumut fără să nădăjduiți nimic în schimb, iar răsplata voastră va fi multă și veți fi fiii Celui Preaînalt, că El este bun cu cei nemulțumitori și răi. Fiți milostivi, precum și Tatăl vostru milostiv este.”_ (**_Luca_ 6, 31-36**)
 

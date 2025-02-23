@@ -16,7 +16,7 @@ tags:
     - Duminica a 8-a după Rusalii
     - Înmulțirea pâinilor
 ---
-_**Duminica a 8-a după Rusalii (Înmulțirea pâinilor)**_
+**Duminica a 8-a după Rusalii (Înmulțirea pâinilor)**
 
 > _„În vremea aceea Iisus a văzut mulțimea de oameni și I s-a făcut milă de ei și a vindecat pe bolnavii lor. Iar când s-a făcut seară, ucenicii au venit la El și I-au zis: Locul este pustiu și vremea, iată, a trecut; deci, dă drumul mulțimilor ca să se ducă în sate să-și cumpere mâncare. Iisus însă le-a răspuns: N-au trebuință să se ducă; dați-le voi să mănânce. Iar ei I-au zis: Nu avem aici decât cinci pâini și doi pești. Și El a zis: Aduceți-Mi-le aici. Și poruncind să se așeze mulțimile pe iarbă și luând cele cinci pâini și cei doi pești și privind la cer, a binecuvântat și, frângând, a dat ucenicilor pâinile, iar ucenicii mulțimilor. Și au mâncat toți și s-au săturat și au strâns rămășițele de fărâmituri, douăsprezece coșuri pline. Iar cei ce mâncaseră erau ca la cinci mii de bărbați, afară de femei și de copii. Și îndată Iisus a silit pe ucenici să intre în corabie și să treacă înaintea Lui pe țărmul celălalt, până ce El va da drumul mulțimilor.”_ (**_Matei_ 14, 14-22**)
 

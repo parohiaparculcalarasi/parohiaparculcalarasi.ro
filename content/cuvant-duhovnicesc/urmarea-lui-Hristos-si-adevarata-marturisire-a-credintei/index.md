@@ -16,7 +16,7 @@ tags:
     - Duminica după Înălțarea Sfintei Cruci
     - Luarea Crucii și urmarea lui Hristos
 ---
-_**Duminica după Înălțarea Sfintei Cruci (Luarea Crucii și urmarea lui Hristos)**_
+**Duminica după Înălțarea Sfintei Cruci (Luarea Crucii și urmarea lui Hristos)**
 
 > _„Zis-a Domnul: Oricine voiește să vină după Mine, să se lepede de sine, să-și ia crucea și să-Mi urmeze Mie. Căci cine va voi să-și scape viața, o va pierde, iar cine își va pierde viața sa pentru Mine și pentru Evanghelie, acela o va mântui. Căci ce-i folosește omului să câștige lumea întreagă dacă-și pierde sufletul? Sau ce ar putea să dea omul în schimb pentru sufletul său? Căci de cel ce se va rușina de Mine și de cuvintele Mele, în neamul acesta desfrânat și păcătos, și Fiul Omului Se va rușina de el când va veni întru slava Tatălui Său, cu sfinții îngeri. Și le zicea lor: Adevărat grăiesc vouă că sunt unii dintre cei ce stau aici care nu vor gusta moartea, până ce nu vor vedea Împărăția lui Dumnezeu venind întru putere.”_ (**_Marcu_ 8, 34-3; 9, 1**)
 

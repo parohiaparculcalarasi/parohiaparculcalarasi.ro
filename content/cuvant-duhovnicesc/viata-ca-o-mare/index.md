@@ -16,7 +16,7 @@ tags:
     - Duminica a 9-a după Rusalii
     - Umblarea pe mare - Potolirea furtunii
 ---
-_**Duminica a 9-a după Rusalii (Umblarea pe mare - Potolirea furtunii)**_
+**Duminica a 9-a după Rusalii (Umblarea pe mare - Potolirea furtunii)**
 
 > _„În vremea aceea, Iisus i-a silit pe ucenici să intre în corabie și să treacă înaintea Lui pe țărmul celălalt, până ce va da drumul mulțimilor. Iar El, dând drumul mulțimilor, S-a suit în munte, ca să Se roage deosebi. Și făcându-se seară, era singur acolo. Iar corabia era deja în mijlocul mării, fiind învăluită de valuri, căci vântul era împotrivă. Iar la a patra strajă din noapte, a venit la ei Iisus, umblând pe mare. Văzându-L umblând pe mare, ucenicii s-au înspăimântat, zicând că e nălucă, și de frică au strigat. Dar El le-a vorbit îndată, zicându-le: Îndrăzniți, Eu sunt; nu vă temeți! Atunci Petru, răspunzând, a zis: Doamne, dacă ești Tu, poruncește să vin la Tine pe apă. El i-a zis: Vino! Iar Petru, coborându-se din corabie, a mers pe apă și a venit către Iisus. Dar, văzând vântul, s-a temut și, începând să se scufunde, a strigat, zicând: Doamne, scapă-mă! Iar Iisus, întinzând îndată mâna, l-a apucat și i-a zis: Puțin credinciosule, pentru ce te-ai îndoit? Și suindu-se ei în corabie, s-a potolit vântul. Iar cei din corabie I s-au închinat.”_ (**_Matei_ 14, 22-34**)
 

@@ -17,7 +17,7 @@ tags:
     - Duminica a 33-a după Rusalii
     - Duminica Vameșului și a Fariseului
 ---
-_**Duminica a 33-a după Rusalii (a Vameșului și a Fariseului)**_
+**Duminica a 33-a după Rusalii (a Vameșului și a Fariseului)**
 
 > _„Zis-a Domnul pilda aceasta: Doi oameni s-au suit la templu ca să se roage: unul era fariseu și celălalt vameș. Fariseul, stând drept, așa se ruga în sine: Dumnezeule, Îți mulțumesc că nu sunt ca ceilalți oameni, răpitori, nedrepți, prea desfrânați, sau ca și acest vameș. Postesc de două ori pe săptămână, dau zeciuială din toate câte câștig. Iar vameșul, departe stând, nu voia nici ochii să-și ridice către cer, ci-și bătea pieptul, zicând: Dumnezeule, milostiv fii mie, păcătosului! Zic vouă că acesta s-a coborât mai îndreptat la casa sa decât acela. Fiindcă oricine se înalță pe sine se va smeri, iar cel ce se smerește pe sine se va înălța.”_ (**_Luca_ 18, 10-14**)
 

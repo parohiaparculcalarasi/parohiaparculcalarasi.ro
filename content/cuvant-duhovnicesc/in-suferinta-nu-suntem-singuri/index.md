@@ -16,7 +16,7 @@ tags:
     - Duminica a 7-a după Rusalii
     - Vindecarea a doi orbi și a unui mut din Capernaum
 ---
-_**Duminica a 7-a după Rusalii (Vindecarea a doi orbi și a unui mut din Capernaum)**_
+**Duminica a 7-a după Rusalii (Vindecarea a doi orbi și a unui mut din Capernaum)**
 
 > _„În vremea aceea, pe când trecea Iisus, doi orbi se țineau după El, strigând și zicând: Miluiește-ne pe noi, Fiule al lui David! Iar după ce a intrat în casă, au venit la El orbii și Iisus i-a întrebat: Credeți că pot să fac Eu aceasta? Zis-au Lui: Da, Doamne! Atunci S-a atins de ochii lor, zicând: După credința voastră fie vouă! Și s-au deschis ochii lor. Iar Iisus le-a poruncit cu asprime, zicând: Vedeți, nimeni să nu știe. Dar ei, ieșind, L-au vestit în tot ținutul acela. Și, plecând ei, iată au adus la El un om mut, având demon. Și, fiind scos demonul, mutul a grăit. Iar mulțimile se minunau, zicând: Niciodată nu s-a văzut așa ceva în Israel. Dar fariseii ziceau: Cu domnul demonilor scoate pe demoni. Și Iisus străbătea toate cetățile și satele, învățând în sinagogile lor, propovăduind Evanghelia Împărăției și vindecând toată boala și toată neputința în popor.”_ (**_Matei_ 9, 27-35**)
 

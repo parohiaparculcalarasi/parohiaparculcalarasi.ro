@@ -16,7 +16,7 @@ tags:
     - Duminica a 20-a după Rusalii
     - Învierea fiului văduvei din Nain
 ---
-_**Duminica a 20-a după Rusalii (Învierea fiului văduvei din Nain)**_
+**Duminica a 20-a după Rusalii (Învierea fiului văduvei din Nain)**
 
 > _„În vremea aceea S-a dus Iisus într-o cetate numită Nain și împreună cu El mergeau ucenicii Lui și mulțime mare. Iar când S-a apropiat de poarta cetății, iată scoteau un mort, singurul copil al mamei sale, și ea era văduvă, iar mulțime mare din cetate era cu ea. Și, văzând-o Domnul, I s-a făcut milă de ea și i-a zis: Nu plânge! Atunci, apropiindu-Se, S-a atins de sicriu, iar cei ce-l duceau s-au oprit. Și a zis: Tinere, ție îți zic, scoală-te! Iar cel ce fusese mort s-a ridicat și a început să vorbească, iar Iisus l-a dat mamei sale. Și frică i-a cuprins pe toți și slăveau pe Dumnezeu, zicând: Proroc mare S-a ridicat între noi și Dumnezeu a cercetat pe poporul Său.”_ (**_Luca_ 7, 11-16**)
 

@@ -16,7 +16,7 @@ tags:
     - Evanghelia de Duminică
     - Duminica dinaintea Botezului Domnului
 ---
-_**Duminica dinaintea Botezului Domnului**_
+**Duminica dinaintea Botezului Domnului**
 
 > _Începutul Evangheliei lui Iisus Hristos, Fiul lui Dumnezeu, precum este scris de proroci: „Iată, Eu trimit pe îngerul Meu înaintea feței Tale, care va pregăti calea Ta. Glasul celui ce strigă în pustie: Gătiți calea Domnului, drepte faceți cărările Lui! Ioan boteza în pustie, propovăduind botezul pocăinței spre iertarea păcatelor. Și ieșeau la el tot ținutul Iudeei și toți cei din Ierusalim și se botezau de către el în râul Iordan, mărturisindu-și păcatele. Iar Ioan era îmbrăcat în haină de păr de cămilă, avea cingătoare de piele împrejurul mijlocului și mânca lăcuste și miere sălbatică. Și propovăduia, zicând: Vine în urma mea Cel ce este mai puternic decât mine, Căruia nu sunt vrednic, plecându-mă, să-I dezleg cureaua încălțămintelor. Eu v-am botezat pe voi cu apă, El însă vă va boteza cu Duh Sfânt”._ (**_Marcu_ 1, 1-8**)
 

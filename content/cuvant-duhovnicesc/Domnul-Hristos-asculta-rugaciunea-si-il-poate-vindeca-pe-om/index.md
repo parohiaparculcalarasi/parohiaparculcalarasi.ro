@@ -16,7 +16,7 @@ tags:
     - Duminica a 4-a după Rusalii
     - Vindecarea slugii sutașului
 ---
-_**Duminica a 4-a după Rusalii (Vindecarea slugii sutașului)**_
+**Duminica a 4-a după Rusalii (Vindecarea slugii sutașului)**
 
 > _„În vremea aceea, pe când Iisus intra în Capernaum, s-a apropiat de El un sutaș, rugându-L și zicând: Doamne, sluga mea zace în casă, slăbănog, chinuindu-se cumplit. Și i-a zis Iisus: Venind, îl voi vindeca. Dar sutașul, răspunzând, I-a zis: Doamne, nu sunt vrednic să intri sub acoperișul meu, ci numai spune un cuvânt și se va vindeca sluga mea. Că și eu sunt om sub stăpânirea altora și am sub mine ostași și-i spun acestuia: Du-te, și se duce; și celuilalt: Vino, și vine; și slugii mele: Fă aceasta, și face. Auzind, Iisus S-a minunat și a zis celor ce veneau după El: Adevărat grăiesc vouă: Nici în Israel n-am găsit atâta credință. Și zic vouă că mulți de la răsărit și de la apus vor veni și vor sta la masă cu Avraam, cu Isaac și cu Iacov în Împărăția cerurilor. Iar fiii Împărăției vor fi aruncați în întunericul cel mai din afară; acolo va fi plângerea și scrâșnirea dinților. Și a zis Iisus sutașului: Du-te, fie ție după cum ai crezut. Și s-a însănătoșit sluga lui în ceasul acela.”_ (**_Matei_ 8, 5-13**)
 

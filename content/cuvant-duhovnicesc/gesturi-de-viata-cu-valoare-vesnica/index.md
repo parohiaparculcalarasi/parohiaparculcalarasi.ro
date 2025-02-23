@@ -17,7 +17,7 @@ tags:
     - Duminica a 22-a după Rusalii
     - Pilda bogatului nemilostiv și a săracului Lazăr
 ---
-_**Duminica a 22-a după Rusalii (Bogatul nemilostiv și săracul Lazăr)**_
+**Duminica a 22-a după Rusalii (Bogatul nemilostiv și săracul Lazăr)**
 
 > _„Zis-a Domnul: Era un om bogat care se îmbrăca în porfiră și în vison, veselindu-se în toate zilele în chip strălucit. Iar un sărac, anume Lazăr, zăcea înaintea porții lui, plin de bube, poftind să se sature din cele ce cădeau de la masa bogatului; dar și câinii venind, lingeau bubele lui. Și a murit săracul și a fost dus de către îngeri în sânul lui Avraam. A murit și bogatul și a fost înmormântat. Și, în iad, ridicându-și ochii, fiind în chinuri, el a văzut de departe pe Avraam și pe Lazăr în sânul lui. Și el, strigând, a zis: Părinte Avraame, fie-ți milă de mine și trimite pe Lazăr să-și ude vârful degetului în apă și să-mi răcorească limba, căci mă chinuiesc în această văpaie! Dar Avraam a zis: Fiule, adu-ți aminte că tu ai primit cele bune ale tale în viața ta, iar Lazăr, asemenea, pe cele rele; și acum aici el se mângâie, iar tu te chinuiești. Și, peste toate acestea, între noi și voi s-a întărit prăpastie mare, ca aceia care voiesc să treacă de aici la voi să nu poată, nici cei de acolo să treacă la noi. Iar el a zis: Rogu-te, dar, părinte, să-l trimiți în casa tatălui meu, căci am cinci frați, să le spună lor acestea, ca să nu vină și ei în acest loc de chin. Și i-a zis Avraam: Au pe Moise și pe proroci; să asculte de ei. Iar el a zis: Nu, părinte Avraame, ci, dacă cineva dintre morți se va duce la ei, se vor pocăi. Și i-a zis Avraam: Dacă nu ascultă de Moise și de proroci, nu vor crede nici dacă ar învia cineva din morți.”_ (**_Luca_ 16, 19-31**)
 

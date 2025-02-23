@@ -17,7 +17,7 @@ tags:
     - Duminica a 29-a după Rusalii
     - Vindecarea celor zece leproși
 ---
-_**Duminica a 29-a după Rusalii (Vindecarea celor zece leproși)**_
+**Duminica a 29-a după Rusalii (Vindecarea celor zece leproși)**
 
 > _În vremea aceea, intrând Iisus într-un sat, L-au întâmpinat zece bărbați leproși, care au stat departe și care au ridicat glasul, zicând: Iisuse, Învățătorule, miluiește-ne! Și, văzându-i, El le-a zis: Duceți-vă și vă arătați preoților. Dar, pe când ei se duceau, s-au curățit. Iar unul dintre ei, văzând că s-a vindecat, s-a întors, cu glas mare slăvind pe Dumnezeu. Și a căzut cu fața la pământ la picioarele lui Iisus, mulțumindu-I. Iar acela era samarinean. Și răspunzând, Iisus a zis: Oare nu zece s-au curățit? Dar cei nouă unde sunt? Nu s-a găsit să se întoarcă să dea slavă lui Dumnezeu decât numai acesta, care este de alt neam? Și i-a zis: Ridică-te și du-te! Credința ta te-a mântuit!”._ (**_Matei_ 17, 12-19**)
 

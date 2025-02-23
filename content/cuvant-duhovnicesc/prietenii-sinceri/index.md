@@ -16,7 +16,7 @@ tags:
     - Duminica a 6-a după Rusalii
     - Vindecarea slăbănogului din Capernaum
 ---
-_**Duminica a 6-a după Rusalii (Vindecarea slăbănogului din Capernaum)**_
+**Duminica a 6-a după Rusalii (Vindecarea slăbănogului din Capernaum)**
 
 > _„În vremea aceea, intrând în corabie, Iisus a trecut marea și a venit în cetatea Sa. Și, iată, I-au adus un slăbănog zăcând pe pat. Și Iisus, văzând credința lor, a zis slăbănogului: Îndrăznește, fiule! Iertate sunt păcatele tale! Dar unii dintre cărturari ziceau în sinea lor: Acesta hulește. Și Iisus, știind gândurile lor, le-a zis: Pentru ce cugetați rele în inimile voastre? Căci ce este mai lesne? A zice: Iertate sunt păcatele tale, sau a zice: Ridică-te și umblă? Dar, ca să știți că putere are Fiul Omului pe pământ a ierta păcatele, a zis slăbănogului: Ridică-te, ia-ți patul și mergi la casa ta. Și ridicându-se, s-a dus la casa lui. Iar mulțimile, văzând acestea, s-au înspăimântat și au slăvit pe Dumnezeu, Care dă oamenilor asemenea putere.”_ (**_Matei_ 9, 1-8**)
 

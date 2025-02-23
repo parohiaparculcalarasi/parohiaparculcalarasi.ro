@@ -16,7 +16,7 @@ tags:
     - Duminica a 5-a după Rusalii
     - Vindecarea celor doi demonizați din ținutul Gadarei
 ---
-_**Duminica a 5-a după Rusalii (Vindecarea celor doi demonizați din ținutul Gadarei)**_
+**Duminica a 5-a după Rusalii (Vindecarea celor doi demonizați din ținutul Gadarei)**
 
 > _„În vremea aceea, trecând Iisus dincolo, în ținutul Gadarenilor, L-au întâmpinat doi demonizați care ieșeau din morminte, atât de cumpliți, încât nimeni nu putea să treacă pe calea aceea. Și, iată, au început să strige și să zică: Ce ai cu noi, Iisuse, Fiul lui Dumnezeu? Ai venit aici mai înainte de vreme ca să ne chinuiești? Departe de ei era o turmă mare de porci, păscând. Iar demonii Îl rugau, zicând: Dacă ne scoți afară, lasă-ne să intrăm în turma de porci. Atunci El le-a zis: Duceți-vă! Iar ei, ieșind, s-au dus în turma de porci. Și îndată toată turma s-a aruncat de pe țărm în mare și a pierit în apă. Iar păzitorii au fugit și, ducându-se în cetate, au spus toate cele întâmplate cu demonizații. Și, iată, toată cetatea a ieșit în întâmpinarea lui Iisus și, văzându-L, L-au rugat să plece din hotarele lor. Iar Iisus, intrând în corabie, a trecut marea și a venit în cetatea Sa.”_ (**_Matei_ 8, 28-34; 9, 1**)
 

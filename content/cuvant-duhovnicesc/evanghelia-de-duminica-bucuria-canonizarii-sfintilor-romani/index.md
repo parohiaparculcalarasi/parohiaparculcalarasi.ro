@@ -16,7 +16,7 @@ tags:
     - Duminica a 2-a după Rusalii
     - Duminica Sfinților Români 
 ---
-_**Duminica a 2-a după Rusalii (a Sfinților Români)**_
+**Duminica a 2-a după Rusalii (a Sfinților Români)**
 
 > _„În vremea aceea, pe când Iisus umbla pe lângă Marea Galileei, a văzut pe doi frați: pe Simon ce se numește Petru și pe Andrei, fratele lui, care aruncau mreaja în mare, căci erau pescari; și le-a zis: Veniți după Mine și vă voi face pescari de oameni. Iar ei, îndată lăsând mrejele, au mers după El. Și, de acolo mergând mai departe, a văzut pe alți doi frați: pe Iacov al lui Zevedeu și pe Ioan, fratele lui, în corabie cu Zevedeu, tatăl lor, dregându-și mrejele, și i-a chemat. Iar ei, îndată lăsând corabia și pe tatăl lor, au mers după El. Și a străbătut Iisus toată Galileea, învățând în sinagogile lor și propovăduind Evanghelia Împărăției și tămăduind toată boala și toată neputința în popor.”_ (**_Matei_ 4, 18-23**)
 
