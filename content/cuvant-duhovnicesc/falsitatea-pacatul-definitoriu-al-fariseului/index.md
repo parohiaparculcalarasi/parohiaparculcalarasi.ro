@@ -47,7 +47,7 @@ Să auzim mai departe laudele fariseului care zice: _„Postesc de două ori pe 
 
 Să urmărim și celelalte laude ale fariseului. Căci după ce s-a lăudat cu postirea, același lucru îl face și cu milostenia: _„Dau zeciuială din toate câte câștig”_ (_Luca_ 18, 12). Mântuitorul însă ne învață: _„Când faci milostenie, să nu știe stânga ta ce face dreapta ta, ca milostenia să fie întru ascuns și Tatăl tău care vede întru ascuns, îți va răsplăti ție”_ (_Matei_ 6, 3-4).
 
-### Aşezarea smerită şi vrednică de laudă a vameşului
+### Așezarea smerită și vrednică de laudă a vameșului
 
 După ce am vorbit despre mândria și lauda cea fără minte a fariseului, să ne întoarcem privirea minții noastre și spre așezarea cea smerită și vrednică de laudă a vameșului. Să aducem în mijloc cuvintele Sfintei Evanghelii de azi: _„Iar vameșul, departe stând, nu voia nici ochii să-și ridice către cer, ci își bătea pieptul, zicând: Dumnezeule, milostiv fii mie, păcătosul”_ (_Luca_ 18, 13). Vedeți, frații mei, că vameșul stătea departe de jertfelnic și nu îndrăznea nici ochii să-și ridice către cer; ci își bătea pieptul și din inima lui smerită și zdrobită, zicea cu căință: _„Dumnezeule, milostiv fii mie, păcătosul!”_. O, fericite vameșule, tu, cu rugăciunea ta smerită din adâncul inimii tale, foarte mult te-ai asemănat cu tâlharul de pe cruce care a strigat din inimă: _„Pomenește-mă, Doamne, când vei veni întru împărăția Ta!”_ (_Luca_ 23, 42).
 

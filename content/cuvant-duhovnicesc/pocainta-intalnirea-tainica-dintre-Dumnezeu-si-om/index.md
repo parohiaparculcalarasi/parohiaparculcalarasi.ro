@@ -31,7 +31,7 @@ Vechea tradiție bizantină închide mereu șirul Evangheliilor de după Rusalii
 
 Evanghelia nu zice că Zaheu vameșul _„căuta să-l vadă pe Iisus”_, ci _„căuta să vadă cine este Iisus”_ (_Lc._ 19, 3) - de unde și taina persoanei, taina Lui Dumnezeu, care se face cunoscut omului.
 
-Zaheu nu voia să știe ce reprezintă Hristos prin Sine şi nici ce spune lumea despre El (cu siguranță auzise multe), ci era însetat de a cunoaște adâncul tainei - _cine Este, cu adevărat, acest învățător de lege?_ - Hristos Domnul. Setea dorinței de a-L întâlni, de a-L vedea, de a-L cunoaște, de a-L descoperi, se arată a fi setea omului de a se împăca cu Dumnezeu.
+Zaheu nu voia să știe ce reprezintă Hristos prin Sine și nici ce spune lumea despre El (cu siguranță auzise multe), ci era însetat de a cunoaște adâncul tainei - _cine Este, cu adevărat, acest învățător de lege?_ - Hristos Domnul. Setea dorinței de a-L întâlni, de a-L vedea, de a-L cunoaște, de a-L descoperi, se arată a fi setea omului de a se împăca cu Dumnezeu.
 
 Adam, a cărui pecete o purtăm cu toții în trup, odată cu căderea, pierde și privilegiul de a-L mai vedea pe Dumnezeu. După alte câteva generații, omul pierde privilegiul de a-L mai auzi pe Dumnezeu - care se descoperă, tainic, doar in inimile curate. Domnul vorbește prin gura prorocilor și a sfinților, dar de la Maleahi, prorocul, care îl va vesti pe Înaintemergătorul, se așterne o tăcere de peste patru sute de ani - glasul Domnului nu mai poate fi auzit.
 
@@ -41,7 +41,7 @@ De atunci și până astăzi dorința lui Zaheu este singura dorință, de la iz
 
 Sfântul Efrem Sirul ne spune un lucru care ne arată sensul adânc în lucrarea mântuirii lui Zaheu - _„primul pom al lui Adam va fi uitat datorită acestui ultim pom, al mai-marelui vameșilor, și greșeala lui Adam va fi uitată pentru dreptul Zaheu”_.
 
-Coborârea din păcat spre virtute este un urcuș de la cele lumești la cele duhovnicești și tocmai aici Domnul răstoarnă toate valorile noastre superficiale și ne arată o cu totul altă perspectivă: _„Fiul Omului a venit să caute şi să mântuiască pe cel pierdut”_.
+Coborârea din păcat spre virtute este un urcuș de la cele lumești la cele duhovnicești și tocmai aici Domnul răstoarnă toate valorile noastre superficiale și ne arată o cu totul altă perspectivă: _„Fiul Omului a venit să caute și să mântuiască pe cel pierdut”_.
 
 Omul păcătos, în chipul vameșului de astăzi, este deprins cu _disprețul_ celor din jur - Hristos însă îi arată prețuire! Cel căzut este deprins să fie _urât_ - Hristos însă îi arată dragoste! Cel neputincios este deprins să fie _exclus_ și _judecat_ de cei drepți - Hristos însă îi arată părtășie! Cel rușinat de faptele sale este deprins să fie _certat_ - Hristos însă îi arată bucurie și mai mult decât atât - îl laudă!
 
