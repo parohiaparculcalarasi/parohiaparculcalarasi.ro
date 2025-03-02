@@ -85,14 +85,14 @@ Așadar, fiind îndreptați cu privirea spre Învierea Domnului, să îndrăznim
 
 **Note:**
 
-<a id="note_def_1" href="#note_1" class="ppc-note-def"><sup>1</sup> Sfântul Ioan Gură de Aur, _Scrieri_, partea a treia, _Omilii la Matei_, în colecția „Părinți și Scriitori Bisericești”, trad., introducere și note de Pr. D. Fecioru, Editura Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 1994, p. 254.</a>
+<a id="note_def_1" href="#note_1" class="ppc-note-def"><sup>1</sup></a> Sfântul Ioan Gură de Aur, _Scrieri_, partea a treia, _Omilii la Matei_, în colecția „Părinți și Scriitori Bisericești”, trad., introducere și note de Pr. D. Fecioru, Editura Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 1994, p. 254.
 
-<a id="note_def_2" href="#note_2" class="ppc-note-def"><sup>2</sup> _Molitfelnic_, Editura Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 1992, p. 40.</a>
+<a id="note_def_2" href="#note_2" class="ppc-note-def"><sup>2</sup></a> _Molitfelnic_, Editura Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 1992, p. 40.
 
-<a id="note_def_3" href="#note_3" class="ppc-note-def"><sup>3</sup> _Ibidem_, p. 67.</a>
+<a id="note_def_3" href="#note_3" class="ppc-note-def"><sup>3</sup></a> _Ibidem_, p. 67.
 
-<a id="note_def_4" href="#note_4" class="ppc-note-def"><sup>4</sup> Liturghier, Editura Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2000, p. 176.</a>
+<a id="note_def_4" href="#note_4" class="ppc-note-def"><sup>4</sup></a> Liturghier, Editura Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2000, p. 176.
 
-<a id="note_def_5" href="#note_5" class="ppc-note-def"><sup>5</sup> _Moliftelnic_, p. 147.</a>
+<a id="note_def_5" href="#note_5" class="ppc-note-def"><sup>5</sup></a> _Moliftelnic_, p. 147.
 
 {{< gallery images="images/1.jpg,images/2.jpg" >}}
