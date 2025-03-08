@@ -99,7 +99,7 @@ Ne rugăm Preamilostivului Dumnezeu să-i binecuvânteze pe toți românii, din 
 
 **† Iosif**, Arhiepiscopul Ortodox Român al Europei Occidentale și Mitropolitul Ortodox Român al Europei Occidentale și Meridionale
 
-**† Serafim**, Arhiepiscopul Ortodox Român al Germaniei, Austriei și Luxemburgului și Mitropolitul Ortodox Român al Germaniei**, Europei Centrale și de Nord
+**† Serafim**, Arhiepiscopul Ortodox Român al Germaniei, Austriei și Luxemburgului și Mitropolitul Ortodox Român al Germaniei, Europei Centrale și de Nord
 
 **† Nicolae**, Arhiepiscopul Ortodox Român al Statelor Unite ale Americii și Mitropolitul Ortodox Român al celor două Americi
 
