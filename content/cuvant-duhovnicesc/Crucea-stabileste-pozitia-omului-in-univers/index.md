@@ -8,13 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-    - ips-calinic--arhiepiscopul-sucevei-si-radautilor
+  - ips-calinic--arhiepiscopul-sucevei-si-radautilor
 categories:
-    - Cuvânt duhovnicesc
+  - Cuvânt duhovnicesc
 tags:
-    - Evanghelia de Duminică
-    - Duminica a 3-a din Postul Mare
-    - Duminica a Sfintei Cruci
+  - Evanghelia de Duminică
+  - Duminica a 3-a din Postul Mare
+  - Duminica Sfintei Cruci
 ---
 **Duminica a 3-a din post (a Sfintei Cruci)**
 
