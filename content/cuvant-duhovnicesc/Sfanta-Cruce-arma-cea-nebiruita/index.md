@@ -45,7 +45,8 @@ Astfel, prin Jertfa lui Hristos, Sfânta Cruce reprezintă semnul biruinței și
 Referitor la prezența vizibilă a Sfintei Cruci în viața de toate zilele, pot să afirm că, până nu demult, cel puțin în satul copilăriei mele, nu vedeai nici o casă, sau aproape nici o altă clădire din gospodărie, pe acoperișul căreia să nu fie așezat semnul crucii, ca semn de biruință și protecție, ca un paratrăsnet în fața relelor. Ţinea - am putea spune - locul firmelor de asigurări de astăzi. Şi troițele de la marginea sau intersecția drumurilor reprezintă locuri _de aducere aminte_ (Cf. _Fac._ 28, 18), de popas și închinare a trecătorilor.
 
 De vreme ce familia era numită „biserica cea de acasă”, era firesc ca orice casă de creștin să fie împodobită în interior cu icoane, iar în exterior cu semnul crucii, ca emblemă sau drapel de autentică libertate și suveranitate a creștinului în fața primejdiilor și necazurilor: „În lume necazuri veți avea; dar îndrăzniți. Eu am biruit lumea” (_In._ 16, 33). Așa a supraviețuit poporul român, de-a lungul istoriei, având „crucea ca o pavăză și armă nebiruită”.
-Crucea e mărturisire de credință
+
+### Crucea e mărturisire de credință
 
 Crucea de pe casa creștinului era și o mărturisire de credință, căci apariția vreunei locuințe lipsite de cruce era privită într-un mod cu totul straniu și compătimitor. Pur și simplu, mintea sănătoasă a țăranului respingea din start viclenia și nu putea accepta subiectivismul, mai ales în materie de credință. Rațiunea neinfestată a omului „curat cu inima” era cea mai apropiată de „setările din fabrică”, de intenția Ziditorului: „Cuvântul vostru să fie: Ceea ce este da, da; și ceea ce este nu, nu; iar ce e mai mult decât acestea, este de la cel rău” (_Mt._ 5, 37). Pentru omul sincer, credința nu e o joacă opțională, ci o problemă de viață și de moarte: „Căci cuvântul crucii pentru cei ce pier este nebunie; iar pentru noi, cei ce ne mântuim, este puterea lui Dumnezeu” (_I Cor._ 1, 18).
 
