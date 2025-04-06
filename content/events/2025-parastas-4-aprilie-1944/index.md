@@ -6,7 +6,7 @@ year: 2025
 month: 2025-03
 draft: false
 featured: false
-pinned: true
+pinned: false
 authors:
 categories:
   - Evenimente
