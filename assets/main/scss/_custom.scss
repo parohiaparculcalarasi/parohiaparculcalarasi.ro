@@ -110,6 +110,10 @@ ul.contact-list {
   white-space: nowrap;
 }
 
+.tooltip {
+  --hbs-tooltip-max-width: 220px !important;
+}
+
 .ppc-note:not(sup)::before {
   display: unset !important;
 }
