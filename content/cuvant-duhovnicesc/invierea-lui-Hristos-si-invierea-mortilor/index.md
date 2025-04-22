@@ -18,7 +18,7 @@ tags:
 
 <br>
 
-***Hristos a înviat!***
+### Hristos a înviat!
 
 > _„Adevărat, adevărat zic vouă, că vine ceasul, și acum este, când morții vor auzi glasul Fiului lui Dumnezeu, și cei ce vor auzi vor învia”_ (**_Ioan_ 5, 25**)
 
@@ -36,6 +36,8 @@ Domnul Iisus Hristos _„S-a smerit pe Sine, ascultător făcându-Se până la 
 
 Ceea ce s-a realizat în Domnul Iisus Hristos prin Învierea Sa din morți se va realiza cu umanitatea întreagă, cu toate popoarele, cu toate generațiile, de la Adam până la sfârșitul lumii. Sfântul Apostol Pavel, în _Epistola întâi către Corinteni_, spune că _„Paștile nostru Hristos S-a jertfit pentru noi”_ (_1 Corinteni_ 5, 7) și _„precum în Adam toți (oamenii) mor, așa și în Hristos toți vor învia”_ (_1 Corinteni_ 15, 22). Toți oamenii vor învia în Hristos, și cei care au crezut, și cei care n-au crezut în El, pentru că învierea de obște este darul lui Dumnezeu pentru întreaga umanitate. Însă, _„cei ce au făcut cele bune”_ vor învia _„spre învierea vieții, iar cei ce au făcut cele rele, spre învierea osândirii”_ (_Ioan_ 5, 29).
 
+### Botezați întru moartea Lui, ca și învierii Lui să fim părtași…
+
 Ca să-i încredințeze pe ucenicii Săi de adevărul Învierii Sale din morți, Domnul Iisus Hristos S-a arătat de mai multe ori și în mai multe locuri, timp de patruzeci de zile, de la Paști până la Înălțare. Mai întâi, Domnul Hristos S-a arătat femeilor mironosițe, apoi ucenicilor Săi și altor oameni, așa cum ne mărturisesc Sfintele Evanghelii (cf. _Matei_ cap. 28; _Marcu_ cap. 16; _Luca_ cap. 24; _Ioan_ cap. 20-21), Cartea _Faptele Apostolilor_ (cf. 1, 3) și unele scrieri ale Sfântului Apostol Pavel (cf. _1 Corinteni_ 15, 6).
 
 **Hristos Cel înviat este prezent în Biserică prin Duhul Sfânt, luminând Biserica să înțeleagă Scripturile, să săvârșească Sfintele Taine și să păzească toate cele poruncite de El, îndreptând necontenit viața creștinilor spre învierea de obște și spre Împărăția cerească a slavei Preasfintei Treimi (cf. _Ioan_ 16, 13).**
@@ -50,6 +52,8 @@ Domnul Iisus Hristos, Cel răstignit, înviat din morți și înălțat întru s
 
 Dacă nu ar fi învierea morților, viața omului, ca ființă rațională, liberă și iubitoare, s-ar reduce la un orizont biologic limitat, care se termină la mormânt. Fără înviere, ca biruință asupra păcatului și a morții, toate idealurile omenirii de adevăr, dreptate, bunătate și iubire milostivă rămân fără suport etern și fără sens existențial.
 
+### Învierea lui Hristos ne dă înțelesurile existenței
+
 Din această perspectivă, credința în Domnul Iisus Hristos oferă mai multe înțelesuri ale Învierii pentru viața creștină.
 
 **1) Primul înțeles al Învierii pentru oameni este cel spiritual sau duhovnicesc.** Domnul Iisus Hristos, prin Evanghelia Sa, cheamă pe oameni mai întâi la **învierea sufletului din moartea cauzată de păcate**: _„Cel ce ascultă cuvântul Meu și crede în Cel ce M-a trimis are viață veșnică și la judecată nu va veni, ci s-a mutat de la moarte la viață”_ (_Ioan_ 5, 24). Așadar, învierea oamenilor nu este rezervată doar unei epoci viitoare, la sfârșitul lumii acesteia, ci ea se produce acum în sufletele celor care aud și primesc Cuvântul lui Dumnezeu: _„Adevărat, adevărat zic vouă, că vine ceasul, și acum este, când morții vor auzi glasul Fiului lui Dumnezeu, și cei ce vor auzi vor învia”_ (_Ioan_ 5, 25).
@@ -58,7 +62,11 @@ Din această perspectivă, credința în Domnul Iisus Hristos oferă mai multe �
 
 **3) Înțelesul eshatologic sau ultim al Învierii.** Învierea Domnului Hristos nu este revenirea la viața pământească, biologică sau naturală, ci _intrarea într-un nou mod de existență, necunoscut oamenilor până la Învierea lui Hristos_, și anume este trecerea Lui cu sufletul și cu trupul la viața cerească veșnică, în Împărăția cerurilor, _în care nu mai este lacrimă și nici moarte_ (cf. _Apocalipsa_ 21, 4). Hristos Cel înviat din morți omoară moartea, adică îi pune un capăt, _„cu moartea pe moarte călcând”_ – cum spune _Troparul Învierii Domnului_. De aceea, Sfântul Apostol Pavel spune despre Hristos Cel înviat că _moartea nu mai are putere asupra Lui_ (cf. _Romani_ 6, 9). Așa va fi și învierea de obște. Prin urmare, lumina și bucuria Învierii lui Hristos dau sens istoriei universale a omenirii și creației întregi, pentru că o îndreaptă spre viață veșnică și spre _un cer nou și un pământ nou_ (cf. _Apocalipsa_ 21, 1). Oamenii care vor fi încă în viață când Domnul Iisus Hristos va veni _cu slavă și putere multă_ (cf. _Matei_ 16, 27 și 25, 31), _să judece viii și morții_, la a doua Sa venire, aceia _se vor schimba într-o clipită_ (cf. _1 Corinteni_ 15, 51-52). Adică, aceia vor cunoaște o mutare de la condiția de viață umană, biologică, stricăcioasă, la o stare a trupului nestricăcioasă, înduhovnicită, transfigurată.
 
-**4) Învierea de obște va fi urmată de Judecata de Apoi sau Universală, de evaluarea spirituală a vieții și libertății tuturor oamenilor din toate timpurile și din toate locurile**, potrivit criteriului _iubirii milostive față de cei aflați în nevoi_ (cf. _Matei_ 25, 31-46). Oamenii care în timpul vieții lor pământești au răspuns iubirii smerite și milostive a lui Dumnezeu vor fi veșnic fericiți în comuniune cu Dumnezeu Cel milostiv. Cei care în mod liber au refuzat chemarea iubirii milostive sau darnice a lui Dumnezeu, aceia vor simți vidul sufletesc al refuzului iubirii lui Dumnezeu, așa cum ne arată _Evanghelia după Sfântul Evanghelist Matei_, în capitolul 25.
+**4) Învierea de obște va fi urmată de Judecata de Apoi sau Universală, de evaluarea spirituală a vieții și libertății tuturor oamenilor din toate timpurile și din toate locurile**, potrivit criteriului _iubirii milostive față de cei aflați în nevoi_ (cf. _Matei_ 25, 31-46).
+
+### Învierea, ținta finală spre care se îndreaptă Biserica și umanitatea întreagă
+
+Oamenii care în timpul vieții lor pământești au răspuns iubirii smerite și milostive a lui Dumnezeu vor fi veșnic fericiți în comuniune cu Dumnezeu Cel milostiv. Cei care în mod liber au refuzat chemarea iubirii milostive sau darnice a lui Dumnezeu, aceia vor simți vidul sufletesc al refuzului iubirii lui Dumnezeu, așa cum ne arată _Evanghelia după Sfântul Evanghelist Matei_, în capitolul 25.
 
 Din acest capitol învățăm că Hristos Domnul respectă atât de mult libertatea omului, încât, din smerenie totală, prezența Sa se ascunde tainic în oamenii cei mai săraci și suferinzi, marginalizați, neglijați și disprețuiți, care trăiesc în lume la limita dintre viață și moarte. Însă, în Ziua Judecății de Apoi, Domnul Iisus Hristos va arăta slava și libertatea Sa de Creator al universului și al omului, de a stabili comuniunea eternă cerească de iubire și fericire cu toți oamenii smeriți și milostivi.
 
