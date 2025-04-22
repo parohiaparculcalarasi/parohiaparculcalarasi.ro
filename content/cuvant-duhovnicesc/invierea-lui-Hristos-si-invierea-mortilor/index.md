@@ -84,11 +84,11 @@ Al vostru către Hristos-Domnul rugător,
 
 **Note:**
 
-<a id="note_def_1" href="#note_1" class="ppc-note-def"><sup>1</sup></a> Sf. Chiril al Alexandriei, Comentariu la Evanghelia Sfântului Ioan VII-VIII, în Scrieri. Partea a patra, trad., introd. și note Pr. Prof. Dr. Dumitru Stăniloae, coll. Părinți și Scriitori Bisericești, vol. 41, Ed. Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2000, p. 752.
+<a id="note_def_1" href="#note_1" class="ppc-note-def"><sup>1</sup></a> Sf. Chiril al Alexandriei, _Comentariu la Evanghelia Sfântului Ioan_ VII-VIII, în _Scrieri_. _Partea a patra_, trad., introd. și note Pr. Prof. Dr. Dumitru Stăniloae, coll. _Părinți și Scriitori Bisericești_, vol. 41, Ed. Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2000, p. 752.
 
-<a id="note_def_2" href="#note_2" class="ppc-note-def"><sup>2</sup></a> Sf. Chiril al Alexandriei, Scrieri. Partea a patra, p. 752, n. 1414.
+<a id="note_def_2" href="#note_2" class="ppc-note-def"><sup>2</sup></a> Sf. Chiril al Alexandriei, _Scrieri_. _Partea a patra_, p. 752, n. 1414.
 
-<a id="note_def_3" href="#note_3" class="ppc-note-def"><sup>3</sup></a> Sf. Maxim Mărturisitorul, Ambigua, trad., introd. și note Pr. Prof. Dr. Dumitru Stăniloae, Ed. Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2006, p. 78.
+<a id="note_def_3" href="#note_3" class="ppc-note-def"><sup>3</sup></a> Sf. Maxim Mărturisitorul, _Ambigua_, trad., introd. și note Pr. Prof. Dr. Dumitru Stăniloae, Ed. Institutului Biblic și de Misiune al Bisericii Ortodoxe Române, București, 2006, p. 78.
 
 <br>
 
