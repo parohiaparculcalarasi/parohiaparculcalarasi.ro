@@ -16,8 +16,6 @@ tags:
 ---
 **<p style="text-align: center;">Pastorala de Sfintele Paști 2025</p>**
 
-<br>
-
 ### Hristos a înviat!
 
 > _„Adevărat, adevărat zic vouă, că vine ceasul, și acum este, când morții vor auzi glasul Fiului lui Dumnezeu, și cei ce vor auzi vor învia.”_ (**_Ioan_ 5, 25**)
