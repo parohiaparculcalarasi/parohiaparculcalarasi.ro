@@ -86,7 +86,9 @@ Cu prilejul Sfintelor Sărbători de Paști, vă adresăm tuturor calde doriri d
 
 Al vostru către Hristos-Domnul rugător,
 
-**† DANIEL<br>Patriarhul Bisericii Ortodoxe Române**
+**<p style="text-align: center;">† DANIEL</p>**
+
+<p style="text-align: center;">Prin harul lui Dumnezeu,<br>Arhiepiscopul Bucureștilor,<br>Mitropolitul Munteniei și Dobrogei,<br>Locțiitorul tronului Cezareei Capadociei și<br>Patriarhul Bisericii Ortodoxe Române</p>
 
 ---
 
