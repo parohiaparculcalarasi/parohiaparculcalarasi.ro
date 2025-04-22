@@ -20,7 +20,7 @@ tags:
 
 ### Hristos a înviat!
 
-> _„Adevărat, adevărat zic vouă, că vine ceasul, și acum este, când morții vor auzi glasul Fiului lui Dumnezeu, și cei ce vor auzi vor învia”_ (**_Ioan_ 5, 25**)
+> _„Adevărat, adevărat zic vouă, că vine ceasul, și acum este, când morții vor auzi glasul Fiului lui Dumnezeu, și cei ce vor auzi vor învia.”_ (**_Ioan_ 5, 25**)
 
 _Preacuvioși și Preacucernici Părinți,_
 
