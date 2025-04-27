@@ -5,7 +5,7 @@ year: 2025
 month: 2025-04
 draft: false
 featured: false
-pinned: true
+pinned: false
 toc: false
 authors:
     - patriarhul-daniel
