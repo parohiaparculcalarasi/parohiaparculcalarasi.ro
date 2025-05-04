@@ -1,5 +1,5 @@
 ---
-title: Evanghelia dumnezeieștii încredințări
+title: Femeile mironosițe, lecția curajului care depășește bărbăția  
 date: 2025-05-04T00:00:00Z
 year: 2025
 month: 2025-05
@@ -24,7 +24,7 @@ Pericopa acestei duminici, în relatarea Sf. Ev. Marcu, ne prezintă două episo
 
 În toate Evangheliile, relatarea pătimirii se sfârșește cu descrierea sobră a îngropării trupului lui Iisus de către Iosif. Îngroparea adeverește realitatea morții Mântuitorului și de aceea a constituit de la început un element de bază al credinței Bisericii, așa cum se vede din primele mărturisiri sau simboluri de credință. Relatările evangheliștilor introduc un personaj necunoscut până acum, Iosif din Arimateea, despre care Sf. Ev. Marcu ne dă câteva informații, și anume că era „sfetnic cu bun chip”, adică membru al Marelui Sinedriu, care „nu se învoise cu sfatul și cu fapta lor” (cf. _Luca_ 23, 51) și că aparținea celor care așteptau Împărăția lui Dumnezeu. Acesta „îndrăznind” a cerut de la Pilat trupul lui Iisus. Guvernatorul roman, după ce s-a încredințat de moartea lui Iisus, a dăruit lui Iosif trupul mort, care cu sprijinul lui Nicodim (_Ioan_ 23, 53) l-a îngropat în mormânt nou, tăiat în stâncă, mormânt care era evident al său și „în care nimeni niciodată nu mai fusese pus” (_Luca_ 23, 53). Îngroparea se face în grabă, fără a se pregăti trupul mortului după cum era obiceiul. Acum capătă sens scena din Betania, când o femeie a spart vasul de alabastru cu un parfum prețios, îmbălsămându-L pe Iisus. Până și acest lucru a fost prevăzut de Iisus. El știa că, din cauza grabei, nu va putea fi îmbălsămat, acceptând gestul anticipativ al femeii.
 
-Referitor la mormânt, din cele relatate de Sf. Ev. Marcu ne dăm seama că este vorba de un mormânt solid, în care cu greu ar putea pătrunde cineva. Totodată, e un mormânt pentru un singur trup. Deschizătura mormântului a fost acoperită cu o stâncă foarte grea, care ținea loc de ușă. Matei vorbește și de paznicii trimiși de sinedriști însărcinaţi cu păzirea strașnică a trupului mort al Mântuitorului (_Matei_ 27, 64-66).
+Referitor la mormânt, din cele relatate de Sf. Ev. Marcu ne dăm seama că este vorba de un mormânt solid, în care cu greu ar putea pătrunde cineva. Totodată, e un mormânt pentru un singur trup. Deschizătura mormântului a fost acoperită cu o stâncă foarte grea, care ținea loc de ușă. Matei vorbește și de paznicii trimiși de sinedriști însărcinați cu păzirea strașnică a trupului mort al Mântuitorului (_Matei_ 27, 64-66).
 
 Toată această scenă se petrece în seara zilei răstignirii, adică vineri, care este înaintea sâmbetei, ajunul marii sărbători a Paștilor, când nu trebuia să rămână pe cruce trupurile celor morți conform cu dispozițiile din _Deuteronom_ 21, 22 ș.u. Știm din tradiția iudaică că în ziua de sabat nu se puteau îngropa morții, aceștia puteau fi doar spălați. Oricum, tradiția impunea ca morții să fie îngropați cât mai repede, chiar în ziua decesului. Răufăcătorii, tâlharii și cei spânzurați trebuiau coborâți din copaci sau de pe cruce înainte de apusul soarelui. Evreii considerau îngroparea o datorie sacră, care avea prioritate chiar și în raport cu circumcizia propriului fiu.
 
