@@ -5,7 +5,7 @@ publishDate: 2011-11-02T00:00:00Z
 year: 2011
 month: 2011-11
 draft: false
-featured: false
+featured: true
 pinned: false
 authors:
   - adrian-nicolae-petcu
