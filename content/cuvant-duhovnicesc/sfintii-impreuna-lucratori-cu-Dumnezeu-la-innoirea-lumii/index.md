@@ -1,0 +1,54 @@
+---
+title: Sfinții - împreună lucrători cu Dumnezeu la înnoirea lumii
+date: 2025-06-15T00:00:00Z
+publishDate: 2025-06-15T00:00:00Z
+year: 2025
+month: 2025-06
+draft: false
+featured: false
+pinned: false
+toc: false
+authors:
+  - pr--asist--dr--valentin-ilie
+categories:
+  - Cuvânt duhovnicesc
+tags:
+  - Evanghelia de Duminică
+  - Duminica întâi după Rusalii
+  - Duminica Tuturor Sfinților
+---
+**Duminica întâi după Rusalii (a Tuturor Sfinților)**
+
+> _„Zis-a Domnul către ucenicii Săi: Oricine va mărturisi pentru Mine înaintea oamenilor, mărturisi-voi și Eu pentru el înaintea Tatălui Meu, Care este în ceruri. Iar de cel care se va lepăda de Mine înaintea oamenilor, și Eu Mă voi lepăda de el înaintea Tatălui Meu, Care este în ceruri. Cel ce iubește pe tată ori pe mamă mai mult decât pe Mine nu este vrednic de Mine; cel ce iubește pe fiu ori pe fiică mai mult decât pe Mine nu este vrednic de Mine; și cel ce nu-și ia crucea și nu-Mi urmează Mie nu este vrednic de Mine. Atunci Petru, răspunzând, I-a zis: Iată, noi am lăsat toate și Ți-am urmat Ție. Cu noi, oare, ce va fi? Iar Iisus le-a zis: Adevărat zic vouă că voi, cei ce Mi-ați urmat Mie, la înnoirea lumii, când Fiul Omului va ședea pe tronul slavei Sale, veți ședea și voi pe douăsprezece tronuri, judecând cele douăsprezece seminții ale lui Israel. Și oricine a lăsat case, sau frați, sau surori, sau tată, sau mamă, sau femeie, sau copii sau țarini pentru numele Meu, înmulțit va lua înapoi și viață veșnică va moșteni. Și mulți dintâi vor fi pe urmă și cei de pe urmă vor fi întâi.”_ (**_Matei_ 10, 32-33; 37-38; 19, 27-30**)
+
+Duminica Tuturor Sfinților marchează începutul celui mai lung ciclu liturgic al anului bisericesc, anume cel al Octoihului, care face trimitere simbolică la creația lumii, ce culminează cu facerea omului. În cursul anului liturgic, acest ciclu este completat de perioada Triodului, care evocă istoria izgonirii lui Adam din Rai, precum și efortul omenirii de a redobândi, prin pocăință, comuniunea pierdută cu Dumnezeu. În continuarea Triodului se află Penticostarul, în care este actualizat timpul de la Învierea Domnului până la evenimentul Pogorârii Duhului Sfânt. Este momentul în care Mântuitorul Iisus Hristos le descoperă ucenicilor Săi - și prin ei întregii omeniri, până la sfârșitul veacurilor - roadele transfiguratoare ale mântuirii dobândite prin surparea puterii morții și a păcatului strămoșesc. Această etapă culminează cu Înălțarea Sa și a firii umane - pe care Și-a însușit-o - de-a dreapta lui Dumnezeu Tatăl și se desăvârșește în ziua Cincizecimii. Atunci are loc revărsarea harului Duhului Sfânt asupra apostolilor și, prin aceștia, asupra primilor botezați, care au format cea dintâi comunitate creștină. De asemenea, cele trei perioade ale anului sunt puse în legătură și cu cele trei slujiri ale Mântuitorului Iisus Hristos; cea a Triodului corespunde slujirii arhierești, cea a Penticostarului demnității împărătești, iar cea a Octoihului activității învățătorești sau profetice.
+
+### Duminica Tuturor Sfinților - începutul renașterii prin har a creației
+
+Asocierea timpului liturgic cu etapele parcursului spiritual al istoriei mântuirii omenirii de la creație până la inaugurarea Împărăției cerurilor nu are o simplă valoare simbolică.
+
+Nici corespondența slujirilor Mântuitorului cu cuprinsul pericopelor evanghelice rânduite tipiconal în aceste perioade nu este doar una analogică. Ele poartă un sens profund, existențial și eshatologic, cu implicații directe pentru viața fiecărui creștin. Acest înțeles mistic este luminat, în mod special, pentru timpul Octoihului în duminica de astăzi, când cinstim toți sfinții din sinaxar.
+
+Ce este sinaxarul creștin pe care îl prăznuim în întregime astăzi? _Synaxarion_ este „adunarea laolaltă” a tuturor sfinților. El cuprinde viețile lor, minunile și momentele exemplare din viața Bisericii și, nu mai puțin, descrie atent trecerea lor la Domnul. Toate acestea sunt modele de inspirație pentru trăirea vieții creștine (_Ev._ 13, 7). Consemnarea lor în calendarul creștin nu este deplină, întrucât sunt încă mulți sfinți și lucruri minunate neștiute sau tainice pe care Dumnezeu le descoperă atunci când consideră că este vremea potrivită. Dar cine sunt sfinții creștini și ce înseamnă toate aceste evenimente sau fapte pomenite? Sunt roadele Pogorârii Duhului Sfânt asupra omenirii, istoriei și cosmosului! O umanitate devenită „neam sfânt” (_I Petru_ 2, 9), un timp ce se întrepătrunde cu veșnicia și un univers transfigurat, un „cer nou și pământ nou” (_Apoc._ 21, 1) sunt potențialitățile deschise din momentul istoric și duhovnicesc al Cincizecimii.
+
+Drept urmare, perioada Octoihului începe astăzi, în Duminica Tuturor Sfinților, fie că ei sunt cunoscuți, fie necunoscuți. Ea nu amintește doar simbolic creația universului și a omului sau starea paradisiacă, ci este și timpul liturgic al renașterii harice a lumii în Hristos. Dar de această dată „înnoirea lumii” (_paligenesia_; sensul este de „facerea din nou” n.n.) este realizată de Dumnezeu cel în Treime în colaborare cu sfinții: „Adevărat zic vouă că voi cei ce Mi-ați urmat Mie, la înnoirea lumii, când Fiul Omului va ședea pe tronul slavei Sale, veți ședea și voi pe douăsprezece tronuri…” (_Mt._ 19, 28).
+
+În perioada primară a Bisericii, cei care urmau lui Hristos se numeau sfinți (_Rom._ 1, 7; _II Cor._ 13, 12), apoi în Antiohia se vor numi pentru prima oară creștini (_F. Ap._ 11, 26), un nume pentru care Sf. Ap. Petru îi îndeamnă pe cei care și l-au asumat prin primirea harului botezului „să-l preamărească pe Dumnezeu” (_I Pt._ 4, 16).
+
+### Slujirile creștinului: profet, sacerdot și împărat în Hristos
+
+Creștinii îl preamăresc pe Dumnezeu și contribuie la „înnoirea lumii” (19, 28) nu doar prin asumarea formală a numelui lui Hristos. Numele lor nu este doar un derivat onomastic, ci o responsabilitate și o chemare spre extinderea slujirilor Sale, în mod spiritual și material atât în lume, cât și în cosmos și istorie. Dacă toți oamenii poartă în ei chipul divin și sunt „dumnezei și fii ai celui Preaînalt” (_Ps._ 81, 6), cei care devin creștini își actualizează teologic acest dat ontologic primit la creație prin asemănarea lor cu Domnul nostru Iisus Hristos. Aceasta pentru Fiul este chipul Tatălui, iar cel ce L-a văzut pe Fiul L-a văzut pe Tatăl (_In._ 14, 9), întrucât la Tatăl se ajunge doar prin Fiul (_In._ 14, 6). Ei participă așadar ca „unși” (creștini) la „înnoirea lumii” (_Mt._ 19, 28), în calitate de profeți, preoți și regi duhovnicești, asemenea „Unsului Domnului” (_Lc._ 4, 18-21), căruia îi sunt mărturisitori.
+
+În pericopa evanghelică de astăzi, toate aceste trei slujiri proprii creștinului sunt clar descrise. Slujirea profetică sau învățătorească este manifestată prin propovăduirea Evangheliei lui Hristos: „Cel care va mărturisi pentru Mine înaintea oamenilor, voi mărturisi și Eu pentru el înaintea Tatălui Meu, care este în ceruri” (_Mt._ 10, 32-33). Cea preoțească constă în capacitatea de a oferi cea mai iubită și intimă jertfă pentru Dumnezeu, asemenea jertfei Fiului care a fost dăruită de Tatăl: „Cel ce iubește pe tată, ori pe mamă, mai mult decât pe Mine nu este vrednic de Mine” (_Mt._ 10, 37), până la sacrificiul propriei persoane, asemenea lui Hristos: „Cel ce nu-și ia crucea și nu-Mi urmează Mie nu este vrednic de Mine” (_Mt._ 10, 38). Demnitatea împărătească presupune responsabilitatea față de semeni și creație, grijă ce concretizează sensul sfințeniei în viața creștinului. A fi creștin înseamnă deci a poseda potențialul de a atinge sfințenia prin mărturisire, jertfă și responsabilitate, a fi sfânt în credința creștină înseamnă a întrupa aceste slujiri.
+
+Pregătirea omenirii pentru venirea împărăției harului a început după căderea adamică și a fost luminată prin experiența credinței poporului ales, din care avea să se nască trupește Hristos. Acesta este motivul pentru care în sinaxarul creștin sunt incluși strămoșii după trup ai Mântuitorului, urcând până la Adam și Eva (_Lc._ 3, 23-38), protopărinții neamului omenesc. Sunt pomeniți astfel drepți, profeți, regi și preoți care au lucrat cu râvnă pentru împlinirea făgăduinței (_Evr._ 11, 1-39). Deși inspirați de Dumnezeu, aceștia nu au avut parte de plinătatea harului, ci doar au pregătit calea spre desăvârșire. Doar creștinismul a putut să creeze o spiritualitate, o cultură și o civilizație cu caracter universal care, întemeiată pe Hristos Cel Înviat, a schimbat radical fața omenirii, cursul istoriei și întreaga creație. Ne punem întrebarea: De ce Dumnezeu a rânduit pentru noi, creștinii, „ceva mai bun”, astfel încât toate acele persoane exemplare menționate în pericopa apostolică de astăzi „să nu ia fără noi desăvârșirea” (_Ev._ 11, 40)? Răspunsul este exclusiv unul teologic: pentru că doar creștinii au putut lucra integral cu credință, nădejde și iubire absolută la înnoirea lumii, întemeiați pe deplin în conștiința că, prin dobândirea harului botezului, fiecare dintre ei este „uns” deopotrivă profet, preot și împărat, asemenea lui Hristos, „cel întâi născut între mai mulți frați” (_Rom._ 8, 29).
+
+### Înnoirea lumii și împărăția dinlăuntru: chemarea Octoihului
+
+Sensul mistic al perioadei liturgice a Octoihului - pe care începem să o parcurgem de astăzi și suntem chemați să o aprofundăm duhovnicește - este acela că ne aflăm în împărăția harului și că, încă din prezent, lucrăm, spiritual și material, la renașterea lumii. Aceasta este și datoria noastră de creștini: să înnoim neîncetat creația, care „așteaptă cu nerăbdare descoperirea fiilor lui Dumnezeu […] pentru a fi părtașă la libertatea măririi fiilor lui Dumnezeu” (_Rom._ 8, 19.21). În acest fel, lumea își desăvârșește chipul actual și înaintează către un eshaton eclesial și împărătesc.
+
+Pericopa evanghelică de astăzi ne arată apoi căile prin care punem în lucrare relația noastră cu Dumnezeu, cu semenii și cu întreaga creație urmând lui Hristos Domnul cel înviat. Acest efort depus în vederea „nașterii din nou a lumii” nu trebuie însă înțeles ca vizând o creație exterioară și obiectivă, așa cum a fost prima facere a lumii. „Înnoirea lumii” începe cu urmarea sfinților creștini care au transformat chipul dumnezeiesc sădit în om în asemănare cu Dumnezeu. În felul acesta, fiecare dintre noi în calitate de creștini suntem chemați să fim subiecți ai manifestării plenare a împărăției lui Dumnezeu care se află înăuntrul nostru (_Lc._ 17, 21).
+
+Așadar, chemarea adresată nouă în prima duminică după Rusalii este de a ne alătura lucrării sfinților și de a contribui fiecare, călăuziți de harul lui Dumnezeu, prin credință și fapte lucrătoare în iubire la înnoirea lumii și la slava împărăției ce va să vină, dar care în taină deja a început și se desfășoară în Biserică.
+
+{{< gallery images="images/1.jpg" >}}
