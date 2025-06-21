@@ -1,0 +1,40 @@
+---
+title: Chemarea celor dintâi Apostoli și rodirea sfințeniei în neamul românesc
+date: 2025-06-22T00:00:00Z
+publishDate: 2025-06-22T00:00:00Z
+year: 2025
+month: 2025-06
+draft: false
+featured: false
+pinned: false
+toc: false
+authors:
+  - pr--conf--dr--lucian-farcasiu
+categories:
+  - Cuvânt duhovnicesc
+tags:
+  - Evanghelia de Duminică
+  - Duminica a 2-a după Rusalii
+  - Duminica Sfinților Români
+---
+**Duminica a 2-a după Rusalii (a Sfinților Români)**
+
+> _„În vremea aceea, pe când Iisus umbla pe lângă Marea Galileei, a văzut pe doi frați: pe Simon ce se numește Petru și pe Andrei, fratele lui, care aruncau mreaja în mare, căci erau pescari; și le-a zis: Veniți după Mine și vă voi face pescari de oameni. Iar ei, îndată lăsând mrejele, au mers după El. Și, de acolo mergând mai departe, a văzut pe alți doi frați: pe Iacov al lui Zevedeu și pe Ioan, fratele lui, în corabie cu Zevedeu, tatăl lor, dregându-și mrejele, și i-a chemat. Iar ei, îndată lăsând corabia și pe tatăl lor, au mers după El. Și a străbătut Iisus toată Galileea, învățând în sinagogile lor și propovăduind Evanghelia Împărăției și tămăduind toată boala și toată neputința în popor.”_ (**_Matei_ 4, 18-23**)
+
+Duminica a doua după Rusalii, închinată și prăznuirii Soborului Tuturor Sfinților Români, așază înaintea credincioșilor Bisericii noastre pericopa evanghelică de la Matei cap. 4, v. 18-23. Textul acesta biblic se referă la chemarea la apostolat prin cuvintele „Veniți după Mine și vă voi face pescari de oameni” (v. 19) a celor două perechi de frați: Petru și Andrei, Iacov și Ioan, fiii lui Zevedeu, pescari de meserie, care „îndată lăsând toate… au mers după El” (v. 22). Prin chemarea celor dintâi ucenici la apostolat, Mântuitorul Hristos pregătește _taina constituirii Bisericii Sale_ (Preafericitul Părinte Patriarh Daniel, _Evanghelia slavei lui Hristos_, București, 2016, p. 94), în sensul că Domnul își alege la început cei 12 Apostoli, aceștia având să devină _trimiși_ sau _misionari_ ai Săi în lume, ca urmare a predicii lor având să se constituie Biserica lui Hristos, ca și comunitate a celor credincioși și botezați în numele Său. Astfel, cei dintâi patru Apostoli, lăsând toate și urmând Mântuitorului, vor deveni din simpli pescari de pește, pescari de suflete pentru Împărăția lui Dumnezeu. Faptul că acești oameni simpli au fost chemați la o misiune atât de înaltă vădește faptul că Domnul Hristos cunoștea inima lor credincioasă, ca a unor copii, dar și smerenia ce-i face să-I urmeze Domnului fără zăbavă.
+
+Sfântul Nicolae Velimirovici, în exegeza pe care o oferă acestui text mateian, subliniază următoarele aspecte: „_Pescari_ înseamnă aceia care caută binecuvântări duhovnicești; _mreaja_ înseamnă sufletul, _marea_ este lumea, _corabia_ este trupul. Că acești pescari _aruncau mreaja în mare_ înseamnă că ei căutau binecuvântări duhovnicești, hrană a duhului, Împărăția lui Dumnezeu, cufundându-și sufletele în adâncimile lumii ca să prindă în orice chip aceste binecuvântări. _Dregându-și mrejele_ înseamnă strădania lor de a-și păstra sufletul întreg. _Lăsând mrejele au mers după El_ înseamnă că ei au părăsit sufletele lor vechi, păcătoase, și au pornit să fie înnoiți de Hristos, să primească un suflet nou și un duh nou. Și mai înseamnă că, de acum încolo, ei nu vor mai căuta să prindă haruri duhovnicești pe seama lor, ci în Hristos; nu cu puterea lor, ci cu puterea lui Dumnezeu; nu cu mintea lor, ci cu descoperirea lui Dumnezeu. Iar ceilalți doi _lăsând corabia și pe tatăl lor_ înseamnă că au părăsit trupurile păcătoase și pe tatăl lor pământesc, ca să se îngrijească de mântuirea sufletelor lor, mergând să întâlnească pe Tatăl ceresc, înfiați fiind de harul lui Dumnezeu” (Sf. Nicolae Velimirovici, _Predici_, București, 2006, pp. 342-343).
+
+### Dumnezeu ne dă darul libertății, dar libertatea ne responsabilizează înaintea lui Dumnezeu
+
+Sfântul Preot Mărturisitor Ilarion Felea scrie că Mântuitorul Hristos își alege ucenicii și îi cheamă, dar nu-i constrânge, arătând prin aceasta faptul că omul este înzestrat de Dumnezeu cu libertate. Domnul „le-a pus în față lumina, le-a descoperit adevărul, le-a arătat calea” pentru că „Iisus Hristos este lumina lumii și idealul vieții. Urmarea Lui este calea spre ideal”. Ucenicii Săi „erau liberi să-L asculte sau să-L refuze. Nu au fost siliți să-și lase corăbiile de dragul idealului, ci de bunăvoie au fost poftiți să-și schimbe rostul și scopul vieții în bine, să se facă din pescari apostoli și oameni, sfinți. Faptul acesta are o însemnătate covârșitoare. Dumnezeu a dat omului un dar peste măsură de prețios: libertatea. Acest dar prin care omul se deosebește de… animale este pentru noi un izvor de mărire, dar și de pierzare, după cum ne folosim de el, în bine sau în rău… Dumnezeu ne-a dat și ne respectă libertatea. Ne cheamă la Sine, dar nu ne silește… Mare atenție, mare dar și tot așa de mare răspundere. Religia este libertate și prin libertate răspundere. Cât este de mare respectul lui Dumnezeu față de libertatea omului, atât este de mare răspunderea omului în fața lui Dumnezeu… Prin libertate se dobândește slava și se face istoria. Cartea vremii, istoria, nu ar fi dacă n-ar exista libertatea… Numai omul are libertate, numai el dobândește merite și face istorie… Unde nu este libertate nu este nici hotărâre, nici istorie, acolo viața oamenilor se scurge cum se scurge viața animalelor, a plantelor și a pietrelor, fără istorie. Hotărârea este efort, luptă, bărbăție, virtute care ridică pe om din starea de natură în starea de conștiență și har… Prin hotărâre, Apostolii, oameni mici, au făcut lucruri mari. Ei… au cucerit lumea… prin hotărârea lor de a sluji și a urma lui Hristos până la moarte” (Sfântul Preot Mucenic Ilarion Felea, _Duhul Adevărului_, Arad, 2025, pp. 215-216).
+
+Finalul pericopei evanghelice a acestei duminici arată că Domnul Hristos „propovăduia Evanghelia Împărăției, tămăduind toată boala și toată neputința în popor” (v. 23). Faptul acesta Îl descoperă pe Acesta ca fiind Învățătorul, Doctorul și tămăduitorul neputințelor noastre, prietenul și apropiatul nostru pe tot parcursul vieții pământești, presărată adesea cu dureri și neajunsuri. Hristos vine în întunericul acestei lumi, ca un prieten fidel al nostru, cercetându-ne neputințele și vindecându-ne bolile și neajunsurile, arătând că doar prin El și în El aflăm odihnă și har.
+
+### Pomenirea Tuturor Sfinților Români
+
+Duminica a doua după Rusalii prilejuiește credincioșilor Bisericii noastre și bucuria prăznuirii Soborului Tuturor Sfinților Români, urmași vrednici ai Sfântului Apostol Andrei, încreștinătorul nostru și predicatorul Evangheliei lui Hristos în sudul Dunării, în Dobrogea de astăzi. Această duminică este așadar prilej de pomenire și invocare a comuniunii sfinților români: ierarhi, preoți și diaconi, martiri, cuvioși, domnitori, dar și a mulțimii sfinților credincioși mireni cunoscuți și necunoscuți cu numele, care au mărturisit dreapta credință ortodoxă prin viața lor, în vremuri grele, strălucind pe cerul duhovnicesc al neamului nostru asemeni unor stele luminoase. Aceștia au fost proclamați ca sfinți în Biserica noastră, începând cu anul 1950 și până la ultima canonizare solemnă a sfinților mucenici și mărturisitori din temnițele și din perioada comunistă, din 4 februarie 2025. Pe lângă toți aceștia, îi cinstim și pe sfinții „știuți numai de Bunul Dumnezeu și care prin viețuirea, pătimirea și mărturia lor pentru Hristos au ajuns «sfinți» și «casnici» ai lui Dumnezeu” (_Penticostar_, Sinaxar, Duminica Tuturor Sfinților Români, București, 2012, p. 402).
+
+Faptul acesta arată că dezideratul vieții creștine este ajungerea la sfințenie, după mărturia Sfintei Scripturi: „Fiți sfinți, pentru că Eu sunt Sfânt” (I Petru 1, 16) și că suntem chemați cu toții să-I urmăm lui Hristos, asumând în chip responsabil libertatea dăruită nouă de Dumnezeu, împlinind-o și desăvârșind-o în asumarea unei vieți trăite „în Hristos și în Biserică”. Doar o viață asumată în acest chip va putea rodi înlăuntrul nostru dobândirea sfințeniei vieții celei veșnice cu Hristos, în Împărăția Sa.
+
+{{< gallery images="images/1.jpg,images/2.jpg" >}}

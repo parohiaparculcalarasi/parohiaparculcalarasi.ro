@@ -6,7 +6,7 @@ year: 2016
 month: 2016-08
 draft: false
 featured: false
-pinned: true
+pinned: false
 toc: false
 authors:
   - pr--adrian-agachi
