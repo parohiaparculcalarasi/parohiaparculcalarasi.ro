@@ -6,7 +6,7 @@ year: 2025
 month: 2025-06
 draft: false
 featured: false
-pinned: true
+pinned: false
 toc: false
 authors:
   - pr--conf--dr--lucian-farcasiu
