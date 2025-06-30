@@ -63,4 +63,4 @@ Creștinul trebuie să-și concentreze existența în căutarea virtuților duho
 
 Căutând în timpul acestei vieți trecătoare Împărăția cerurilor cea netrecătoare, ne arătăm următori credincioși ai Evangheliei lui Hristos și săvârșitori ai faptelor bune izvorâte din credința dreaptă primită de la El, prin Sfinții Săi Apostoli. Noi, cei care urmăm lui Hristos, știm de la ucenicii Lui că sensul vieții noastre creștine este mântuirea, adică dobândirea vieții veșnice din Împărăția cerurilor.
 
-{{< gallery images="images/1.jpg,images/2.jpg" >}}
+{{< gallery images="images/1.jpg" >}}
