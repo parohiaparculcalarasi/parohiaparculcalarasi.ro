@@ -28,21 +28,24 @@ Cetatea Capernaum în vremea Mântuitorului era un orășel ce se bucura de o î
 După cum ne relatează Sfântul Apostol și Evanghelist Matei, intrând în cetate, Mântuitorul este întâmpinat de un sutaș, comandor al garnizoanei, care-L roagă insistent să-i vindece sluga ce zăcea în casă.
 
 Nu de puține ori Mântuitorul este întâmpinat de persoane păgâne, străine de neamul evreiesc, care-I cer ajutorul, iar El, în nemăsurata Sa iubire față de firea umană căzută, răspunde afirmativ. Avem în fața ochilor cazul femeii cananeence, care a cerut vindecare pentru fiica ei (_Matei_ 15, 21-28), sau al femeii samarinence (_Ioan_ 4, 5-42).
-Credința și smerenia sutașului
+
+### Credința și smerenia sutașului
 
 Sfânta Evanghelie ne pune înainte situația unui om căruia i s-a dat o anumită putere lumească peste o garnizoană, însă acesta recunoaște că puterea sa este limitată, alergând la Hristos cu convingere și credință să-i vindece sluga. El socotea, după cum ne învață Sfântul Ioan Gură de Aur, „că e de prisos să-și aducă sluga la Hristos, pentru că știa bine că era de ajuns numai porunca lui Hristos ca să vindece pe cel bolnav”.
 
 El se socotește nevrednic pentru a-L primi pe Hristos în casa sa, de aceea Îl roagă să spună numai cu cuvântul și sluga i se va vindeca. „Doamne, nu sunt vrednic să intri sub acoperișul meu, ci numai zi cu cuvântul și se va vindeca sluga mea” (_Matei_ 8, 8). Sfântul Ioan Gură de Aur tâlcuiește acest pasaj spunând că „sutașul nu-I cere Domnului prezența Sa trupească, nici n-a adus pe bolnav lângă doctor. Aceasta arată că nu avea o părere mică despre Iisus, ci una cu cuviință dumnezeiască”. Iată credința adevărată! O credință care nu cere semne, nu cere minuni vizibile, ci doar o singură vorbă de la Domnul. Pentru acest om, puterea lui Dumnezeu era de ajuns să fie rostită, ca să devină lucrare. Și Mântuitorul Hristos se minunează și spune: _„Nici în Israel n-am aflat atâta credință!”_ (_Matei_ 8, 10).
 
 Credința și smerenia sutașului au săvârșit vindecarea slugii. Sutașul păgân, în interpretarea Sfântului Ioan Gură de Aur, „gândea că oștirile cele cerești, bolile, moartea și toate celelalte se supuneau lui Hristos, așa cum i se supuneau lui ostașii săi”, cu alte cuvinte acesta îi recunoaște lui Hristos calitatea Sa de Împărat al oștilor cerești și de Doctor al sufletelor și al trupurilor.
-Lumea este chemată de Hristos la bucuria ospățului ceresc
+
+### Lumea este chemată de Hristos la bucuria ospățului ceresc
 
 Replica pe care o dă sutașul lui Hristos este răspunsul la chemarea pe care Dumnezeu i-a făcut-o. Aici avem de-a face cu o descoperire a lui Dumnezeu către un om păgân, care nu-L cunoștea, dar căruia i-a mișcat inima spre a-L mărturisi și a deveni exemplu pentru mulți. „Mulți de la Răsărit și de la Apus vor veni și vor ședea la masă cu Avraam, cu Isaac și cu Iacov în Împărăția cerurilor. Iar fiii împărăției vor fi aruncați în întunericul cel mai din afară; acolo va fi plângerea și scrâșnirea dinților.” Prin aceste cuvinte adresate de Hristos putem înțelege o chemare permanentă la a deveni creștini.
 
 Într-o lume secularizată, bazată pe consumerism și egoism, nu este suficient să fii botezat, trebuie să faci faptele credinței (_Iacov_ 2, 17), împlinind exigențele evanghelice pentru a deveni continuu creștin. Acesta este mesajul evanghelic de a lucra permanent la transformarea noastră creștină, la a deveni hristofori, nu doar prin îmbrăcarea hainei botezului, ci prin lucrarea continuă a faptelor evanghelice pentru a ne păstra condiția de creștini.
 
 Evanghelia de astăzi mai arată că mântuirea este pentru toți oamenii. Hristos nu refuză pe păgân, nu-l judecă după neamul sau credința lui de până atunci. Dumnezeu vede inima, nu aparențele. Și ne cheamă pe toți să intrăm în Împărăția cerurilor, dar cu o credință adevărată, smerită și lucrătoare prin iubire.
-Cuvântul lui Hristos, vindecător și dătător de viață
+
+### Cuvântul lui Hristos, vindecător și dătător de viață
 
 Cuvântul lui Hristos are o putere nemăsurată, fiind izvor de vindecare trupească și sufletească, dar și de viață veșnică. Prin simpla Sa rostire, bolnavii se ridicau din patul durerii, orbii vedeau, iar demonii fugeau din cei stăpâniți. Nu era nevoie de leacuri sau de atingeri, ci doar de Cuvântul Său, rostit cu dragoste și autoritate divină.
 
@@ -51,7 +54,8 @@ Cuvântul lui Hristos este vindecător și dătător de viață pentru că el po
 Puterea cuvântului Mântuitorului s-a arătat nu doar în vindecarea trupească a slugii sutașului, ci și în vindecarea sufletească a sutașului, care era de neam păgân, dar care vine cu credința sa, izvorâtă din simplitate și mânat de legile firii spre Hristos, cu convingerea că îl poate ajuta.
 
 Chiar și astăzi, Cuvântul lui Hristos pătrunde în inimile celor care Îl caută cu credință, vindecând rănile ascunse ale sufletului și dăruind sens și viață acolo unde domnea întunericul.
-Noi vindecăm sau rănim prin cuvintele noastre?
+
+### Noi vindecăm sau rănim prin cuvintele noastre?
 
 Adesea ne dorim să avem „cuvânt cu putere multă”, spre a ajunge la inima celor de lângă noi. Aceste cuvinte sunt „cu putere” atunci când izvorăsc din credință și din dragoste de Dumnezeu și de aproapele, dar și dintr-o viață curată, nu prin tehnici manipulante și meschine. Printr-un cuvânt de pace izvorât dintr-o inimă mișcată de Duhul Sfânt, pot fi vindecate stări de deznădejde, poate fi alinată și singurătatea.
 
