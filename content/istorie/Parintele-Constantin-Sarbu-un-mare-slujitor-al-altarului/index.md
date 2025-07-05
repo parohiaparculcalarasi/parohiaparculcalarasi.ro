@@ -6,7 +6,7 @@ year: 2011
 month: 2011-11
 draft: false
 featured: true
-pinned: true
+pinned: false
 authors:
   - adrian-nicolae-petcu
   - gheorghe-vasilescu
