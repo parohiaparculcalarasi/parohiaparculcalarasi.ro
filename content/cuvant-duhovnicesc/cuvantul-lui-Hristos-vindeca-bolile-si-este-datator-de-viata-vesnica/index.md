@@ -3,7 +3,7 @@ title: Cuvântul lui Hristos vindecă bolile și este dătător de viață veșn
 date: 2025-07-06T00:00:00Z
 publishDate: 2025-07-06T00:00:00Z
 year: 2025
-month: 2025-06
+month: 2025-07
 draft: false
 featured: false
 pinned: false
