@@ -29,7 +29,7 @@ Sfânta Scriptură, Cartea noastră de căpătâi, ne învață tot ce este bun 
 
 ### Lupta cea bună pentru mărturisirea credinței
 
-Întâi, învățăm de la el lupta cea bună pentru mărturisirea credinței într-un singur Dumnezeu și combaterea idolatriei de orice fel. Însuși numele prorocului, Ilie, prin semnificația lui, susține această mărturisire: ebraicul „Elijahu” înseamnă „Dumnezeul meu este Iahve” sau „Iahve este Dumnezeu”, cu înțelesul „Singurul Dumnezeu”. În acest sens, prorocul rostește și atenționarea: „Până când veți șchiopăta de amândouă picioarele? Dacă Domnul este Dumnezeu, urmați Lui!” (_III Regi_ 18, 21);
+Întâi, învățăm de la el lupta cea bună pentru mărturisirea credinței într-un singur Dumnezeu și combaterea idolatriei de orice fel. Însuși numele prorocului, Ilie, prin semnificația lui, susține această mărturisire: ebraicul „Elijahu” înseamnă „Dumnezeul meu este Iahve” sau „Iahve este Dumnezeu”, cu înțelesul „Singurul Dumnezeu”. În acest sens, prorocul rostește și atenționarea: „Până când veți șchiopăta de amândouă picioarele? Dacă Domnul este Dumnezeu, urmați Lui!” (_III Regi_ 18, 21).
 
 Învățăm să nu fim pasivi când vedem că se face o nedreptate aproapelui nostru. Când Ahab, regele nelegiuit și idolatru, s-a făcut stăpân prin abuz peste via lui Nabot, Ilie l-a înfruntat cu un curaj pe care ar trebui să-l avem și noi în tot atâtea situații similare din zilele noastre.
 
