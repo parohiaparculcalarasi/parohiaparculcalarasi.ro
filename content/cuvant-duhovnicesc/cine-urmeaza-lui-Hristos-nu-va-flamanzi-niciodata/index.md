@@ -1,7 +1,7 @@
 ---
 title: Cine urmează lui Hristos nu va flămânzi niciodată
 date: 2025-08-03T00:00:00Z
-publishDate: 2725-08-03T00:00:00Z
+publishDate: 2025-08-03T00:00:00Z
 year: 2025
 month: 2025-08
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Credință, vindecare, mărturisire
 date: 2025-07-27T00:00:00Z
-publishDate: 2725-07-20T00:00:00Z
+publishDate: 2025-07-20T00:00:00Z
 year: 2025
 month: 2025-07
 draft: false

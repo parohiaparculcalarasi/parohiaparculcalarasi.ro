@@ -1,7 +1,7 @@
 ---
 title: În verbul rostit de Hristos se ascunde harul
-date: 2025-09-10T00:00:00Z
-publishDate: 2725-09-10T00:00:00Z
+date: 2025-08-10T00:00:00Z
+publishDate: 2025-08-10T00:00:00Z
 year: 2025
 month: 2025-08
 draft: false
