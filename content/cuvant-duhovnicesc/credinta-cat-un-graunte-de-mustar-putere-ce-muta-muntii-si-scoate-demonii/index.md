@@ -1,7 +1,7 @@
 ---
 title: Credința cât un grăunte de muștar, putere ce mută munții și scoate demonii
-date: 2025-08-17T00:00:00Z
-publishDate: 2025-08-17T00:00:00Z
+date: 2025-08-16T00:00:00Z
+publishDate: 2025-08-16T00:00:00Z
 year: 2025
 month: 2025-08
 draft: false
