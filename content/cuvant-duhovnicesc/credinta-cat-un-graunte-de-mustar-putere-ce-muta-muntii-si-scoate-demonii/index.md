@@ -19,7 +19,7 @@ tags:
 ---
 **Duminica a 10-a după Rusalii (Vindecarea lunaticului)**
 
-> _„În vremea aceea s-a apropiat de Iisus un om, îngenunchind înaintea Lui și zicându-I: Doamne, miluiește pe fiul meu, că este lunatic și pătimește rău, căci adesea cade în foc și adesea în apă. Și l-am adus la ucenicii Tăi, însă ei n-au putut să-l vindece. Iar Iisus, răspunzând, a zis: O, neam necredincios și îndărătnic, până când voi fi cu voi? Până când vă voi răbda pe voi? Aduceți-l aici la Mine! Și Iisus l-a certat și demonul a ieșit din el și copilul s-a vindecat din ceasul acela. Atunci, apropiindu-se ucenicii de Iisus, I-au zis de o parte: De ce noi n-am putut să-l scoatem? Iar Iisus le-a răspuns: Pentru puțina voastră credință. Căci adevărat grăiesc vouă: Dacă veți avea credință cât un grăunte de muștar, veți zice muntelui acestuia: Mută-te de aici dincolo și se va muta; și nimic nu va fi vouă cu neputință. Dar acest neam de diavoli nu iese decât numai cu rugăciune și cu post. Pe când străbăteau Galileea, Iisus le-a spus: Fiul Omului va fi dat în mâinile oamenilor și-L vor omorî, dar a treia zi va învia.”_ (**_Matei_ 17, 14-23**)
+> _„În vremea aceea s-a apropiat de Iisus un om, îngenunchind înaintea Lui și zicându-I: Doamne, miluiește pe fiul meu, că este lunatic și pătimește rău, căci adesea cade în foc și adesea în apă. Și l-am adus la ucenicii Tăi, însă ei n-au putut să-l vindece. Iar Iisus, răspunzând, a zis: O, neam necredincios și îndărătnic, până când voi fi cu voi? Până când vă voi răbda pe voi? Aduceți-l aici la Mine! Și Iisus l-a certat și demonul a ieșit din el și copilul s-a vindecat din ceasul acela. Atunci, apropiindu-se ucenicii de Iisus, I-au zis de o parte: De ce noi n-am putut să-l scoatem? Iar Iisus le-a răspuns: Pentru puțina voastră credință. Căci adevărat grăiesc vouă: Dacă veți avea credință cât un grăunte de muștar, veți zice muntelui acestuia: Mută-te de aici dincolo și se va muta; și nimic nu va fi vouă cu neputință. Dar acest neam de diavoli nu iese decât numai cu rugăciune și cu post. Pe când străbăteau Galileea, Iisus le-a spus: Fiul Omului va fi dat în mâinile oamenilor și-L vor omorî, dar a treia zi va învia.”_ (_Matei_ 17, 14-23**)
 
 Un om disperat, un fiu chinuit și o întrebare tulburătoare: De ce nu am reușit? Evanghelia Duminicii a 10-a după Rusalii (_Matei_ 17:14-23) ne aruncă în mijlocul unei drame umane profunde, unde un tată își aduce fiul bolnav la Hristos, după ce ucenicii Săi nu au putut face nimic. Acest pasaj esențial din Scriptură nu e doar o poveste despre o minune spectaculoasă, ci o lecție fundamentală despre puterea credinței, despre rolul postului și al rugăciunii și despre modul în care suferința se leagă de mântuire.
 
@@ -32,13 +32,13 @@ Disperarea tatălui e sporită de eșecul ucenicilor: _„Și l-am dus la ucenic
 ### Necredința: obstacol în fața lucrării dumnezeiești
 
 Reacția lui Iisus e surprinzătoare și directă: _„O, neam necredincios și îndărătnic, până când voi fi cu voi? Până când vă voi suferi pe voi? Aduceți-l aici la Mine”_ (_Matei_ 17:17). Mustrarea Mântuitorului nu se adresează doar ucenicilor, ci întregului „neam”, simbolizând o stare generală de necredință și împotrivire. Chiar și cei apropiați de Hristos, care au văzut atâtea minuni, pot avea momente de „puțină credință”
-(cf. Matei 14:31).
+(cf. _Matei_ 14:31).
 
 Imediat după mustrare, Hristos acționează cu putere dumnezeiască. _„Și Iisus l-a certat și demonul a ieșit din el și copilul s-a vindecat din ceasul acela”_ (_Matei_ 17:18). Această vindecare instantanee demonstrează autoritatea absolută a lui Hristos asupra oricărei forțe a răului, oricât de înrădăcinată ar fi. Nu e nevoie de ritualuri complicate sau de lupte prelungite, ci doar de Cuvântul Său.
 
 ### Credința, postul și rugăciunea: cheile puterii duhovnicești
 
-Ucenicii, jenați de eșecul lor, vin la Iisus „de o parte” și Îl întreabă: _„De ce noi n-am putut să-l scoatem?”_ _(Matei_ 17:19). Răspunsul lui Hristos e clar și profund: _„Pentru puțina voastră credință. Căci adevărat grăiesc vouă: Dacă veți avea credință în voi cât un grăunte de muștar, veți zice muntelui acestuia: Mută-te de aici dincolo, și se va muta; și nimic nu va fi vouă cu neputință”_ (_Matei_ 17:20).
+Ucenicii, jenați de eșecul lor, vin la Iisus „de o parte” și Îl întreabă: _„De ce noi n-am putut să-l scoatem?”_ (_Matei_ 17:19). Răspunsul lui Hristos e clar și profund: _„Pentru puțina voastră credință. Căci adevărat grăiesc vouă: Dacă veți avea credință în voi cât un grăunte de muștar, veți zice muntelui acestuia: Mută-te de aici dincolo, și se va muta; și nimic nu va fi vouă cu neputință”_ (_Matei_ 17:20).
 
 Această afirmație e una dintre cele mai puternice despre credință. Credința nu e o cantitate, ci o calitate. Nu e vorba de mărimea credinței, ci de prezența ei, chiar și în cea mai mică formă, precum un grăunte de muștar. O credință autentică, sinceră și neșovăielnică are puterea de a muta munți, adică de a face posibil ceea ce pare imposibil în logica omenească. Ea înseamnă încredere totală în puterea lui Dumnezeu, nu în propriile forțe.
 
@@ -46,7 +46,7 @@ Apoi, Iisus adaugă o explicație esențială pentru lupta spirituală: _„Dar 
 
 ### Profeția suferinței și biruința Învierii
 
-Pericopa evanghelică se încheie cu o schimbare bruscă de ton. Pe când străbăteau Galileea, Iisus le vorbește ucenicilor Săi despre propria Sa soartă: _„Fiul Omului va să fie dat în mâinile oamenilor. Și-L vor omorî, dar a treia zi va învia”_ (Matei** 17:22-23). Ucenicii, deși „s-au întristat foarte”, încă nu înțeleg pe deplin sensul jertfei și învierii.
+Pericopa evanghelică se încheie cu o schimbare bruscă de ton. Pe când străbăteau Galileea, Iisus le vorbește ucenicilor Săi despre propria Sa soartă: _„Fiul Omului va să fie dat în mâinile oamenilor. Și-L vor omorî, dar a treia zi va învia”_ (_Matei_ 17:22-23). Ucenicii, deși „s-au întristat foarte”, încă nu înțeleg pe deplin sensul jertfei și învierii.
 
 Această profeție, plasată imediat după vindecarea copilului, nu e întâmplătoare. Ea leagă tema suferinței umane (a copilului chinuit) de suferința supremă a lui Hristos pe cruce și, mai presus de toate, de biruința Sa prin Înviere. Mântuirea nu vine fără jertfă, iar adevărata putere, inclusiv aceea de a scoate demoni sau de a muta munți, izvorăște din participarea la Crucea și Învierea Domnului.
 
