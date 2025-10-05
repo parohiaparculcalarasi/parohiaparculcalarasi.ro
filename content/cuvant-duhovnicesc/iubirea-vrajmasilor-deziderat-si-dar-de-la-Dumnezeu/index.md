@@ -1,6 +1,7 @@
 ---
 title: Iubirea vrăjmașilor, deziderat și dar de la Dumnezeu
 date: 2024-09-29T00:00:00Z
+publishDate: 2024-09-29T00:00:00Z
 year: 2024
 month: 2024-09
 draft: false
@@ -8,13 +9,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-    - ps-siluan--episcopul-ortodox-roman-al-ungariei
+  - ps-siluan--episcopul-ortodox-roman-al-ungariei
 categories:
-    - Cuvânt duhovnicesc
+  - Cuvânt duhovnicesc
 tags:
-    - Evanghelia de Duminică
-    - Duminica a 19-a după Rusalii
-    - Predica de pe munte - Iubirea vrăjmașilor
+  - Evanghelia de Duminică
+  - Duminica a 19-a după Rusalii
+  - Predica de pe munte - Iubirea vrăjmașilor
 ---
 **Duminica a 19-a după Rusalii (Predica de pe munte - Iubirea vrăjmașilor)**
 
