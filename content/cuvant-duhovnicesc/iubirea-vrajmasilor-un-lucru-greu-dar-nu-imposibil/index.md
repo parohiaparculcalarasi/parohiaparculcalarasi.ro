@@ -14,7 +14,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
-  - Duminica a 19-a după Rusali
+  - Duminica a 19-a după Rusalii
   - Predica de pe munte - Iubirea vrăjmașilor
 ---
 **Duminica a 19-a după Rusalii (Predica de pe munte - Iubirea vrăjmașilor)**
