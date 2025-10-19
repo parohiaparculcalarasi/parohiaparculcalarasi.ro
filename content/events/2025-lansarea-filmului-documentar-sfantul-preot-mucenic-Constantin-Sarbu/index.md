@@ -1,8 +1,8 @@
 ---
 title: 'Lansarea filmului documentar „Sfântul preot mucenic Constantin Sârbu”'
-date: 2025-10-22T00:00:00Z
+date: 2025-10-19T00:00:00Z
 year: 2025
-month: 2024-22
+month: 2025-10
 draft: false
 featured: false
 pinned: false
