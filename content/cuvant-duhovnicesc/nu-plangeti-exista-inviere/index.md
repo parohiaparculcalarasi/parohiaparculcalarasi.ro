@@ -45,4 +45,4 @@ Ajuns în casa unde se afla copila decedată, El le spune celor de față, contr
 
 Vindecarea în trup, învierea, mântuirea totală sunt darurile Celui Care ne-a plăsmuit întâi, la începutul lumii, și a doua oară, prin întruparea, Evanghelia, moartea și învierea Sa. Tot ce ne revine nouă, aspiranților la darurile Sale desăvârșite, este să ne „atingem” de El cu inima curată, drept împlinindu-I cuvintele și voia.
 
-{{< gallery images="images/1.jpg",images/2.jpg,images/3.jpg >}}
+{{< gallery images="images/1.jpg,images/2.jpg,images/3.jpg" >}}
