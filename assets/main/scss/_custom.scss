@@ -134,3 +134,24 @@ ul.contact-list {
 .fs-xl {
   font-size: 1.60rem !important;
 }
+
+.pagination {
+  --hbs-pagination-active-border-color: #0d6efd;
+}
+
+.page-link {
+  border: var(--hbs-pagination-border-width) solid var(--hbs-pagination-border-color);
+}
+
+.page-link.active, .active > .page-link {
+  background-color: var(--hbs-primary);
+}
+
+.page-item .page-link {
+  border-color: #fefefe;
+}
+
+.page-link.disabled,
+.disabled>.page-link {
+  border-color: #fefefe;
+}
