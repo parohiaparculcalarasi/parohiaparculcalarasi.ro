@@ -22,9 +22,7 @@ tags:
 
 <br>
 
-***Preacuvioși și Preacucernici Părinți,***
-
-***Iubiți frați și surori în Domnul,***
+***Preacuvioși și Preacucernici Părinți,<br>Iubiți frați și surori în Domnul,***
 
 Prima duminică din Sfântul și Marele Post, numită _Duminica Ortodoxiei_, ne reamintește în fiecare an de încercările și bucuriile prin care a trecut Biserica de-a lungul istoriei pentru păstrarea dreptei credințe și a unității sale dogmatice, canonice și liturgice. În mod deosebit, această duminică ne amintește de ziua de 11 martie 843, când, la Constantinopol, a fost restabilit în mod deplin și definitiv cultul sfintelor icoane, iar biruința împotriva ereziei iconoclaste a fost înțeleasă și ca biruință a dreptei credințe împotriva tuturor ereziilor.
 

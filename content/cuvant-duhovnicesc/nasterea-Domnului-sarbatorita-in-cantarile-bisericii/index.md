@@ -20,9 +20,7 @@ tags:
 
 <br>
 
-***Preacuvioși și Preacucernici Părinți,***
-
-***Iubiți frați și surori în Domnul,***
+***Preacuvioși și Preacucernici Părinți,<br>Iubiți frați și surori în Domnul,***
 
 Nașterea Pruncului Iisus a fost vestită păstorilor de oi din Betleem, noaptea, de către o mulțime mare de îngeri care cântau: _„Slavă întru cei de sus lui Dumnezeu, și pe pământ pace, între oameni bunăvoire!”_ (_Luca_ 2, 14).
 

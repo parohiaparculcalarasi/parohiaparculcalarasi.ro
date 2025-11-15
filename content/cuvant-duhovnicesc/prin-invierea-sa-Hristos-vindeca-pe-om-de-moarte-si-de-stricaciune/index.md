@@ -23,9 +23,7 @@ Hristos a înviat!
 
 <br>
 
-***Preacuvioși și Preacucernici Părinți,***
-
-***Iubiți frați și surori în Domnul<a id="note_1" href="#note_def_1" class="ppc-note"><sup>1</sup></a>,***
+***Preacuvioși și Preacucernici Părinți,<br>Iubiți frați și surori în Domnul<a id="note_1" href="#note_def_1" class="ppc-note"><sup>1</sup></a>,***
 
 În fiecare an, Biserica Ortodoxă Română tratează duhovnicește, teologic și filantropic una dintre temele pe care le consideră prioritare în pastorație. Dacă anul trecut în centrul preocupărilor noastre misionare și cultural-sociale a fost pastorația persoanelor vârstnice, este firesc ca anul acesta să continuăm lucrarea aceasta, aprofundând tot mai mult, în cuvânt și faptă, pastorația și îngrijirea bolnavilor. În acest sens, Sfântul Sinod al Bisericii Ortodoxe Române a proclamat anul 2024 drept _Anul omagial al pastorației și îngrijirii bolnavilor și Anul comemorativ al tuturor Sfinților tămăduitori fără de arginți (fără plată)._
 

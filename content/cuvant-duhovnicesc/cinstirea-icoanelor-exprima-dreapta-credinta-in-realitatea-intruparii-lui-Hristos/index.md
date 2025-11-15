@@ -22,9 +22,7 @@ tags:
 
 <br>
 
-***Preacuvioși și Preacucernici Părinți,***
-
-***Iubiți frați și surori în Domnul,***
+***Preacuvioși și Preacucernici Părinți,<br>Iubiți frați și surori în Domnul,***
 
 Dumnezeiasca Scriptură ne învață că Sfânta noastră Biserică este _„trupul lui Hristos, plinirea Celui ce plinește toate întru toți”_ (_Efeseni_ 1, 23). Biserica, având cap pe Mântuitorul Iisus Hristos (_Efeseni_ 1, 22), continuă în lume, prin prezența Duhului Sfânt, lucrarea mântuitoare a lui Hristos, propovăduind cuvântul Lui, împărtășind harul dumnezeiesc, conducând spre Împărăția lui Dumnezeu pe toți cei care cred, se botează în numele Sfintei Treimi și Îi urmează Lui.
 

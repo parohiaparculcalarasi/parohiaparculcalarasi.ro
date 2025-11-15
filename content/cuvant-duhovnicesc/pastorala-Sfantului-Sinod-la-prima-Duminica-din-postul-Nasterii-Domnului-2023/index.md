@@ -24,9 +24,7 @@ tags:
 
 <br>
 
-***Preacuvioși și Preacucernici Părinți,*** 
-
-***Iubiți frați și surori în Domnul,***
+***Preacuvioși și Preacucernici Părinți,<br>Iubiți frați și surori în Domnul,***
 
 Urmând o frumoasă rânduială statornicită în anul 2008, Sfântul Sinod al Bisericii Ortodoxe Române a proclamat anul 2023, în Patriarhia Română, ca ***Anul omagial al pastorației persoanelor vârstnice și Anul comemorativ al imnografilor și cântăreților bisericești***, îndemnându-ne, astfel, să reflectăm asupra grijii pe care Biserica o are față de toate generațiile, deci inclusiv față de bătrâni.
 
