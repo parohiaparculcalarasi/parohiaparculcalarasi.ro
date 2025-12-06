@@ -1,6 +1,7 @@
 ---
 title: Redresarea omului începe cu credința
 date: 2025-12-07T00:00:00Z
+publishDate: 2025-12-07T00:00:00Z
 year: 2025
 month: 2025-12
 draft: false
