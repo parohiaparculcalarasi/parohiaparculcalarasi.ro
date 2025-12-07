@@ -9,7 +9,8 @@ pinned: false
 authors:
 categories:
   - Evenimente
-#tags:
+tags:
+  - TRoNoS
 ---
 Concert realizat la Biserica „Sfinții Împărați Constantin și Elena” și „Sfânta Cuvioasă Parascheva”  
 
