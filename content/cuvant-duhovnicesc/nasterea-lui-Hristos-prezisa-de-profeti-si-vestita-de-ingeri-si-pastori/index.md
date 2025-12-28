@@ -15,7 +15,7 @@ categories:
 tags:
   - Pastorala Sinodală
 ---
-**- Pastorală de Crăciun -**
+**<p style="text-align: center;">Pastorală de Crăciun</p>**
 
 > _„Cerul și pământul astăzi, după proroci, să se veselească; îngerii cu oamenii duhovnicește să prăznuiască: Dumnezeu în trup S-a arătat celor ce ședeau în întuneric și în umbră, născându-Se din Fecioara […]”_<a id="note_1" href="#note_def_1" class="ppc-note"><sup>1</sup></a>
 
