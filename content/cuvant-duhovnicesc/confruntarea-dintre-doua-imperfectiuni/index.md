@@ -14,7 +14,7 @@ categories:
   - Cuvânt duhovnicesc
 tags:
   - Evanghelia de Duminică
-  - Duminica a 33-a după Pogorârea Duhului Sfânt
+  - Duminica a 33-a după Rusalii
   - Duminica Vameșului și a Fariseului
 ---
 **Duminica a 33-a după Pogorârea Duhului Sfânt (a Vameșului și a Fariseului)**
