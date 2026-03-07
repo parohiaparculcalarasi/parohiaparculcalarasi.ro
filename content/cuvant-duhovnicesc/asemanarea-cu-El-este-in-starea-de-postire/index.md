@@ -15,7 +15,7 @@ categories:
 tags:
     - Evanghelia de Duminică
     - Duminica a 2-a din Postul Mare
-    - Duminica Sfântului Grigorie Palama) Marcu 2, 1-1
+    - Duminica Sfântului Grigorie Palama
 ---
 **Duminica a 2-a din Postul Mare (a Sfântului Grigorie Palama)**
 
