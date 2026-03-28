@@ -15,7 +15,7 @@ categories:
 tags:
     - Evanghelia de Duminică
     - Duminica a 5-a din post
-    - Duminica Cuvioasei Maria Egipteanca
+    - Duminica Sfintei Cuvioase Maria Egipteanca
 ---
 **Duminica a 5-a din post (a Cuvioasei Maria Egipteanca)**
 
