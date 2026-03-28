@@ -14,7 +14,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
-    - Duminica a 5-a din post
+    - Duminica a 5-a din Postul Mare
     - Duminica Sfintei Cuvioase Maria Egipteanca
 ---
 **Duminica a 5-a din post (a Cuvioasei Maria Egipteanca)**
