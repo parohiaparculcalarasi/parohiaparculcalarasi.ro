@@ -6,7 +6,7 @@ year: 2026
 month: 2026-03
 draft: false
 featured: false
-pinned: true
+pinned: false
 authors:
 categories:
   - Evenimente
