@@ -53,4 +53,4 @@ Sărbătoarea aceasta, a Floriilor, ne regăsește pe toți, cu siguranță, cu 
 
 Suntem încurajați astăzi să ne angajăm în urmarea lui Hristos pe drumul ce se deschide în Duminica Floriilor, pentru ca să ne încărcăm cu puterea rugăciunii și a Crucii, întru bucuria Învierii Sale.
 
-{{< gallery images="images/1.jpg" >}}
+{{< gallery images="images/1.jpg,images/2.jpg,images/3.jpg,images/4.jpg" >}}
