@@ -14,7 +14,7 @@ categories:
 tags:
   - Evanghelia de Duminică
   - Duminica a 3-a după Paști
-  - Duminica a Mironosițelor
+  - Duminica Mironosițelor
 ---
 **Duminica a 3-a după Paști (a Mironosițelor)**
 
