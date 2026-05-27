@@ -23,7 +23,7 @@ categories:
 
 Iosif cel preafrumos – fiul cel mai mic al patriarhului Iacov, născut din Rahila – preînchipuie pe Hristos pentru că, asemenea lui și Domnul nostru a fost invidiat de iudei, a fost vândut de ucenicul său cu treizeci de arginți, a fost închis în groapa întunecoasă a mormântului. Înviind din mormânt a treia zi, împărățește peste Egipt, adică peste tot păcatul, îl învinge cu puterea Sa dumnezeiască și, ca un iubitor de oameni, ne răscumpără prin darea hranei celei de taină, dându-Se pe Sine pentru noi și ne hrănește cu pâine cerească. 
 
-Tot în această zi se face pomenirea smochinului cel neroditor care s-a uscat prin blestemul Domnului (Matei 21, 17-19), ca să convingă poporul iudeu, nerecunoscător, că are putere și spre a pedepsi. Ca un Bun, nu vrea să își arate puterea Sa de a pedepsi pe om, ci pedepsește ceva care are o fire neînsuflețită și nesimțitoare. 
+Tot în această zi se face pomenirea smochinului cel neroditor care s-a uscat prin blestemul Domnului (_Matei_ 21, 17-19), ca să convingă poporul iudeu, nerecunoscător, că are putere și spre a pedepsi. Ca un Bun, nu vrea să își arate puterea Sa de a pedepsi pe om, ci pedepsește ceva care are o fire neînsuflețită și nesimțitoare. 
 
 Istoria smochinului a fost așezată aici spre a îndemna la umilință, după cum istoria lui Iosif a fost așezată spre a ne înfățișa pe Hristos. Fiecare om lipsit de orice roadă duhovnicească este asemenea smochinului cel neroditor. Dacă Domnul nu găsește în el roade de mântuire, a doua zi, adică după viața aceasta de acum, îl usucă prin blestem și îl trimite în focul cel veșnic. 
 
@@ -31,7 +31,7 @@ Istoria smochinului a fost așezată aici spre a îndemna la umilință, după c
 
 # Sfânta și Marea Marți 
 
-Această zi ne pregătește pentru intrarea în cămara Mântuitorului cu două parabole strict eshatologice – parabola celor zece fecioare (Matei 25, 1-13) și parabola talanților (Matei 25, 14-30; Luca 19, 12-27). 
+Această zi ne pregătește pentru intrarea în cămara Mântuitorului cu două parabole strict eshatologice – parabola celor zece fecioare (_Matei_ 25, 1-13) și parabola talanților (_Matei_ 25, 14-30; _Luca_ 19, 12-27). 
 
 Când Domnul se suia la Ierusalim și se ducea spre pătimire, a spus ucenicilor Săi și aceste două parabole, pentru ca nu cumva cineva trăind într-o virtute (feciorie) să nu se îngrijească și de celelalte virtuți și mai ales de milostenie, prin care se arată în mod strălucit fecioria. 
 
@@ -45,11 +45,11 @@ Dacă vom săvârși o singură virtute, cea mai mare chiar, dar nu ne vom îngr
 
 # Sfânta și Marea Miercuri 
 
-În această zi se face pomenirea femeii celei păcătoase (Matei 25, 17-13; Luca 7, 37-50), care a uns cu mir pe Domnul, pentru că fapta aceasta s-a întâmplat puțin înainte de mântuitoarea pătimire. 
+În această zi se face pomenirea femeii celei păcătoase (_Matei_ 25, 17-13; _Luca_ 7, 37-50), care a uns cu mir pe Domnul, pentru că fapta aceasta s-a întâmplat puțin înainte de mântuitoarea pătimire. 
 
 Când Iisus s-a suit în Ierusalim și era în casa lui Simon cel lepros, o femeie păcătoasă s-a apropiat de El și a turnat pe capul Lui acel mir de mare preț. Pomenirea ei se face în această zi pentru că, după cuvântul Mântuitorului, să se predice pretutindeni și tuturor fapta ei făcută cu multă dragoste. Ce-a îndemnat-o oare la asta? Dragostea pe care ea a văzut că Hristos o are pentru toți, dar mai cu seamă faptul de acum, când L-a văzut că intră în casa unui lepros. Se gândea, deci, femeia că îi va vindeca sufletul după cum l-a vindecat și pe acela. Și, într-adevăr, Hristos a tămăduit-o dându-i iertare de păcate. 
 
-> _„Doamne femeia ce căzuse în păcate multe, simțind dumnezeirea Ta, luând rânduială de mironosiță și tânguindu-se a adus Ție mir mai înainte de îngropare…” (**Casiana monahia**)_ 
+> _„Doamne, femeia ce căzuse în păcate multe, simțind dumnezeirea Ta, luând rânduială de mironosiță și tânguindu-se a adus Ție mir mai înainte de îngropare…” (**Casiana monahia**)_ 
 
 # Sfânta și Marea Joi 
 
@@ -57,9 +57,9 @@ Când Iisus s-a suit în Ierusalim și era în casa lui Simon cel lepros, o feme
 
 Patru lucruri se prăznuiesc în această zi: Spălarea picioarelor, Cina cea de Taină, Rugăciunea din Grădina Ghetsimani și Vânzarea și prinderea Domnului. 
 
-Înainte de a începe Cina, Hristos S-a sculat, Și-a dezbrăcat hainele, s-a încins cu un ștergar și a spălat picioarele ucenicilor. Prin aceasta a vrut să îl facă pe Iuda să se rușineze, iar celorlalți să le aducă aminte faptul că nu trebuie să umble după întâietăți: _„Cel care vrea să fie întâiul, să fie slujitorul tuturor”_ (Marcu 9, 35), dându-Se pe Sine pildă. La sfârșitul mesei pomenește și de vânzarea Lui. După puțin timp, luând pâinea a zis: _„Luați, mâncați, acesta este Trupul Meu”_; la fel și paharul, zicând: _„Beți dintru acesta toți, acesta este Sângele Meu, al Legii celei Noi. Aceasta să o faceți întru pomenirea Mea”_! (Matei 26, 26-28). În acest fel, Mântuitorul Hristos a instituit Taina Sfintei Euharistii. 
+Înainte de a începe Cina, Hristos S-a sculat, Și-a dezbrăcat hainele, s-a încins cu un ștergar și a spălat picioarele ucenicilor. Prin aceasta a vrut să îl facă pe Iuda să se rușineze, iar celorlalți să le aducă aminte faptul că nu trebuie să umble după întâietăți: _„Cel care vrea să fie întâiul, să fie slujitorul tuturor”_ (_Marcu_ 9, 35), dându-Se pe Sine pildă. La sfârșitul mesei pomenește și de vânzarea Lui. După puțin timp, luând pâinea a zis: _„Luați, mâncați, acesta este Trupul Meu”_; la fel și paharul, zicând: _„Beți dintru acesta toți, acesta este Sângele Meu, al Legii celei Noi. Aceasta să o faceți întru pomenirea Mea”_! (_Matei_ 26, 26-28). În acest fel, Mântuitorul Hristos a instituit Taina Sfintei Euharistii. 
 
-După aceea, arătându-Se om și știind cele ce aveau să urmeze, le spune ucenicilor: _„Întristat este sufletul meu până la moarte”_ (Matei 26, 38) și S-a rugat în Grădina Ghetsimani cu sudoare de sânge (Luca 22, 44). Iuda cunoștea locul și, luând câțiva soldați, a venit să-L prindă. A fost prins și dus la Ana, la Caiafa și, în cele din urmă, la Pilat care, la presiunea iudeilor, L-a judecat și osândit dându-L să fie răstignit. 
+După aceea, arătându-Se om și știind cele ce aveau să urmeze, le spune ucenicilor: _„Întristat este sufletul meu până la moarte”_ (_Matei_ 26, 38) și S-a rugat în Grădina Ghetsimani cu sudoare de sânge (_Luca_ 22, 44). Iuda cunoștea locul și, luând câțiva soldați, a venit să-L prindă. A fost prins și dus la Ana, la Caiafa și, în cele din urmă, la Pilat care, la presiunea iudeilor, L-a judecat și osândit dându-L să fie răstignit. 
 
 Acum Petru s-a lepădat de trei ori de Hristos, tăgăduind că-L cunoaște. Pentru a ne reaminti de toate acestea, seara se scoate în mijlocul bisericii Sfânta Cruce. 
 
@@ -71,7 +71,7 @@ Acum Petru s-a lepădat de trei ori de Hristos, tăgăduind că-L cunoaște. Pen
 
 Biserica numește Pătimirile Domnului: Sfinte – pentru că Cel ce le-a răbdat este Sfântul Sfinților, sfințenia însăși; mântuitoare – pentru că ele sunt prețul cu care Domnul a răscumpărat neamul omenesc din robia păcatului; înfricoșătoare – pentru că nu poate fi ceva mai înfricoșător decât ocara pe care Făcătorul a răbdat-o de la făptura Sa. 
 
-În această zi nu se săvârșește Sfânta Liturghie, pentru că Însuși Mielul lui Dumnezeu este jertfit acum; este vreme de post total, pentru că Mirele a fost luat de la noi. (Matei 9, 15) Se fac numai ceasurile împărătești care ne pun înainte nemărginita smerenie a Domnului, Crucea cea dătătoare de viață și credința tâlharului. 
+În această zi nu se săvârșește Sfânta Liturghie, pentru că Însuși Mielul lui Dumnezeu este jertfit acum; este vreme de post total, pentru că Mirele a fost luat de la noi. (_Matei_ 9, 15) Se fac numai ceasurile împărătești care ne pun înainte nemărginita smerenie a Domnului, Crucea cea dătătoare de viață și credința tâlharului. 
 
 Seara se săvârșește Denia Prohodului Domnului, care este ultima treaptă a tânguirii pentru Hristos, înainte de Învierea Sa. Se înconjoară biserica cu Sfântul Epitaf de trei ori – semn al celor trei zile petrecute de Mântuitorul în mormânt. 
 
