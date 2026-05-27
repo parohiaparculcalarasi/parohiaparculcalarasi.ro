@@ -59,7 +59,7 @@ Patru lucruri se prăznuiesc în această zi: Spălarea picioarelor, Cina cea de
 
 Înainte de a începe Cina, Hristos S-a sculat, Și-a dezbrăcat hainele, s-a încins cu un ștergar și a spălat picioarele ucenicilor. Prin aceasta a vrut să îl facă pe Iuda să se rușineze, iar celorlalți să le aducă aminte faptul că nu trebuie să umble după întâietăți: _„Cel care vrea să fie întâiul, să fie slujitorul tuturor”_ (_Marcu_ 9, 35), dându-Se pe Sine pildă. La sfârșitul mesei pomenește și de vânzarea Lui. După puțin timp, luând pâinea a zis: _„Luați, mâncați, acesta este Trupul Meu”_; la fel și paharul, zicând: _„Beți dintru acesta toți, acesta este Sângele Meu, al Legii celei Noi. Aceasta să o faceți întru pomenirea Mea”_! (_Matei_ 26, 26-28). În acest fel, Mântuitorul Hristos a instituit Taina Sfintei Euharistii. 
 
-După aceea, arătându-Se om și știind cele ce aveau să urmeze, le spune ucenicilor: _„Întristat este sufletul meu până la moarte”_ (_Matei_ 26, 38) și S-a rugat în Grădina Ghetsimani cu sudoare de sânge (_Luca_ 22, 44). Iuda cunoștea locul și, luând câțiva soldați, a venit să-L prindă. A fost prins și dus la Ana, la Caiafa și, în cele din urmă, la Pilat care, la presiunea iudeilor, L-a judecat și osândit dându-L să fie răstignit. 
+După aceea, arătându-Se om și știind cele ce aveau să urmeze, le spune ucenicilor: _„Întristat este sufletul meu până la moarte”_ (_Matei_ 26, 38) și S-a rugat în Grădina Ghetsimani cu sudoare de sânge (_Luca_ 22, 44). Iuda cunoștea locul și, luând câțiva soldați, a venit să-L prindă. A fost prins și dus la Ana, la Caiafa și, în cele din urmă, la Pilat care, la presiunea iudeilor, L-a judecat și osândit, dându-L să fie răstignit. 
 
 Acum Petru s-a lepădat de trei ori de Hristos, tăgăduind că-L cunoaște. Pentru a ne reaminti de toate acestea, seara se scoate în mijlocul bisericii Sfânta Cruce. 
 
@@ -85,7 +85,7 @@ Iosif cel din Arimateea, coborând de pe cruce Sfântul Trup al Domnului, L-a î
 
 > _„Iosif cel cu bun chip, de pe lemn luând prea curat trupul Tău, cu giulgiu curat înfășurându-L și cu miresme, în mormânt nou îngropându-L, L-a pus”. (**Tropar**)_ 
 
-Cuvântul lui Dumnezeu a stat cu trupul în mormânt iar cu sufletul Lui curat și dumnezeiesc S-a pogorât în iad. Sufletul a fost despărțit prin moarte de trup și L-a dat în mâinile Tatălui. Și-a dat și propriul Său sânge, preț de răscumpărare pentru noi. Trupul Domnului a suferit și despărțirea sufletului de trup, dar nicidecum stricăciunea în înțelesul unei putreziri a trupului. 
+Cuvântul lui Dumnezeu a stat cu trupul în mormânt, iar cu sufletul Lui curat și dumnezeiesc S-a pogorât în iad. Sufletul a fost despărțit prin moarte de trup și L-a dat în mâinile Tatălui. Și-a dat și propriul Său sânge, preț de răscumpărare pentru noi. Trupul Domnului a suferit și despărțirea sufletului de trup, dar nicidecum stricăciunea în înțelesul unei putreziri a trupului. 
 
 În această zi se săvârșește Liturghia Sfântului Vasile cel Mare unită cu vecernia. 
 
