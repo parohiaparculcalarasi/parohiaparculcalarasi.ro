@@ -8,14 +8,15 @@ featured: false
 pinned: false
 toc: false
 authors:
-    - ps-sofronie--episcopul-oradiei
+  - ps-sofronie--episcopul-oradiei
 categories:
-    - Cuvânt duhovnicesc
+  - Cuvânt duhovnicesc
 tags:
-    - Evanghelia de Duminică
-    - Pogorârea Sfântului Duh
-    - Cincizecimea
-    - Rusaliile
+  - Evanghelia de Duminică
+  - Duminica a 8-a după Paști
+  - Pogorârea Sfântului Duh
+  - Cincizecimea
+  - Rusaliile
 ---
 **Pogorârea Sfântului Duh (Cincizecimea sau Rusaliile)**
 

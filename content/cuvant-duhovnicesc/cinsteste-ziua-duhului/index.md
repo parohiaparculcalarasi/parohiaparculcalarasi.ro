@@ -15,7 +15,9 @@ categories:
 tags:
   - Evanghelia de Duminică
   - Duminica a 8-a după Paști
-  - Pogorârea Sfântului Duh (Cincizecimea sau Rusaliile)
+  - Pogorârea Sfântului Duh
+  - Cincizecimea
+  - Rusaliile
 ---
 **Pogorârea Sfântului Duh (Cincizecimea sau Rusaliile)**
 
