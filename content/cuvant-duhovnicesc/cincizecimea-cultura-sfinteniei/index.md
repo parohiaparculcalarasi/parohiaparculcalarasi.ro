@@ -45,11 +45,11 @@ Dumnezeu este _foc mistuitor_, iar _limbile ca de foc_ arată faptul că Duhul S
 
 _Limbile ca de foc_ arată chipul îndoit al felului în care lucrează propovăduirea Apostolilor, pentru că _focul luminează_, dar și _arde_. Sfinții Părinți arată că Sfântul Evanghelist Luca nu a spus _limbi de foc_, ci _limbi ca de foc_ pentru a sublinia natura necreată a focului.
 
-Limbile de foc au șezut pe capetele Apostolilor, arătându-se prin aceasta _vrednicia lor împărătească_, dar și _unimea harului_.
+Limbile ca de foc au șezut pe capetele Apostolilor, arătându-se prin aceasta _vrednicia lor împărătească_, dar și _unimea harului_.
 
 _„Darurile sunt felurite, dar același Duh. Și felurite slujiri sunt, dar același Domn. Și lucrările sunt felurite, dar este același Dumnezeu, care lucrează toate în toți”_ (_I Cor._ 12, 4-6). „Unimea harului rezultă din faptul că, prin despărțirea lui sub forma limbilor de foc și prin șederea deasupra capetelor Apostolilor, Dumnezeu le-a dat fiecăruia dintre ei harisme diferite, prin care aceștia au ajuns să se completeze reciproc, … formând împreună o unitate, adică Trupul lui Hristos, care este Biserica.”
 
-Limbile de foc sunt energia necreată a lui Dumnezeu, și tocmai de aceea ele au șezut pe capetele Apostolilor ca semn al slavei împărătești. Harul Sfântului Duh este prezent și lucrează _„împărțindu-se nedespărțit și rămânând întreg în împărțire, după chipul razelor soarelui”_.
+Limbile ca de foc sunt energia necreată a lui Dumnezeu, și tocmai de aceea ele au șezut pe capetele Apostolilor ca semn al slavei împărătești. Harul Sfântului Duh este prezent și lucrează _„împărțindu-se nedespărțit și rămânând întreg în împărțire, după chipul razelor soarelui”_.
 
 _„Voi însă ședeți în cetate, până ce vă veți îmbrăca cu putere de sus”_ (_Luca_ 24, 49). Mântuitorul Hristos a spus că ucenicii vor fi îmbrăcați cu _putere de sus_, adică întreaga lor ființă va fi transformată pentru a putea lupta împotriva vrăjmașului. Îmbrăcarea în Sfântul Duh este una lăuntrică: _„Pe toate le dă Duhul Sfânt: izvorăște proorocii, sfințește pe preoți, pe cei necărturari i-a învățat înțelepciune”_ (tropar).
 
