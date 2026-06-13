@@ -54,3 +54,8 @@ params:
       location: București # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
     social:
       email: contact@parohiaparculcalarasi.ro
+
+security:
+  node:
+    permissions:
+      disable: true

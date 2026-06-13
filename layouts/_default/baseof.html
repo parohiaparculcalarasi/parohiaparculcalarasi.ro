@@ -5,7 +5,7 @@
 {{- end }}
 <html class="position-relative" itemscope itemtype="http://schema.org/WebPage" lang="{{ .Lang }}"
   data-bs-theme="{{ $color }}"
-  {{- with $.Site.Language.LanguageDirection }} dir="{{ . }}"{{ end }}
+  {{- with $.Site.Language.Direction }} dir="{{ . }}"{{ end }}
   {{- with $.Site.Params.palette }} data-palette="{{ replace . " " "-" }}"{{ end }}>
   <head>
     {{- partial "assets/init/js" . -}}
