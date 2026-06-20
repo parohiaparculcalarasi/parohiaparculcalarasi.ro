@@ -8,13 +8,14 @@ featured: false
 pinned: false
 toc: false
 authors:
-    - ps-antonie-episcop-de-balti
+  - ps-antonie-episcop-de-balti
 categories:
-    - Cuvânt duhovnicesc
+  - Cuvânt duhovnicesc
 tags:
-    - Evanghelia de Duminică
-    - Duminica a 3-a după Rusalii
-    - Despre grijile vieții
+  - Evanghelia de Duminică
+  - Duminica a 3-a după Rusalii
+  - Duminica Sfinților Athoniți
+  - Despre grijile vieții
 ---
 **Duminica a 3-a după Rusalii (Despre grijile vieții)**
 

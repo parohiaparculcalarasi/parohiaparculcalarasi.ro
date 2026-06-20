@@ -15,7 +15,8 @@ categories:
 tags:
   - Evanghelia de Duminică
   - Duminica a 3-a după Rusalii
-  - Despre grijile vieții 
+  - Duminica Sfinților Athoniți
+  - Despre grijile vieții
 ---
 **Duminica a 3-a după Rusalii (Despre grijile vieții)**
 
