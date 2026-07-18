@@ -1,5 +1,5 @@
 ---
-title: vindecarea-ochilor-vine-dupa-vindecarea-inimii
+title: Vindecarea ochilor vine după vindecarea inimii
 date: 2026-07-19T00:00:00Z
 publishDate: 2026-07-19T00:00:00Z
 year: 2026
