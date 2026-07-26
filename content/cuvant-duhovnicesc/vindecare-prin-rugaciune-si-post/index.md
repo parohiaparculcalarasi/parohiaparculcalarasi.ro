@@ -43,7 +43,7 @@ De reținut și îndemnul Sfântului Ioan Scărarul pentru atunci când suntem s
 
 ### Mintea postitorului se roagă cu trezvie
 
-Cu privire la post, Sfântul Ioan vine cu îndemnuri și descrieri practice, pe înțelesul tuturor, ca, de pildă: „Stăpânește-ți pântecele până nu te stăpânește el și atunci te vei înfrâna cu rușine“ _(XIV_, 14). Acest îndemn ne amintește de remarca realistă a Sfântului Ioan de Kronstadt, des invocată de mulți alți Părinți ai Bisericii: „Trupul este o bună slugă, dar un rău stăpân!”.
+Cu privire la post, Sfântul Ioan vine cu îndemnuri și descrieri practice, pe înțelesul tuturor, ca, de pildă: „Stăpânește-ți pântecele până nu te stăpânește el și atunci te vei înfrâna cu rușine“ (_XIV_, 14). Acest îndemn ne amintește de remarca realistă a Sfântului Ioan de Kronstadt, des invocată de mulți alți Părinți ai Bisericii: „Trupul este o bună slugă, dar un rău stăpân!”.
 
 Merită atenția noastră și această zicere a Sfântului Ioan Scărarul: „Mintea postitorului se roagă cu trezvie!” (_XIV_, 16). În același capitol, Sfântul Părinte face, apoi, un superb elogiu postului: „Postul este o silire a firii și o tăiere împrejur a dulceții gâtlejului, curmarea aprinderii, alungarea gândurilor rele și eliberarea visării, curăția rugăciunii, luminătorul sufletului, paza minții, înmuierea învârtoșării, ușa străpungerii, suspinul smerit, zdrobirea veselă, încetarea multei vorbiri, începutul liniștirii, străjerul ascultării, ușurarea somnului, sănătatea trupului, izvorul nepătimirii, iertarea păcatelor, ușa și desfătarea raiului“ (_XIV_, 31).
 
