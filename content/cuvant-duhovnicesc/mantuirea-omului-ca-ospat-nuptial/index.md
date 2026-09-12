@@ -1,6 +1,7 @@
 ---
 title: Mântuirea omului ca ospăț nupțial  
 date: 2026-09-06T00:00:00Z
+publishDate: 2026-09-06T00:00:00Z
 year: 2026
 month: 2026-09
 draft: false
