@@ -13,6 +13,7 @@ categories:
     - Cuvânt duhovnicesc
 tags:
     - Evanghelia de Duminică
+    - Duminica după Înălțarea Sfintei Cruci
     - Luarea Crucii și urmarea lui Hristos
 ---
 **Evanghelia Duminicii după Înălțarea Cinstitei Cruci (Luarea Crucii și urmarea lui Hristos)**
