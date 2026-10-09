@@ -1,5 +1,5 @@
 ---
-title: Iubirea vrăjmașilor în fapte minunate de la sfinții nou-canonizați  
+title: Suntem pământ bătătorit, dar nu deznădăjduim pentru mântuirea noastră  
 date: 2026-10-11T00:00:00Z
 publishDate: 2026-10-11T00:00:00Z
 year: 2026
