@@ -8,13 +8,13 @@ featured: false
 pinned: false
 toc: false
 authors:
-    - ps-timotei--episcopul-ortodox-roman-al-spaniei-si-portugaliei
+  - ps-timotei--episcopul-ortodox-roman-al-spaniei-si-portugaliei
 categories:
-    - Cuvânt duhovnicesc
+  - Cuvânt duhovnicesc
 tags:
-    - Evanghelia de Duminică
-    - Duminica a 21-a după Rusalii
-    - Pilda semănătorului
+  - Evanghelia de Duminică
+  - Duminica a 21-a după Rusalii
+  - Pilda semănătorului
 ---
 **Duminica a 21-a după Rusalii (Pilda semănătorului)**
 
