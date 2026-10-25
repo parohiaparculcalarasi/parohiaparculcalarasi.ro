@@ -1,0 +1,70 @@
+---
+title: Sfântul Preot Mucenic Constantin Sârbu - ctitor, filantrop și martir pentru Hristos
+date: 2026-10-23T02:00:00Z
+publishDate: 2026-10-23T02:00:00Z
+year: 2026
+month: 2026-10
+draft: false
+featured: false
+pinned: false
+authors:
+  - patriarhul-daniel
+categories:
+  - Evenimente
+tags:
+  - Sfântului Preot Mucenic Constantin Sârbu
+---
+
+Cu inimi smerite și pline de evlavie cinstim astăzi după vrednicie chipul luminos al Sfântului Preot Mucenic Constantin Sârbu, slujitor al Altarului, care a ridicat și a restaurat lăcașuri sfinte, om milostiv care a dăruit pe ascuns ajutoare săracilor și mucenic care a pecetluit cu sângele său mărturisirea lui de credință în perioada regimului comunist din România.
+
+Drumul lui a început sub semnul lipsei. S-a născut la 10 ianuarie 1905, la Cavadinești, în ținutul Dunării de Jos, într-o familie de oameni simpli. Încă din pruncie a rămas fără mamă, iar tatăl, lovit de neputință, nu a mai putut purta grija copilului. A crescut sub ocrotirea bunicii sale Ioana, o femeie simplă, cu viață curată, care a sădit în sufletul său, încă de mic, dragostea de Dumnezeu. Setea lui de carte și de rugăciune a rămas nepotolită în anii copilăriei și ai adolescenței, care au fost marcați de foame, sărăcie și nenumărate umilințe.
+
+Prin activitatea sa duhovnicească, Sfântul Preot Mucenic Constantin Sârbu a fost o binecuvântare revărsată peste sufletele credincioșilor pe care i-a păstorit într-o perioadă foarte grea, atunci când întunericul ateismului comunist căuta să îi înstrăineze pe oameni de Dumnezeu. Exemplul vieții sale fiind o predică vie care a trezit conștiințele contemporanilor, luminându-le calea către Hristos.
+
+### Ctitor de lăcașuri sfinte
+
+Încă de la începutul preoției sale, Sfântul Preot Mucenic Constantin Sârbu a reorganizat _Școala de cântăreți bisericești_ din orașul Huși după modelul unui seminar teologic, a colectat fonduri pentru un sediu nou și a mutat-o din două chilii înghesuite într-o casă închiriată. Lucrarea cea mai vizibilă a acelor ani a fost înființarea unui _azil pentru bătrâni și copii orfani_. Într-un timp scurt a ridicat o clădire impunătoare, cu douăzeci și două de camere, și a început lucrările de _restaurare a unei vechi biserici_.
+
+La București, noua parohie care i-a fost încredințată, „Parcul Călărași”, cuprindea un cartier muncitoresc sărac. Nu avea biserică, nici locuință pentru preot și nici vreun venit pe care să se sprijine. Prin bunăvoința doctorului Victor Gomoiu, întemeietorul și conducătorul Așezămintelor „Regina Elena”, Sfântul Preot Mucenic Constantin Sârbu a primit un loc de slujire la subsolul spitalului și a organizat acolo _un mic paraclis_. A slujit în el doi ani fără nici o plată, până în aprilie 1940, când postul a fost trecut în bugetul Ministerului Cultelor. O credincioasă care l-a cunoscut în acei ani povestește cum bolnavii coborau câteva trepte, îngenuncheau la Altarul din subsol și primeau binecuvântarea părintelui Constantin, apoi mergeau mai liniștiți la vestitul chirurg. În acel paraclis s-a născut dorința zidirii unei biserici închinate Sfinților Împărați Constantin și Elena. În anul 1941, soția sfântului, preoteasa Maria, a trecut la Domnul, fiind bolnavă de cancer, lăsându-i în grijă cele două fiice.
+
+După multe eforturi, piatra de temelie a _bisericii noi_ s-a pus la 28 iulie 1943 de către arhimandritul Melchisedec Dumitriu, delegatul Patriarhului Nicodim Munteanu. Statul a sprijinit șantierul cu bani, materiale și muncitori, iar în anul 1943 zidurile ajunseseră până la cupolă. Evenimentele din august 1944 și bombardamentele militare au întrerupt zidirea, dar lucrările au fost reluate în anul următor (1945). Lăcașul, zidit în vreme de război și sărăcie, a fost sfințit la 17 aprilie 1949, în Duminica Floriilor, de Mitropolitul Nifon Criveanu.
+
+Sfântul Constantin Sârbu a înființat un _cor parohial_, a pregătit concerte religioase cu soliști ai Operei și ai Radioului, a organizat conferințe cu oameni de seamă ai vremii și a deschis _o bibliotecă_ pentru credincioșii dornici de lectură duhovnicească.
+
+A doua mare ctitorie a Sfântului Preot Mucenic Constantin Sârbu s-a înfăptuit după anii petrecuți în închisoare, când nu mai avea nimic, afară de credința sa nestrămutată. Eliberat în 1964, i-a cerut Patriarhului Justinian Marina cea mai săracă biserică a Bucureștilor. Patriarhul, cunoscându-l bine, a spus zâmbind că orice lăcaș i-ar încredința, el îl va preface într-o grădină duhovnicească. Astfel, Patriarhul a hotărât să îi ofere spre slujire _Biserica Sapienței_, fost paraclis al familiei Kretzulescu, în care în trecut slujeau monahi, dar care rămăsese închisă de aproape 40 de ani. Acea biserică era un loc însemnat, pe care Patriarhul Justinian dorea să îl refacă, ținând seama și de faptul că în clădirile din jurul ei se întrunea la începutul secolului al XX-lea Sfântul Sinod al Bisericii Ortodoxe Române.
+
+În acest context, Biserica Sapienței a fost transformată în parohie în anul 1964, fiind încredințată Sfântului Preot Mucenic Constantin Sârbu. Închisă timp de aproape patru decenii, Biserica Sapienței ajunsese o ruină, ploaia intra prin acoperiș, iar zidurile se crăpaseră. Primele nopți le-a petrecut preotul printre dărâmături, pe un preș de cârpe, în vreme ce o cămăruță se înălța în curte pentru adăpostul lui. _El a refăcut lăcașul și clădirile din incintă, piatră cu piatră, dar mai ales a lucrat la zidirea duhovnicească a credincioșilor._
+
+### Filantrop discret și smerit
+
+Sfântul Constantin Sârbu și-a petrecut anii copilăriei și ai adolescenței în lipsuri, foame și sărăcie. A fost argat fără simbrie, a muncit în fabrici și a dormit pe lespezi reci. Mânca la cantina studenților ce rămânea în farfuriile altora, iar bunica lui a vândut singura vițică pentru a-i plăti pregătirea pentru admiterea la seminarul teologic. Cunoscând toate aceste lipsuri, el nu a putut trece nepăsător peste nevoile celor de lângă el, văzând în fiecare om sărac, flămând, însetat, bolnav sau fără haine pe Hristos (cf. Matei 25, 40). De la azilul înălțat la Huși până la sala din subsolul Bisericii „Sfinții Împărați Constantin și Elena” - Vergului, unde în 1951 a deschis _o cantină pentru nevoiași_, orice parohie pe care a păstorit-o a devenit și casă a milosteniei. În anii secetei din 1946-1947, când Moldova suferea de foamete, Sfântul Constantin Sârbu a adunat de la credincioși alimente și haine, le-a încărcat în două vagoane și le-a trimis către satele Dancu și Cârlig, de lângă Iași. Pe cât a fost de vizibilă această faptă, pe atât au fost de ascunse cele mai multe milostenii pe care obișnuia să le facă în mare discreție.
+
+Fiindcă milostenia adevărată se face în taină, Sfântul Constantin Sârbu a ales să fie un făcător de bine neștiut. O ucenică a lui povestește cum, într-o duminică după-amiază, l-a zărit de departe trăgând după sine un cărucior. Sfântul a intrat într-o curte de lângă biserică, a lăsat pachetele în dosul porții, a închis-o în urma lui și a plecat. Mai târziu a aflat că aceasta era rânduiala lui săptămânală, să lase daruri cu discreție la ușile oamenilor săraci. Tot el îi îndemna pe credincioși ca la pomenirile morților să dăruiască alimente alese, ambalate frumos și însoțite de un mic dar. Prinoasele erau duse apoi la cele mai sărace cămine de bătrâni. **Ținea o evidență precisă a persoanelor în vârstă rămase fără pensie și fără sprijin și îi căuta prin tot Bucureștiul, pentru a le trimite ajutoare cu regularitate.** Nu îngăduia cerșetoria la poarta bisericii, dar nu-i lăsa pe nevoiași fără să le dea milostenie. Credincioșii aveau în el încredere deplină, încât dăruiau la fiecare chemare, fără să mai întrebe cum se împart darurile.
+
+Iubirea milostivă a Sfântului Preot Mucenic Constantin Sârbu s-a arătat și asupra călătorilor. El avea o mare evlavie față de monahii din mănăstiri, cu care ținea legături duhovnicești, încurajându-i pe oameni să cerceteze așezămintele monahale. **El avea obiceiul să găzduiască în casa parohială de la Sapienței călugări și maici care se aflau în vizită prin București pentru a-și rezolva unele probleme.** Maicile din Mănăstirea Râmeț, atunci când veneau la București să achiziționeze materia primă necesară pentru confecționarea covoarelor de la atelierul mănăstirii, erau adesea găzduite de Sfântul Constantin Sârbu, care le primea cu multă bucurie. Astfel, poate că nu întâmplător, după mai bine de 50 de ani de la adormirea în Domnul a Sfântului Preot Mucenic Constantin Sârbu, Mănăstirea _Mihai Vodă_, din proximitatea Bisericii Sapienței, a fost reactivată cu maici care au viețuit în Mănăstirea Râmeț.
+
+Milostenia Sfântului Preot Mucenic Constantin Sârbu nu s-a oprit doar la darurile materiale. **Ucenicii lui mărturisesc că la spovedanie el lua asupra sa durerea celuilalt și o purta în rugăciune. Mustrările lui erau făcute cu blândețe, rostite cu căldură părintească, și nu cu asprimea unui judecător. Ușa lui era deschisă pentru toți.**
+
+Taina acestei iubiri milostive statornice stătea în rugăciune. Sfântul Constantin Sârbu se nevoia să rostească neîncetat Rugăciunea lui Iisus și îi îndemna pe ucenici s-o poarte în minte și în inimă, chiar în mijlocul treburilor lumii. **Le spunea mirenilor să se roage neîncetat, pentru că păcatele, dacă nu sunt vegheate cu trezvia inimii, cresc ca buruiana pe un câmp părăsit.** Între rugăciune și faptă exista pentru el o legătură strânsă. De aceea mulți credincioși au simțit că mila lui față de omul aflat în suferință era cea mai puternică predică a vieții sale.
+
+### Martir pentru credința în Hristos
+
+După instaurarea regimului comunist în România, Sfântul Preot Mucenic Constantin Sârbu a fost urmărit. El a fost arestat la 12 ianuarie 1954, sub învinuirea de uneltire împotriva ordinii sociale. La 9 octombrie 1954, un tribunal militar l-a condamnat la opt ani de închisoare, iar recursul i-a fost respins după două luni. Dosarul lui, deschis cu acuzații grele, ascundea de fapt un singur păcat: sfântul slujise prea mult, prea frumos și prea aproape de inima poporului.
+
+A urmat un drum al suferinței al cărui capăt nu se vedea. A trecut prin închisorile de la Jilava, Dej și Gherla și prin lagărele de muncă de la Poarta Albă și Salcia, purtat dintr-un loc în altul, suferind umilințe și bătăi greu de imaginat. Mărturisirile contemporanilor spun că a fost ars cu fier roșu la tălpi și că i s-a smuls barba, în încercarea de a-l face să se lepede de Hristos. Sfântul Constantin Sârbu le-a răspuns anchetatorilor că pot să-i chinuiască trupul cât vor voi, dar sufletul lui va rămâne permanent alături de Hristos. Torturile și înfometarea i-au pricinuit o boală grea de stomac. Când termenul ispășirii pedepsei s-a încheiat, la începutul anului 1962, nu a fost lăsat liber. Autoritățile comuniste i-au fixat domiciliu obligatoriu într-un sat din Bărăgan, la Viișoara. Eliberat în februarie 1964, s-a întors în București cu trupul slăbit, dar cu sufletul neclintit în credință.
+
+Cea mai grea încercare a început însă după eliberare, când Sfântul Constantin Sârbu a putut sluji din nou. Biserica Sapienței a devenit un loc al luminii, dar și o țintă a supravegherii. Cel puțin doi oameni ai Securității erau prezenți la fiecare slujbă. El îi recunoștea de fiecare dată și le vorbea la fel de curajos ca înainte. Era chemat la anchete la trei săptămâni. Într-o zi i s-a cerut să divulge ceea ce auzea la spovedanie. Atunci, Sfântul Preot Mucenic Constantin Sârbu a răspuns cu hotărâre că nu poate sluji la doi stăpâni și că nu va trăda secretul spovedaniei.
+
+Cu arma pe masă, un securist i-a pus în față o alegere: să se omoare singur sau să accepte o operație care să-i aducă sfârșitul. Sfântul Constantin Sârbu a refuzat sinuciderea, ca păcat împotriva darului vieții. A primit în schimb operația ca pe o moarte mucenicească. La 14 octombrie 1975, de sărbătoarea Sfintei Cuvioase Parascheva, el a slujit ultima Sfântă Liturghie. La sfârșit și-a luat rămas-bun de la credincioși. Le-a cerut să nu lase biserica pustie, să nu-l plângă, ci să-și plângă propriile păcate. Și-a lăsat rânduite toate cele pentru înmormântarea sa. Apoi, s-a internat a doua zi la spital, iar operația a avut loc după trei zile. Medicul care îl operase a deschis, după aceea, ușa salonului și a întrebat cum de nu murise încă. Sfântul Constantin Sârbu a cerut cu ultimele puteri un duhovnic, fiind, apoi, spovedit și împărtășit. În ultima noapte, le-a spus celor din jur să nu se întristeze și să nu judece pe nimeni, să se roage pentru el și să-l cheme în rugăciune, căci va veni mereu în ajutorul celor ce îi cer ocrotirea. S-a mutat la Domnul în ziua de 23 octombrie 1975, primind astfel moarte martirică.
+
+Astăzi, la momentul binecuvântat al proclamării locale a canonizării Sfântului Preot Mucenic Constantin Sârbu, dorim să exprimăm aprecierea și prețuirea noastră față de ierarhii, clericii și credincioșii prezenți, care, cu multă dragoste, au venit să îl cinstească pe acest mare mărturisitor al lui Hristos din perioada regimului comunist, care s-a făcut prin viața lui pildă de răbdare în suferință și de iubire față de Domnul Iisus Hristos, pentru Care și-a dat viața, primind cunună de martir.
+
+Ne rugăm Sfântului Preot Mucenic Constantin Sârbu ca, împreună cu Preasfânta Născătoare de Dumnezeu și cu toți sfinții, să mijlocească înaintea Preasfintei Treimi să ne dăruiască tuturor pace și bucurie, sănătate și mântuire.
+
+**<p style="text-align: center;">Președintele Sfântului Sinod al Bisericii Ortodoxe Române</p>**
+
+<p style="text-align: center;"><strong>† DANIEL</strong><br>Patriarhul Bisericii Ortodoxe Române</p>
+
+Mesaj transmis la [proclamarea locală a canonizării](https://ziarullumina.ro/actualitate-religioasa/stiri/proclamarea-locala-a-canonizarii-sfantului-preot-mucenic-constantin-sarbu-210171.html) _Sfântului Preot Mucenic Constantin Sârbu_, vineri, 23 octombrie 2026.
+
+{{< gallery images="images/1.jpg,images/2.jpg,images/3.jpg,images/4.jpg,images/5.jpg,images/6.jpg" >}}
