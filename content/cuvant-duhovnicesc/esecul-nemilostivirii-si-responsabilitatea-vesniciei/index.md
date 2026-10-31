@@ -1,0 +1,52 @@
+---
+title: Eșecul nemilostivirii și responsabilitatea veșniciei  
+date: 2026-11-01T00:00:00Z
+publishDate: 2026-11-01T00:00:00Z
+year: 2026
+month: 2026-11
+draft: false
+featured: false
+pinned: false
+toc: false
+authors:
+  - pr--prof--dr--david-pestroiu
+categories:
+  - Cuvânt duhovnicesc
+tags:
+  - Evanghelia de Duminică
+  - Duminica a 22-a după Rusalii
+  - Pilda bogatului nemilostiv și a săracului Lazăr
+---
+**Duminica a 22-a după Rusalii (Bogatul nemilostiv și săracul Lazăr) Luca 16, 19-31**
+
+> _„Zis-a Domnul: Era un om bogat care se îmbrăca în porfiră și în vison, veselindu-se în toate zilele în chip strălucit. Iar un sărac, anume Lazăr, zăcea înaintea porții lui, plin de bube, poftind să se sature din cele ce cădeau de la masa bogatului; dar și câinii venind, lingeau bubele lui. Și a murit săracul și a fost dus de către îngeri în sânul lui Avraam. A murit și bogatul și a fost înmormântat. Și, în iad, ridicându-și ochii, fiind în chinuri, el a văzut de departe pe Avraam și pe Lazăr în sânul lui. Și el, strigând, a zis: Părinte Avraame, fie-ți milă de mine și trimite pe Lazăr să-și ude vârful degetului în apă și să-mi răcorească limba, căci mă chinuiesc în această văpaie! Dar Avraam a zis: Fiule, adu-ți aminte că tu ai primit cele bune ale tale în viața ta, iar Lazăr, asemenea, pe cele rele; și acum aici el se mângâie, iar tu te chinuiești. Și, peste toate acestea, între noi și voi s-a întărit prăpastie mare, ca aceia care voiesc să treacă de aici la voi să nu poată, nici cei de acolo să treacă la noi. Iar el a zis: Rogu-te, dar, părinte, să-l trimiți în casa tatălui meu, căci am cinci frați, să le spună lor acestea, ca să nu vină și ei în acest loc de chin. Și i-a zis Avraam: Au pe Moise și pe proroci; să asculte de ei. Iar el a zis: Nu, părinte Avraame, ci, dacă cineva dintre morți se va duce la ei, se vor pocăi. Și i-a zis Avraam: Dacă nu ascultă de Moise și de proroci, nu vor crede nici dacă ar învia cineva din morți.”_ (**_Luca_ 16, 19-31**)
+
+Pildele rostite de Mântuitorul Hristos se bazează pe realități imediate pentru a desluși sensurile cele mai profunde ale existenței și, în special, modul în care omul este chemat să se împărtășească veșnic de lumina, iubirea și pacea împărăției lui Dumnezeu. Dar Pilda bogatului nemilostiv și a săracului Lazăr iese oarecum din acest tipar și pătrunde narativ în însăși realitatea vieții viitoare, pe care o descrie profetic, prin analiza destinului celor două personaje centrale.
+
+Viețile lor pământești se împletesc. Pe de o parte bogatul, al cărui nume nici nu este pomenit, fiind descris doar prin permanenta grijă față de propriul trup, căruia îi sunt asigurate veșminte luxoase și mese îmbelșugate. Exilat în propriul său egoism autosuficient, duce o viață exclusiv biologică, refuzând intrarea în comuniune prin experiența iubirii jertfelnice. Practic, este atât de plin de sine, încât nu poate renunța la nimic pentru alții. Deși beneficiază de ritualul funebru, în urma judecății dumnezeiești ajunge în iad, unde trăiește aievea, cu sufletul, drama pedepsei asumate încă de când era viu: însingurarea țintuită în legăturile falsei splendori luciferice, percepută ca o văpaie a ființei întunecate de neiubire.
+
+### Este menționat cu numele pentru a se arăta pomenirea lui în Împărăția cerurilor
+
+La polul opus, deși paradoxal aflat doar la o distanță măsurată de umbra unei mese îmbelșugate - Lazăr. Flămând și bolnav, abandonat și neajutorat, mângâiat doar de dragostea necuvântătoarelor care-i lingeau rănile, simțind la rândul lor atingerea plină de iubire a sufletului său. Este menționat cu numele pentru a se arăta pomenirea lui în Împărăția cerurilor, unde este chemat și așezat cu drepții în _sânul lui Avraam_ - expresia deplinei comuniuni, în vibrația sufletului celui care fusese numit _părinte al multor neamuri_ (_Facerea_ 17, 4), inefabil zugrăvită ca leagăn de ștergar românesc în iconografia Voronețului și a altor mănăstiri moldave.
+
+Aflat în iad, bogatul observă răsplătirea lui Lazăr. Orbit de trufie, chiar și acum e incapabil să-l cheme pe nume, așa cum refuzase o viață întreagă, desconsiderându-l. Îl strigă, însă, pe Avraam, pentru a-i cere lui să-l trimită pe Lazăr să-i domolească suferința. Avraam îi comunică faptul că situația nu poate fi schimbată, fiind consecința unei alegeri libere, validată prin judecată dumnezeiască. Experierea binelui și a răului în viața trupească efemeră este, în mod necesar, echilibrată prin inversarea acestora în veșnicia sufletului. Prăpastia adâncă, de netrecut, reprezintă abisul dintre egoism și comuniune, sugerând, totodată, faptul că exprimarea dreptății dumnezeiești este imuabilă, iar stările sufletelor după moarte nu mai pot fi modificate prin voința lor proprie. La fel, nu mai pot fi influențate deciziile celor rămași pe pământ, așa cum vedem din continuarea dialogului dintre bogat și Avraam. Gândul celui aflat în iad nu era la cei flămânzi și neajutorați, precum Lazăr, ci la cei cinci frați, la fel de bogați și de egoiști ca și el, al căror viitor destin îl intuia a fi similar cu al lui. Răspunsul lui Avraam, și de această dată, întărește învățătura privind pronia lui Dumnezeu: legea divină transmisă prin Moise și prin proroci conține toate preceptele necesare pentru lucrarea propriei desăvârșiri morale. Avertismentul privind faptul că _nu vor crede nici dacă va învia cineva din morți_ anticipează și viitoarele contestări la adresa creștinismului în general, ca religie bazată pe întruparea, moartea și învierea Fiului lui Dumnezeu.
+
+### Să ne întărim credința în existența sufletului omenesc
+
+Pilda pe care am ascultat-o în Sfânta Evanghelie citită astăzi evidențiază câteva învățături de bază ale credinței ortodoxe, intens contestate în vremea noastră de către diverse grupări care se revendică a fi creștine, dar nesocotesc cuvântul Domnului Iisus Hristos. În primul rând, se cuvine să ne întărim credința în existența sufletului omenesc ca entitate spirituală care supraviețuiește morții biologice, având un destin propriu și identitate personală cu conștiință de sine. Ne deosebim, așadar, de animale, care au doar simpla „suflare de viață”, și nu „trecem în neființă” prin moarte, ci continuăm să ființăm cu sufletul nostru. Încă din Vechiul Testament, găsim scris că _după moarte trupul se întoarce în pământ, iar sufletul la Dumnezeu care l-a dat pe el_ (_Ecclesiastul_ 12, 7). Există și grupări religioase de sorginte creștină care susțin neantificarea tuturor oamenilor după moarte și refacerea lor din memoria divină (_cartea de pomenire_ din _Maleahi_ 3, 16), la Parusie. În pildă, însă, sufletele bogatului și lui Lazăr sunt vii, în contextul în care viața în trup a celorlalți oameni se continuă fără ca Parusia să fi venit.
+
+Apoi, Ortodoxia vorbește despre o singură viață de după moarte, cea veșnică, deci nu acceptă sub nici o formă împrumuturile religioase din filosofiile orientale care susțin conceptul de reîncarnare și peregrinarea sufletului prin mai multe vieți, până la atingerea desăvârșirii. Nici bogatul și nici Lazăr nu s-au reîncarnat în alte trupuri, ci au continuat să viețuiască spre veșnicie cu sufletele lor, așteptând învierea cea de obște.
+
+La fel, întâlnim obiecții privitoare la judecarea sufletelor și la așezarea lor în rai sau în iad, promovându-se diverse concepții menite să relativizeze aceste învățături de bază ale credinței noastre ortodoxe. Pilda de astăzi este menită, o dată în plus, să risipească aceste confuzii și să ne întărească în credință.
+
+### Conștientizarea sfârșitului vieții pământești reprezintă un prilej de sporire a acuității duhovnicești
+
+Învățătura Bisericii noastre despre suflet, moarte, viața veșnică, rai și iad nu trebuie să ne înfricoșeze, ci să ne responsabilizeze. Sfântul Ioan Gură de Aur, Sfântul Ioan Scărarul, Sfântul Antonie cel Mare sau Avva Pimen din Pateric sunt doar câteva nume celebre care indică pomenirea morții ca instrument al pocăinței și al trezviei. Cu alte cuvinte, conștientizarea sfârșitului vieții pământești reprezintă un prilej de sporire a acuității duhovnicești, de creștere în virtute și de agonisire a _comorii din ceruri_ (_Luca_ 12, 33), asemeni lui Lazăr, iar nu a bunurilor pământești trecătoare, precum bogatul cel nemilostiv.
+
+Astăzi, observăm, din nefericire, faptul că tipologia umană a bogatului din pildă a devenit proprie unor largi categorii de persoane care și-au pierdut sensul comunional al existenței, valorizând exclusiv emanciparea egoistă a sinelui. Multe dintre mediile sociale se configurează ca adunări ale acestor individualități care pun preț doar pe vanități luciferice și consumul neobosit de materie. Din personaje biblice, bogatul și frații săi au devenit arhetipuri pentru colectivități umane ale lumii de azi, care trăiesc asemenea lor, fără nici o responsabilitate asupra veșniciei. Porfira și visonul de altădată definesc coordonatele luxului zilelor noastre, iar mesele îmbelșugate se perpetuează în sfidătoarea risipă a resurselor pentru alimentarea traiului hedonist. La rândul său, Lazăr continuă să imprime chipul sărăciei și al suferinței asupra multor semeni ai noștri, bătrâni, bolnavi și neputincioși, așteptând în zadar măcar firimiturile iubirii care întârzie să li se arate.
+
+Cuvintele Evangheliei mântuitoare a Domnului Hristos ne îndeamnă să fim milostivi. Bogatului nu i se mai știe nici numele pentru că, asemeni fecioarelor neînțelepte, nu și-a agonisit în candela sufletului untdelemnul faptelor bune, auzind de la Dumnezeu același mesaj: _Nu vă cunosc pe voi_ (_Matei_ 25, 12). Dacă ne amintim de spusele Sfântului Grigorie Teologul, precum că „nimic nu îi este mai propriu lui Dumnezeu decât mila” (_Cuvântarea XIV - Despre iubirea săracilor_, PG 35, 858-910), și dacă recitim și textul evanghelic în care Hristos - Dreptul Judecător - Se identifică pe Sine cu toți cei defavorizați (_Matei_ 25, 31-46), vom înțelege cauza destinului nefericit al bogatului nemilostiv și răsplătirea lui Lazăr.
+
+Călăuziți așadar astfel, suntem chemați să schimbăm ospețele opulenței, desfrâului și nemilostivirii cu Cina euharistică a Dumnezeieștii Liturghii, unde Însuși Hristos se oferă ca merinde duhovnicească pentru vindecarea sufletelor și a trupurilor flămânde și însetate după comuniunea agapică a Preasfintei Treimi.
+
+{{< gallery images="images/1.jpg,images/2.jpg" >}}

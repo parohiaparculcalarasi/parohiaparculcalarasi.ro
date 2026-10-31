@@ -15,7 +15,7 @@ categories:
 tags:
   - Evanghelia de Duminică
   - Duminica a 22-a după Rusalii
-  - Bogatul nemilostiv și săracul Lazăr 
+  - Pilda bogatului nemilostiv și a săracului Lazăr
 ---
 **Duminica a 22-a după Rusalii (Bogatul nemilostiv și săracul Lazăr)**
 
